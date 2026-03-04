@@ -1,0 +1,12 @@
+{
+  "name": "fetch-replay",
+  "version": "1.0.0",
+  "description": "获取回放数据并生成 replay.json",
+  "main": "fetch-replay.js",
+  "scripts": {
+    "start": "node fetch-replay.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
