@@ -174,6 +174,8 @@ async function main() {
 
     if (nodes.length > 0) {
       match.nodes = nodes;
+      // 无论哪种模式，最终输出前删除 recordingCount 字段
+      delete match.recordingCount;
       finalMatches.push(match);
     }
   }
