@@ -120,7 +120,9 @@ async function main() {
       pkInfoTitle,
       modifyTitle: '',
       presenters: '',
-      matchInfo: { time: datetime }
+      matchInfo: { time: datetime },
+      // 保存 recording_count 供后续使用
+      recordingCount: item.recording_count || 0
     });
   }
 
@@ -129,29 +131,51 @@ async function main() {
   // 第二步：获取详细回放
   const finalMatches = [];
   for (const match of matchesBase) {
-    const detailUrl = `https://kafeizhibo.com/api/v1/match/${match.mgdbId}/recordings`;
-    const detailHeaders = {
-      'sec-ch-ua-platform': '"Windows"',
-      'Referer': `https://kafeizhibo.com/pc/recording/${match.mgdbId}`,
-      'User-Agent': 'Mozilla/5.0...',
-      'sec-ch-ua': '...',
-      'sec-ch-ua-mobile': '?0'
-    };
+    let nodes = [];
 
-    const detailData = await fetchJson(detailUrl, detailHeaders);
-    if (!detailData || detailData.code !== 200 || !detailData.data?.replays?.length) continue;
+    if (days === 1) {
+      // today 模式：请求详情接口获取真实播放地址
+      const detailUrl = `https://kafeizhibo.com/api/v1/match/${match.mgdbId}/recordings`;
+      const detailHeaders = {
+        'sec-ch-ua-platform': '"Windows"',
+        'Referer': `https://kafeizhibo.com/pc/recording/${match.mgdbId}`,
+        'User-Agent': 'Mozilla/5.0...',
+        'sec-ch-ua': '...',
+        'sec-ch-ua-mobile': '?0'
+      };
 
-    const nodes = [];
-    let idx = 1;
-    for (const replay of detailData.data.replays) {
-      nodes.push({
-        name: `${replay.title}(${numberToChinese(idx)})`,
-        url: [replay.video_url]
-      });
-      idx++;
+      const detailData = await fetchJson(detailUrl, detailHeaders);
+      if (!detailData || detailData.code !== 200 || !detailData.data?.replays?.length) continue;
+
+      let idx = 1;
+      for (const replay of detailData.data.replays) {
+        nodes.push({
+          name: `${replay.title}(${numberToChinese(idx)})`,
+          url: [replay.video_url]
+        });
+        idx++;
+      }
+    } else {
+      // all 模式：根据 recording_count 生成固定格式的节点
+      const count = match.recordingCount;
+      if (count > 0) {
+        // 固定名称数组
+        const nameTemplates = ['高清回放', '超清中文', '超清外语'];
+        for (let i = 0; i < Math.min(count, 3); i++) {
+          nodes.push({
+            name: `${nameTemplates[i]}(${numberToChinese(i + 1)})`,
+            url: [`https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=${match.mgdbId}&${i}`]
+          });
+        }
+      } else {
+        continue; // 没有回放，跳过该比赛
+      }
     }
-    match.nodes = nodes;
-    finalMatches.push(match);
+
+    if (nodes.length > 0) {
+      match.nodes = nodes;
+      finalMatches.push(match);
+    }
   }
 
   console.log(`最终比赛数量: ${finalMatches.length}`);
