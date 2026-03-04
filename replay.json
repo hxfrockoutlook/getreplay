@@ -1,9 +1,391 @@
 [
   {
+    "mgdbId": 4594,
+    "pID": "255440b9cd637a0b2b1f027bca1c7863",
+    "title": "中NBL 92:97",
+    "keyword": "03月04日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "中NBL",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/62ed9d90c3d030310c6316a001f302dd.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "贵州猛龙VS山东蜜獾",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4594_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4590,
+    "pID": "dc4345617f3854faca83c7f41157298b",
+    "title": "NBA 103:114",
+    "keyword": "03月04日12:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "国王VS太阳",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日12:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4590_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4590_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4590_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4589,
+    "pID": "5e75bd39ad9aa135f5bb21d4c620c31c",
+    "title": "NBA 110:101",
+    "keyword": "03月04日11:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "湖人VS鹈鹕",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日11:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4589_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4589_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4589_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4586,
+    "pID": "34b7852223d070daa99ace2dc5ac6b19",
+    "title": "NBA 108:116",
+    "keyword": "03月04日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "公牛VS雷霆",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4586_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4587,
+    "pID": "ebe7398dabb7f10ee706758190cf2896",
+    "title": "NBA 117:110",
+    "keyword": "03月04日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "森林狼VS灰熊",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4587_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4587_1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4588,
+    "pID": "c8d15d0b95e87c4f00cfe66738ebbde9",
+    "title": "NBA 91:131",
+    "keyword": "03月04日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "76人VS马刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4588_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4588_1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4584,
+    "pID": "f1e75c94ba1ebb2275240059cecca437",
+    "title": "NBA 124:98",
+    "keyword": "03月04日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "热火VS篮网",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4584_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4584_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4584_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4585,
+    "pID": "618b957194200ffe4b6b5f23a94a713d",
+    "title": "NBA 95:111",
+    "keyword": "03月04日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "猛龙VS尼克斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4585_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4585_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4585_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4581,
+    "pID": "61c1fbb15af7e67c0de1543a9b3120a8",
+    "title": "NBA 113:109",
+    "keyword": "03月04日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "骑士VS活塞",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4581_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4581_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4581_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4582,
+    "pID": "7b3ab505b42ace8dbba9ea00f99302dd",
+    "title": "NBA 126:109",
+    "keyword": "03月04日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "魔术VS奇才",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4582_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4582_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4582_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4583,
+    "pID": "079ac428dccdd4a9f6dd379c844d2484",
+    "title": "NBA 117:90",
+    "keyword": "03月04日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e52f6ac53681289c91703501a960cb3c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "黄蜂VS独行侠",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月04日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4583_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4583_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4583_2"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 4501,
-    "pID": "8bfdfb0cd78521de43fdc2c04ed40a46",
+    "pID": "e29527aac27b5351c5d70a413a010f9a",
     "title": "英超 2:1",
-    "keyword": "3月4日04:15",
+    "keyword": "03月04日04:15",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -14,34 +396,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月4日04:15"
+      "time": "03月04日04:15"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/401450ac5145403718735179791/playlist_eof.m3u8?t=69a7d491&us=86838268f1&sign=bf467cf640880370acc489d049740643"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4501_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3f6c01b95145403718932024181/playlist_eof.m3u8?t=69a7d491&us=86838268f1&sign=bd63b1ab04ad5f44d9b76ea233552f65"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4501_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/147a78255145403718819356406/playlist_eof.m3u8?t=69a7d491&us=86838268f1&sign=673e110c04ae43da05c19ab2119e2689"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4501_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4509,
-    "pID": "410990198c07e5684cc4da5ad1ef5bdb",
+    "pID": "6f101ee41bb79206ee477c5c446b5b48",
     "title": "英冠 1:0",
-    "keyword": "3月4日03:45",
+    "keyword": "03月04日03:45",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -52,22 +434,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月4日03:45"
+      "time": "03月04日03:45"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f71a6d035145403718727577311/playlist_eof.m3u8?t=69a7d492&us=9ab548f906&sign=a5d5950f4c194fd3ddf371b03198fca8"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4509_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4498,
-    "pID": "66ac19a4a2d588710b2aef1d474babae",
+    "pID": "3835e2977dc8e97d3c9076f335b7520b",
     "title": "英超 0:0",
-    "keyword": "3月4日03:30",
+    "keyword": "03月04日03:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -78,34 +460,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月4日03:30"
+      "time": "03月04日03:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5f15f0125145403718759965923/playlist_eof.m3u8?t=69a7d492&us=9ab548f906&sign=5a978bde5e6d07223f05ad92e5e8f985"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4498_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/adf8e25b5145403718781356011/playlist_eof.m3u8?t=69a7d492&us=9ab548f906&sign=c89d7b07a189219a281f89422eaf2264"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4498_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/07044bde5145403718962192510/playlist_eof.m3u8?t=69a7d492&us=9ab548f906&sign=5055b28bd9882eb477787484a96bb4c2"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4498_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4499,
-    "pID": "75190679f4ce026bfbd55d919ad0089f",
+    "pID": "3e98bfc445030455ac78e18a186ef358",
     "title": "英超 2:0",
-    "keyword": "3月4日03:30",
+    "keyword": "03月04日03:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -116,34 +498,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月4日03:30"
+      "time": "03月04日03:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3a59d6e35145403718847118173/playlist_eof.m3u8?t=69a7d496&us=414d60d15f&sign=ef986aa8822c78f75b242cf1d92e2b9c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4499_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6e13f63b5145403718929034311/playlist_eof.m3u8?t=69a7d496&us=414d60d15f&sign=a9824eaa598696345b67275d19bfed26"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4499_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0b1cb81f5145403718962310339/playlist_eof.m3u8?t=69a7d496&us=414d60d15f&sign=64dd965b2cfc51637e83fb9eb17c245f"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4499_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4500,
-    "pID": "c22a812d7cfd4748ad9ff4246df348bb",
+    "pID": "d0ccb5fb925a6dec0602de1f3ccfda03",
     "title": "英超 0:1",
-    "keyword": "3月4日03:30",
+    "keyword": "03月04日03:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -154,34 +536,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月4日03:30"
+      "time": "03月04日03:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/08b945e35145403718962207194/playlist_eof.m3u8?t=69a7d497&us=23229a72e1&sign=c5ba5a2655c4937bd9c6e907efcad2a0"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4500_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2e4ea6235145403718745225870/playlist_eof.m3u8?t=69a7d497&us=23229a72e1&sign=aed3ebcdd133cad94b3aac6b2fa31b08"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4500_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/048c87225145403718962075172/playlist_eof.m3u8?t=69a7d497&us=23229a72e1&sign=17c3c5c397ac2c6fbcaf9afb94961c17"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4500_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4736,
-    "pID": "88cc7450f39e49cf6d3443b59f221470",
+    "pID": "41c3e3bef0bf7aea8642946c5aa06362",
     "title": "NBA发展联盟 130:121",
-    "keyword": "3月4日00:00",
+    "keyword": "03月04日00:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -192,22 +574,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月4日00:00"
+      "time": "03月04日00:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/08cffe3c5145403718741883002/playlist_eof.m3u8?t=69a7d497&us=23229a72e1&sign=f93207839f2a9bd43a867ed6fe74b63b"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4736_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4496,
-    "pID": "9bef6be5a653e0492f8ee5cb81973ea5",
+    "pID": "6945385b6315196429474b8a41cd31df",
     "title": "中NBL 72:93",
-    "keyword": "3月3日20:00",
+    "keyword": "03月03日20:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -218,22 +600,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日20:00"
+      "time": "03月03日20:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ac6624035145403718930316954/playlist_eof.m3u8?t=69a7d497&us=23229a72e1&sign=c39faf4c1e142afb63fe68bb6df4404c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4496_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4474,
-    "pID": "e32427be747dd96264d54d7e47f69d52",
+    "pID": "e79152c13127f072ef30b74cec8b9a12",
     "title": "NBA 101:114",
-    "keyword": "3月3日11:00",
+    "keyword": "03月03日11:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -244,34 +626,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日11:00"
+      "time": "03月03日11:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/13a1492a5145403718772591295/playlist_eof.m3u8?t=69a7d2a5&us=d40b60d64c&sign=cb0b415b26feecd5c5a32545cb987fe1"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4474_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8c9980c85145403718814059738/playlist_eof.m3u8?t=69a7d2a5&us=d40b60d64c&sign=306f7a1175e8f1186b4feb184a8e9a31"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4474_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8cf8826f5145403718794878018/playlist_eof.m3u8?t=69a7d2a5&us=d40b60d64c&sign=2ad256fb0780e2be93999088418f28cf"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4474_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4473,
-    "pID": "b14c67fe4b76faf89d6b8f8cbf42e479",
+    "pID": "4df323869a601551c9ed6cefba60b877",
     "title": "NBA 125:128",
-    "keyword": "3月3日10:00",
+    "keyword": "03月03日10:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -282,34 +664,28 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日10:00"
+      "time": "03月03日10:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1fdd0fae5145403718819818934/playlist_eof.m3u8?t=69a7d3d0&us=5cb02a51cf&sign=d191936c6758fa477b1c9ba92afca9d5"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4473_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7069fa865145403718749850154/playlist_eof.m3u8?t=69a7d3d0&us=5cb02a51cf&sign=c300b7b85f0160e29cf386c783c15940"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3fb215055145403718888462231/playlist_eof.m3u8?t=69a7d3d0&us=5cb02a51cf&sign=0de08eb998d9b20ef66e9330f4c41add"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4473_1"
         ]
       }
     ]
   },
   {
     "mgdbId": 4656,
-    "pID": "fee176e1c9f76ee29753c678ef84be0d",
+    "pID": "d397e384abcd0824dd6fb2cc0e9034d4",
     "title": "NBA发展联盟 95:122",
-    "keyword": "3月3日10:00",
+    "keyword": "03月03日10:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -320,22 +696,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日10:00"
+      "time": "03月03日10:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/01833a735145403718894881189/playlist_eof.m3u8?t=69a7d49e&us=e02568f444&sign=2a23fd249c27cb38e06932e70ddbc48f"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4656_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4472,
-    "pID": "9419d689353d5ed60cfe321807304221",
+    "pID": "dc34f9e336521a29afcdf04dc0fe2302",
     "title": "NBA 81:108",
-    "keyword": "3月3日08:30",
+    "keyword": "03月03日08:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -346,34 +722,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日08:30"
+      "time": "03月03日08:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2c12fe0c5145403718881797630/playlist_eof.m3u8?t=69a7d49f&us=ca12752843&sign=14fa22085300914448631c45af80d948"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e5ca07fc5145403718856688996/playlist_eof.m3u8?t=69a7d49f&us=ca12752843&sign=5add1bf98d3313e6be185a54a98fcaab"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0e95ad885145403718850284369/playlist_eof.m3u8?t=69a7d49f&us=ca12752843&sign=430f0ff2c1e7edf888214bb1ce9b014e"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4472_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4471,
-    "pID": "adee8e240b868fc0f3697ed2f3dc0747",
+    "pID": "75542d058281c9695b07af1e109ad4cd",
     "title": "NBA 118:123",
-    "keyword": "3月3日08:00",
+    "keyword": "03月03日08:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -384,34 +748,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日08:00"
+      "time": "03月03日08:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/174451d65145403718843889784/playlist_eof.m3u8?t=69a7d49f&us=ca12752843&sign=e9fd24a2e3d8c1980b587da8fac4635c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4471_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e37055005145403718856580014/playlist_eof.m3u8?t=69a7d49f&us=ca12752843&sign=5660d31d9c9e75817d4d69d7c5e7b775"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4471_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a9f4e19a5145403718879891399/playlist_eof.m3u8?t=69a7d49f&us=ca12752843&sign=b7c38e81360146e2849dfdb0b207b2f5"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4471_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4315,
-    "pID": "0e36c1d433c30c52b99ddbe2c4c38ec0",
+    "pID": "0c4b74c06ca7d2581ac2d63dd02bad4c",
     "title": "西甲 0:1",
-    "keyword": "3月3日04:00",
+    "keyword": "03月03日04:00",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -422,34 +786,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日04:00"
+      "time": "03月03日04:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f1c2072b5145403718863938218/playlist_eof.m3u8?t=69a7d4a0&us=057c18abcd&sign=1710e6a8af735551b331b286a567ac45"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4315_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/485c9df65145403718790120215/playlist_eof.m3u8?t=69a7d4a0&us=057c18abcd&sign=d066b4594e386c6d625508f24df6548f"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4315_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2c1155585145403718864135101/playlist_eof.m3u8?t=69a7d4a0&us=057c18abcd&sign=773f64fac7f19e6e7c0d84861978b3e3"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4315_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4316,
-    "pID": "5b17f6da863d0adaa932a926eff3f5f7",
+    "pID": "7218d513dc4b9fb75a7b21a57696e7de",
     "title": "英冠 1:3",
-    "keyword": "3月3日04:00",
+    "keyword": "03月03日04:00",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -460,22 +824,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日04:00"
+      "time": "03月03日04:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3c30d2885145403718864808272/playlist_eof.m3u8?t=69a7d4a3&us=3bf0ced283&sign=8d3e94d06f0ca2053686679c0b2b5f3a"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4316_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4329,
-    "pID": "ebdf1ba19cf7aed7587a989f03703728",
+    "pID": "50169ee2a1bdacb494435e08e8f4af5c",
     "title": "意甲 3:0",
-    "keyword": "3月3日03:45",
+    "keyword": "03月03日03:45",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -486,34 +850,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日03:45"
+      "time": "03月03日03:45"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a2cb73af5145403718862885177/playlist_eof.m3u8?t=69a7d4a4&us=803d634588&sign=df0ac8b688868564e1e778c83ec9860c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4329_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/df3b63a95145403718863155747/playlist_eof.m3u8?t=69a7d4a4&us=803d634588&sign=5e48647f28a0014ba9fa1d3b959bffdc"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4329_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0bab89eb5145403718843397824/playlist_eof.m3u8?t=69a7d4a4&us=803d634588&sign=6b8d267cf8b30c2c25bd06d8e6d555d0"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4329_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4328,
-    "pID": "6a603f4b2df7813187ba5005a72b85c5",
+    "pID": "6fb4e01b4ef05e58746665a2d14643c7",
     "title": "意甲 0:1",
-    "keyword": "3月3日01:30",
+    "keyword": "03月03日01:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -524,34 +888,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月3日01:30"
+      "time": "03月03日01:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c98b72255145403718795166062/playlist_eof.m3u8?t=69a7d4a4&us=803d634588&sign=257ff93e94dfdb8800974f99f7a5ac1e"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4328_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6162b10d5145403718797099018/playlist_eof.m3u8?t=69a7d4a4&us=803d634588&sign=374c4b6415f4bc3a7e77317e82bb804c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4328_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/31c804c85145403718793246509/playlist_eof.m3u8?t=69a7d4a4&us=803d634588&sign=af70e7c1cf03995fb27c39a1e9cca9bd"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4328_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4309,
-    "pID": "def041f95e3b1333eceda34bccd2ebed",
+    "pID": "d75b567407fa8d79bc947ed6e0f88e6f",
     "title": "中NBL 71:93",
-    "keyword": "3月2日19:30",
+    "keyword": "03月02日19:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -562,22 +926,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日19:30"
+      "time": "03月02日19:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9b631df65145403718624530700/playlist_eof.m3u8?t=69a7d4a5&us=f072ec253d&sign=4bfa9503401ccd2ca152ce0d6729559e"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4309_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4310,
-    "pID": "d91ab97fdef03f9eda85f2058eb7d7c1",
+    "pID": "64b8a62c71f18b3d6959bf3188edc2b1",
     "title": "中NBL 91:88",
-    "keyword": "3月2日19:30",
+    "keyword": "03月02日19:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -588,22 +952,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日19:30"
+      "time": "03月02日19:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9da95f195145403718624626121/playlist_eof.m3u8?t=69a7d4a6&us=dd335c4dff&sign=f230a98720192e593e7940e75adcb224"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4310_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4311,
-    "pID": "cdbfcf0023cc3a66560cc17aad3afd6d",
+    "pID": "e2fb9bd2da61ec0418477cadc0372ef5",
     "title": "中NBL 96:90",
-    "keyword": "3月2日19:30",
+    "keyword": "03月02日19:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -614,22 +978,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日19:30"
+      "time": "03月02日19:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ec211ec75145403718476650169/playlist_eof.m3u8?t=69a7d4ab&us=edb9c0c1d0&sign=540d95d7efe09117e7638b0955621a52"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4311_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4312,
-    "pID": "f1b451f89f091cf7f967de3cb55fdb17",
+    "pID": "26a4ede1ac0a1583262103554b8a2cb3",
     "title": "中NBL 113:93",
-    "keyword": "3月2日19:30",
+    "keyword": "03月02日19:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -640,22 +1004,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日19:30"
+      "time": "03月02日19:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8f0c2a275145403718515892356/playlist_eof.m3u8?t=69a7d4ab&us=edb9c0c1d0&sign=45f0dbd2e2d8b8fde9ef49b3d97eb2d3"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4312_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4313,
-    "pID": "8c9ac7909ea6b777b6f2cbd9b66054ae",
+    "pID": "6c61e79828d4242dc4d8a23234cf65d6",
     "title": "中NBL 97:113",
-    "keyword": "3月2日19:30",
+    "keyword": "03月02日19:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -666,22 +1030,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日19:30"
+      "time": "03月02日19:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9fe935d55145403718624710510/playlist_eof.m3u8?t=69a7d4ac&us=5204f7ce88&sign=1717e1572a5875e88f3898c0159aeda0"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4313_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4293,
-    "pID": "0e089a9fed197f8f704d1643bd47a4f6",
+    "pID": "0781bc9b7e8ddc706a48ea405552ed31",
     "title": "NBA 128:104",
-    "keyword": "3月2日10:30",
+    "keyword": "03月02日10:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -692,34 +1056,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日10:30"
+      "time": "03月02日10:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b54138e35145403718584752432/playlist_eof.m3u8?t=69a7d4ad&us=26f5950ff3&sign=e2529f9f1e9a0f2f8879a658550c3593"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4293_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a98783055145403718584246373/playlist_eof.m3u8?t=69a7d4ad&us=26f5950ff3&sign=c3e3007d1a4a866a5396730ed43047a2"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4293_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/95221ea55145403718546392454/playlist_eof.m3u8?t=69a7d4ad&us=26f5950ff3&sign=dc83c776545e627c62d756717219b2d2"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4293_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4292,
-    "pID": "744c1a056901df26807ef39ed6050c8b",
+    "pID": "277b177e1a57b162a808625a366c556b",
     "title": "NBA 137:117",
-    "keyword": "3月2日10:00",
+    "keyword": "03月02日10:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -730,34 +1094,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日10:00"
+      "time": "03月02日10:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/02aac4a15145403718432470459/playlist_eof.m3u8?t=69a7d4ad&us=26f5950ff3&sign=544d18f3766ebea940000a3d7e54795d"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4292_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/149755d15145403718582495687/playlist_eof.m3u8?t=69a7d4ad&us=26f5950ff3&sign=02986f8f017e03cdd6327631bfb05e4a"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4292_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b00c1b215145403718543426545/playlist_eof.m3u8?t=69a7d4ad&us=26f5950ff3&sign=fad4618bd38042f988f40f8f3c232047"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4292_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4290,
-    "pID": "ade6913bad12545b4e54cf99cb4266af",
+    "pID": "d718e3013c4569a923da96dfb54c2ad3",
     "title": "NBA 114:98",
-    "keyword": "3月2日09:00",
+    "keyword": "03月02日09:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -768,34 +1132,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日09:00"
+      "time": "03月02日09:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/cb4c2ba15145403718540502598/playlist_eof.m3u8?t=69a7d4ae&us=566afb4639&sign=a0794dfa6af99390392ad84912b99100"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4290_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/faa785115145403718578666727/playlist_eof.m3u8?t=69a7d4ae&us=566afb4639&sign=ede41b3df3b143716f562db7d9db2306"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4290_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d2c60f875145403718421875386/playlist_eof.m3u8?t=69a7d4ae&us=566afb4639&sign=248617911e33298cc430a967e936128d"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4290_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4291,
-    "pID": "1403f370f5867c3e25c99a1951ed5514",
+    "pID": "89a636d401a1490d9b513c63a9fa7f91",
     "title": "NBA 87:100",
-    "keyword": "3月2日09:00",
+    "keyword": "03月02日09:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -806,34 +1170,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日09:00"
+      "time": "03月02日09:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/faa784ea5145403718578666711/playlist_eof.m3u8?t=69a7d4b2&us=423ab3696b&sign=680ca68e975c07307cd6b8ef6182776f"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4291_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fa8468f35145403718578648657/playlist_eof.m3u8?t=69a7d4b2&us=423ab3696b&sign=1969b510cc8281ad7f9c1f290b9f56d9"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4291_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9501c89f5145403718451748502/playlist_eof.m3u8?t=69a7d4b2&us=423ab3696b&sign=0743eb023a4816d93ffbca8c768b3b03"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4291_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4288,
-    "pID": "a1138d16de22ef90b63fdc58ce985750",
+    "pID": "11c9d43fcf374d315af87115cb9aebfc",
     "title": "NBA 135:101",
-    "keyword": "3月2日07:00",
+    "keyword": "03月02日07:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -844,34 +1208,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日07:00"
+      "time": "03月02日07:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/99d59ced5145403718570967538/playlist_eof.m3u8?t=69a7d4b2&us=423ab3696b&sign=3bd47ee10688a09cdd761b9d4ec6d33a"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4288_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/db46f5845145403718571481555/playlist_eof.m3u8?t=69a7d4b2&us=423ab3696b&sign=f0e764b7395e5ef08972b6ade1a4b66c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4288_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0edc65255145403718534387093/playlist_eof.m3u8?t=69a7d4b2&us=423ab3696b&sign=9dc16cc18432f4bef03a9efd4e2988c2"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4288_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4289,
-    "pID": "5ac50e58708e9532b417a5c338a831f6",
+    "pID": "e52db451db1e0a131d454878023552d7",
     "title": "NBA 92:106",
-    "keyword": "3月2日07:00",
+    "keyword": "03月02日07:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -882,34 +1246,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日07:00"
+      "time": "03月02日07:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/22c745c35145403718446467306/playlist_eof.m3u8?t=69a7d4b3&us=4c2ed54c05&sign=beeae4a612e90396358bc2af3d3a761c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4289_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7f1fcc8e5145403718444010060/playlist_eof.m3u8?t=69a7d4b3&us=4c2ed54c05&sign=aa8180293939107db99029211a588d47"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4289_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c8aa50c95145403718533655478/playlist_eof.m3u8?t=69a7d4b3&us=4c2ed54c05&sign=b08035ff62c367416b6cf84c4f3eac37"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4289_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4287,
-    "pID": "db0e363e96d48472ebe82439497f5604",
+    "pID": "0284ed74c1f712c7de6292bce1a9fac3",
     "title": "NBA 106:125",
-    "keyword": "3月2日06:00",
+    "keyword": "03月02日06:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -920,34 +1284,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日06:00"
+      "time": "03月02日06:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9d393d1f5145403718441266445/playlist_eof.m3u8?t=69a7d4b3&us=4c2ed54c05&sign=759cfa2b271fbec02fde5a8838883e1a"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4287_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/74821cc45145403718566674115/playlist_eof.m3u8?t=69a7d4b3&us=4c2ed54c05&sign=897ffe912a06e33a86259d9e1a4ddede"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4287_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a5e51ab75145403718529497699/playlist_eof.m3u8?t=69a7d4b3&us=4c2ed54c05&sign=691d9325c6b5c18f68f1c60abf4784b3"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4287_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4463,
-    "pID": "d396dbee54809341d3f8cddee5092df3",
+    "pID": "ac4d240aa6e825728e768cd0d2210b58",
     "title": "NBA发展联盟 118:114",
-    "keyword": "3月2日06:00",
+    "keyword": "03月02日06:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -958,22 +1322,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日06:00"
+      "time": "03月02日06:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a895d2fd5145403718417359104/playlist_eof.m3u8?t=69a7d4b4&us=73fce9e30e&sign=a8f477c691703883946a5cf5a40cfc7c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4463_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4461,
-    "pID": "811a92ebe279628c0295744ceaaca0ba",
+    "pID": "483b97b6f3629f27159735235c976935",
     "title": "NBA发展联盟 121:100",
-    "keyword": "3月2日05:00",
+    "keyword": "03月02日05:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -984,22 +1348,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日05:00"
+      "time": "03月02日05:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/274f69ff5145403718565640271/playlist_eof.m3u8?t=69a7d4b8&us=1b36503cf5&sign=1c380f2fff45a98a97cfab01f15eb28e"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4461_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4284,
-    "pID": "93530300e23a5c2ee77f48f6c2b53146",
+    "pID": "d5c677047aab46857cc07868f3192d37",
     "title": "NBA 102:106",
-    "keyword": "3月2日04:30",
+    "keyword": "03月02日04:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1010,34 +1374,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日04:30"
+      "time": "03月02日04:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/24cafe9f5145403718524466108/playlist_eof.m3u8?t=69a7d4b9&us=82856e27c8&sign=4584d62630afa0f44f73fbf2591d867c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4284_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fa61d5045145403718442943915/playlist_eof.m3u8?t=69a7d4b9&us=82856e27c8&sign=ec9ac73d15a3b28110d9a322bd8e468b"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4284_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dca0edc65145403718523689226/playlist_eof.m3u8?t=69a7d4b9&us=82856e27c8&sign=bf8f1f1b76742a95ff8d215ce6e03891"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4284_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4285,
-    "pID": "9b3990b5cc66c359f47dcb177b4035fb",
+    "pID": "f2d21c525951ab15b2c0207b60c1184f",
     "title": "NBA 120:97",
-    "keyword": "3月2日04:30",
+    "keyword": "03月02日04:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1048,34 +1412,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日04:30"
+      "time": "03月02日04:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e5689ffa5145403718561042355/playlist_eof.m3u8?t=69a7d4b9&us=82856e27c8&sign=3c69a6cb9b159c2d7cb7da072606a786"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4285_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3b4e14125145403718521331008/playlist_eof.m3u8?t=69a7d4b9&us=82856e27c8&sign=6c41b8de5887058f0354246a8918220b"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4285_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b7cd55de5145403718407178215/playlist_eof.m3u8?t=69a7d4b9&us=82856e27c8&sign=1ade8a0d1ba57c370ab653ef47845454"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4285_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4286,
-    "pID": "2991de8c672387c83f794c3b2e47b0d0",
+    "pID": "f185ca089fe1f30b2f6b2118c57c709b",
     "title": "NBA 108:117",
-    "keyword": "3月2日04:30",
+    "keyword": "03月02日04:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1086,34 +1450,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日04:30"
+      "time": "03月02日04:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dc1ef05d5145403718523613095/playlist_eof.m3u8?t=69a7d4ba&us=374cb689a2&sign=e2dedb291b3e3d07be47b19c7c5990d2"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4286_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2df9d4a75145403718524843396/playlist_eof.m3u8?t=69a7d4ba&us=374cb689a2&sign=f90460d49870d0e8a99cea511ac3d1be"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4286_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ee86fd7e5145403718561412475/playlist_eof.m3u8?t=69a7d4ba&us=374cb689a2&sign=961a85185c538680237863368485ad5f"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4286_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4459,
-    "pID": "4644b47ca57f72a97d795f1837ecac2f",
+    "pID": "a54dfb88f10d0cd90507bd207d0bd1ff",
     "title": "NBA发展联盟 108:123",
-    "keyword": "3月2日04:30",
+    "keyword": "03月02日04:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1124,22 +1488,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日04:30"
+      "time": "03月02日04:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1718fdc45145403718527922527/playlist_eof.m3u8?t=69a7d4bb&us=ab65559476&sign=d31361bb84d5da74a1672c21b856302b"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4459_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4044,
-    "pID": "d4774761839b2f02fa2dbfe51db37d59",
+    "pID": "46fa32d97009e111e8516f8f286e540b",
     "title": "西甲 1:2",
-    "keyword": "3月2日04:00",
+    "keyword": "03月02日04:00",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1150,34 +1514,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日04:00"
+      "time": "03月02日04:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ecbbb3625145403718442390890/playlist_eof.m3u8?t=69a7d4c0&us=02f6fb36c7&sign=4ae0f0a13471951adfb7015f2365913a"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4044_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dbcb365c5145403718557910060/playlist_eof.m3u8?t=69a7d4c0&us=02f6fb36c7&sign=5091dffff96cdd3a6a7a0f3b48df1c28"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4044_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f06e7dca5145403718401404020/playlist_eof.m3u8?t=69a7d4c0&us=02f6fb36c7&sign=f8d9b00cfbd0044373684ce315fb17cc"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4044_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4457,
-    "pID": "2c78c37fc2a5b2fde55a30cd05df86ae",
+    "pID": "49f80347b268a40f6b81ba7d79a632df",
     "title": "NBA发展联盟 117:111",
-    "keyword": "3月2日04:00",
+    "keyword": "03月02日04:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1188,22 +1552,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日04:00"
+      "time": "03月02日04:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/68c767255145403718566166615/playlist_eof.m3u8?t=69a7d4c0&us=02f6fb36c7&sign=380545b76b93c6369e9e82a831d4079a"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4457_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4458,
-    "pID": "455433191a90137fde8e7c0df0a5505f",
+    "pID": "baf191a2564eea4a1838c1ef4d409249",
     "title": "NBA发展联盟 121:129",
-    "keyword": "3月2日04:00",
+    "keyword": "03月02日04:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1214,22 +1578,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日04:00"
+      "time": "03月02日04:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/230364c05145403718565497100/playlist_eof.m3u8?t=69a7d4c1&us=417d430f5b&sign=8983ae7c3c75288ea192dd335a220310"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4458_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4056,
-    "pID": "7df52aaec1305c2f4d06f315ead7d986",
+    "pID": "7b79424650ef483171370a7a7fc80e58",
     "title": "意甲 3:3",
-    "keyword": "3月2日03:45",
+    "keyword": "03月02日03:45",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1240,34 +1604,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日03:45"
+      "time": "03月02日03:45"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8f6598d35145403718556997186/playlist_eof.m3u8?t=69a7d4c2&us=e749ff1fcb&sign=4f5f8f1b8470d42af5504c8fefd039b4"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4056_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/732672765145403718518721003/playlist_eof.m3u8?t=69a7d4c2&us=e749ff1fcb&sign=4018a10e1c731af8eca10822c7a44c58"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4056_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dfedb4bb5145403718435026741/playlist_eof.m3u8?t=69a7d4c2&us=e749ff1fcb&sign=3adee634a6703473f1f1f6d4df9f6a91"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4056_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4060,
-    "pID": "355eac091607aabc6b5ab575772d61bd",
+    "pID": "d38a1be7a9851406c239036032fee37b",
     "title": "法甲 3:2",
-    "keyword": "3月2日03:45",
+    "keyword": "03月02日03:45",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1278,34 +1642,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日03:45"
+      "time": "03月02日03:45"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d4bae34c5145403718557602987/playlist_eof.m3u8?t=69a7d4c2&us=e749ff1fcb&sign=98caf076392eb5b7a45074b24aa64ea4"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4060_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d99ebaaf5145403718557838619/playlist_eof.m3u8?t=69a7d4c2&us=e749ff1fcb&sign=6e0299badf7a0c261acf2bd9d43fd973"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4060_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/548b8d7c5145403718440410497/playlist_eof.m3u8?t=69a7d4c2&us=e749ff1fcb&sign=7152c2e5aa07ad481f6db15e6bf79de7"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4060_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4455,
-    "pID": "2a43d79cd5b3ca1f89a257fddf386aaa",
+    "pID": "bb652ad8a5d69517e084bfff8f1a2a57",
     "title": "NBA发展联盟 124:112",
-    "keyword": "3月2日03:00",
+    "keyword": "03月02日03:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1316,22 +1680,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日03:00"
+      "time": "03月02日03:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8d36c8435145403718563620495/playlist_eof.m3u8?t=69a7d4c3&us=1257693a8a&sign=9519fe004094932e7b96ce4b7b6ef4cb"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4455_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4456,
-    "pID": "8a983a2a769d3b43437d28a9d7f77e63",
+    "pID": "f717e220dad124c2a1bc8d75112ca3ef",
     "title": "NBA发展联盟 106:141",
-    "keyword": "3月2日03:00",
+    "keyword": "03月02日03:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1342,22 +1706,22 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日03:00"
+      "time": "03月02日03:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/12961b495145403718527748247/playlist_eof.m3u8?t=69a7d4c8&us=0b9ea3d5ae&sign=a45bb3eee5054143ad1e38e73358d021"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4456_0"
         ]
       }
     ]
   },
   {
     "mgdbId": 4054,
-    "pID": "729eeb8b627de94f5394bc4cf3a0ced0",
+    "pID": "d6f8215cf8ca9111a24424fb7e2aa75a",
     "title": "德甲 1:2",
-    "keyword": "3月2日02:30",
+    "keyword": "03月02日02:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1368,34 +1732,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日02:30"
+      "time": "03月02日02:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5b22d0445145403718552948710/playlist_eof.m3u8?t=69a7d4c8&us=0b9ea3d5ae&sign=49349a622c0b24b5c07b76aa2c153cc5"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4054_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/cbac9a8a5145403718438249917/playlist_eof.m3u8?t=69a7d4c8&us=0b9ea3d5ae&sign=9fe65b78ee642869afec62794aba9d35"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4054_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/21bc0e065145403718517558273/playlist_eof.m3u8?t=69a7d4c8&us=0b9ea3d5ae&sign=3bfc3501b510978e9b0defcd3ae02aed"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4054_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4283,
-    "pID": "da58189c685828374fff1a848fef4108",
+    "pID": "2d4a3f9588a2378bd139499f7317d377",
     "title": "NBA 114:89",
-    "keyword": "3月2日02:00",
+    "keyword": "03月02日02:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
@@ -1406,34 +1770,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日02:00"
+      "time": "03月02日02:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/773383c95145403718549168409/playlist_eof.m3u8?t=69a7d4c9&us=73b65bd81e&sign=701230a5ff2aa6744d74e67f85a3e7aa"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4283_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/80b22efa5145403718515241319/playlist_eof.m3u8?t=69a7d4c9&us=73b65bd81e&sign=8abeef79bc6bd1a8c4ce4c3c6b290a83"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4283_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/913f5c095145403718515976571/playlist_eof.m3u8?t=69a7d4c9&us=73b65bd81e&sign=82c4b4919bb7a1d3f7bc6c4cffbcdbe5"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4283_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4043,
-    "pID": "322e8f13880a4242e7d43b0ac4ff9c1b",
+    "pID": "39abc5e868bcc702845778b630991039",
     "title": "西甲 2:2",
-    "keyword": "3月2日01:30",
+    "keyword": "03月02日01:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1444,34 +1808,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日01:30"
+      "time": "03月02日01:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/30c8d7365145403718548402130/playlist_eof.m3u8?t=69a7d4c9&us=73b65bd81e&sign=0e7698c573e21705993a97d7cea7a34a"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4043_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/58a0bdc15145403718433823078/playlist_eof.m3u8?t=69a7d4c9&us=73b65bd81e&sign=8fe2dcc8db4b82d3cda53f21e0dc3384"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4043_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e419c38b5145403718547447386/playlist_eof.m3u8?t=69a7d4c9&us=73b65bd81e&sign=b5460ff7610e151867befb163680e65a"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4043_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4055,
-    "pID": "9766bbbacbce0d9557ed8e8b148a1a9e",
+    "pID": "7d082e11d6941ae80ade1bcb57332a88",
     "title": "意甲 2:0",
-    "keyword": "3月2日01:00",
+    "keyword": "03月02日01:00",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1482,34 +1846,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日01:00"
+      "time": "03月02日01:00"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4335befe5145403718545153534/playlist_eof.m3u8?t=69a7d4ca&us=66140f7df1&sign=38be67bc50e78ac4e6cbc32dac27b262"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4055_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/08c35ccf5145403718544938748/playlist_eof.m3u8?t=69a7d4ca&us=66140f7df1&sign=881b4ad817ef74dbd761f2967aa3bf3d"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4055_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/98b1d6895145403718397486144/playlist_eof.m3u8?t=69a7d4ca&us=66140f7df1&sign=f10f2da26f6ce294480b4a783d4b4483"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4055_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4052,
-    "pID": "ecb55ede450a9e949167deb153631365",
+    "pID": "8539e6101b11b1e7799df3b648cae3f2",
     "title": "英超 2:1",
-    "keyword": "3月2日00:30",
+    "keyword": "03月02日00:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1520,34 +1884,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日00:30"
+      "time": "03月02日00:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/37f9f3085145403718429734826/playlist_eof.m3u8?t=69a7d4cf&us=db363d9516&sign=27c57f08e08ef1fbcee085e12c2398aa"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4052_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/821657605145403718390623545/playlist_eof.m3u8?t=69a7d4cf&us=db363d9516&sign=52236398f5f789e8b679d5cb483b1eb0"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4052_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5ebf56e85145403718542271879/playlist_eof.m3u8?t=69a7d4cf&us=db363d9516&sign=e5560780ba8aa818920ccf1be8eb8884"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4052_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4053,
-    "pID": "ae6c720054c9e6af14e79581600a6831",
+    "pID": "685fead196392a659133ad829ed5bc5e",
     "title": "德甲 2:0",
-    "keyword": "3月2日00:30",
+    "keyword": "03月02日00:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1558,34 +1922,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日00:30"
+      "time": "03月02日00:30"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2986ee525145403718507016121/playlist_eof.m3u8?t=69a7d4d0&us=ee3a238f4d&sign=9db295f82d2d0ebf278f62e87aec9fbe"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4053_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e8baf4845145403718428641547/playlist_eof.m3u8?t=69a7d4d0&us=ee3a238f4d&sign=9a5e2c963a54d986fe4de8d2abf94778"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4053_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e3ff0e3d5145403718428432317/playlist_eof.m3u8?t=69a7d4d0&us=ee3a238f4d&sign=765cc5ec6846a1e94b085c159663dfe3"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4053_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4057,
-    "pID": "92fccc322ae3e30b144658fb709f7d24",
+    "pID": "9c557390f7e19e694c5f368b7d4de389",
     "title": "法甲 1:0",
-    "keyword": "3月2日00:15",
+    "keyword": "03月02日00:15",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1596,34 +1960,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日00:15"
+      "time": "03月02日00:15"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e61958035145403718506449624/playlist_eof.m3u8?t=69a7d4d0&us=ee3a238f4d&sign=b7c0ce00fbd29489ad5e7d513e3d817f"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4057_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2cbe57c85145403718429297642/playlist_eof.m3u8?t=69a7d4d0&us=ee3a238f4d&sign=7dfdfe7bb5daed76d95fa07868a29297"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4057_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e3f0d9405145403718428429620/playlist_eof.m3u8?t=69a7d4d0&us=ee3a238f4d&sign=484be96812e819ef1a67c0eda65bf642"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4057_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4058,
-    "pID": "f2a8029d8637889f16004584eded4e10",
+    "pID": "839f3a5dfde70826e98784623c54c9a3",
     "title": "法甲 2:2",
-    "keyword": "3月2日00:15",
+    "keyword": "03月02日00:15",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1634,34 +1998,34 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日00:15"
+      "time": "03月02日00:15"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1f454c9b5145403718541801337/playlist_eof.m3u8?t=69a7d4d1&us=396ba9b56e&sign=d6e0c333dedc562807ea19f173343fe8"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4058_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7b28d05a5145403718508211590/playlist_eof.m3u8?t=69a7d4d1&us=396ba9b56e&sign=a688ba3a80ce31d813ee7b41b1adca6c"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4058_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ef9f44235145403718506870266/playlist_eof.m3u8?t=69a7d4d1&us=396ba9b56e&sign=393af990dd5225fbb851f3fab8f94dfe"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4058_2"
         ]
       }
     ]
   },
   {
     "mgdbId": 4059,
-    "pID": "3c656e37164c6a0a87462aed547d307f",
+    "pID": "7b2b348cdc7841c7b35fd612ef762bf8",
     "title": "法甲 0:1",
-    "keyword": "3月2日00:15",
+    "keyword": "03月02日00:15",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
@@ -1672,25 +2036,25 @@
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "3月2日00:15"
+      "time": "03月02日00:15"
     },
     "nodes": [
       {
-        "name": "高清回放1(一)",
+        "name": "高清回放(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5c7d497a5145403718542183314/playlist_eof.m3u8?t=69a7d4d2&us=65bb9216dd&sign=e9ad7b4e40eff174522dbe5ca5a3e966"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4059_0"
         ]
       },
       {
-        "name": "超清中文1(二)",
+        "name": "超清中文(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1b3ffd6a5145403718541695098/playlist_eof.m3u8?t=69a7d4d2&us=65bb9216dd&sign=7ca0b8ae792c47788bc7f45c9fa2bbe9"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4059_1"
         ]
       },
       {
-        "name": "超清外语1(三)",
+        "name": "超清外语(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/142d62c15145403718541383455/playlist_eof.m3u8?t=69a7d4d2&us=65bb9216dd&sign=0b07c3fd477af80f80bfde6c1c24e10b"
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=4059_2"
         ]
       }
     ]
