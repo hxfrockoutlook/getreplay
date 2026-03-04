@@ -94,11 +94,11 @@ async function main() {
     const startDate = item.start_time.slice(0, 10);
     if (!dateRange.includes(startDate)) continue;
 
-    // 解析开始时间并格式化为 m月d日H:i (例如 04月05日14:30)
+    // 解析开始时间并格式化为 MM月DD日HH:MM (例如 03月04日08:00)
     const dt = new Date(item.start_time.replace(' ', 'T') + ':00+08:00'); // 假设原时间为北京时间
     if (isNaN(dt.getTime())) continue;
-    const month = dt.getMonth() + 1;
-    const day = dt.getDate();
+    const month = (dt.getMonth() + 1).toString().padStart(2, '0');
+    const day = dt.getDate().toString().padStart(2, '0');
     const hours = dt.getHours().toString().padStart(2, '0');
     const minutes = dt.getMinutes().toString().padStart(2, '0');
     const datetime = `${month}月${day}日${hours}:${minutes}`;
