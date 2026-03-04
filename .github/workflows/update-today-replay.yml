@@ -2,8 +2,8 @@ name: Update Today Replay Data
 
 on:
   schedule:
-    # 每 30 分钟运行一次
-    - cron: '*/30 * * * *'
+    # 每 20 分钟运行一次
+    - cron: '*/20 * * * *'
   workflow_dispatch:
 
 jobs:
