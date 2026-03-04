@@ -1,9 +1,9 @@
 name: Update Today Replay Data
 
 on:
-  schedule:
-    # 每小时运行一次（可根据需要调整）
-    - cron: '0 * * * *'
+    schedule:
+    # 每天 UTC 4:05 和 16:05 运行（北京时间 12:05 和 次日 0:05）
+    - cron: '5 4,16 * * *'
   workflow_dispatch:
 
 jobs:
