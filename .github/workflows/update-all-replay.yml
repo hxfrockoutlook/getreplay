@@ -2,8 +2,8 @@ name: Update All Replay Data
 
 on:
   schedule:
-    # 每天 UTC 时间 18:30 运行（北京时间次日 02:30）
-    - cron: '30 18 * * *'
+    # 每天 UTC 4:05 和 16:05 运行（北京时间 12:05 和 次日 0:05）
+    - cron: '5 4,16 * * *'
   workflow_dispatch:  # 允许手动触发
 
 jobs:
