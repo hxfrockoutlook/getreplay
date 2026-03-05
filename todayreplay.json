@@ -1,5 +1,31 @@
 [
   {
+    "mgdbId": 4865,
+    "pID": "ef138123c947b98fe72914d81624837f",
+    "title": "欧篮联 92:84",
+    "keyword": "03月06日03:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "皇家马德里VS博洛尼亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月06日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a0da41625145403719159612905/playlist_eof.m3u8?t=69aa43d8&us=548b90d690&sign=2d9595ea69b64cb3a735ae6b45f2e351"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 4743,
     "pID": "0d08bbf4d4ff2b27c8ce29fb594069fb",
     "title": "沙特超 3:0",
@@ -46,7 +72,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/34dec9db5145403719151486240/playlist_eof.m3u8?t=69aa30bd&us=03aa787161&sign=a3b0c3d96060facd964fbcf8c8c63152"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/34dec9db5145403719151486240/playlist_eof.m3u8?t=69aa43d8&us=548b90d690&sign=a292ab4c57b37787e86547435dff80bb"
         ]
       }
     ]
