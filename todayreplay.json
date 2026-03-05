@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 4858,
+    "pID": "6067d852c9f84133e345ab7e81afb2df",
+    "title": "欧篮联 88:70",
+    "keyword": "03月06日01:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/9b0fab2fcb670f18c7b275159b44cb48.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "费内巴切VS摩纳哥",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月06日01:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/34dec9db5145403719151486240/playlist_eof.m3u8?t=69aa30bd&us=03aa787161&sign=a3b0c3d96060facd964fbcf8c8c63152"
+        ]
+      }
+    ]
+  }
+]
