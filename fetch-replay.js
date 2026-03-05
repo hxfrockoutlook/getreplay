@@ -1,5 +1,5 @@
 const axios = require('axios');
-const crypto = require('crypto');
+const crypto =require('crypto');
 const fs = require('fs').promises;
 const path = require('path');
 
@@ -37,17 +37,45 @@ const targetLeagues = [
   '欧足联', '英冠', 'CBA', '中NBL', '欧篮联', '世亚预', '美冠杯', '沙特超', '超级杯', '女亚洲杯'
 ];
 
+// ---------- 修改开始：基于上海时区的日期范围生成 ----------
+// 获取当前上海日期（YYYY-MM-DD）
+function getTodayShanghai() {
+  const now = new Date();
+  const formatter = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
+  });
+  return formatter.format(now);
+}
+
+// 从上海日期字符串减去 offset 天，返回新的上海日期字符串
+function subtractShanghaiDays(dateStr, offset) {
+  const [year, month, day] = dateStr.split('-').map(Number);
+  // 构建 UTC 时间的该日期中午（避免时区边界问题）
+  const date = new Date(Date.UTC(year, month - 1, day, 12, 0, 0));
+  date.setUTCDate(date.getUTCDate() - offset);
+  // 格式化为上海日期
+  const formatter = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Shanghai',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
+  });
+  return formatter.format(date);
+}
+
 // 生成日期范围 (今天及往前 days-1 天)
 function getDateRange(days) {
   const range = [];
-  const today = new Date();
+  const todayStr = getTodayShanghai(); // 例如 "2026-03-05"
   for (let i = 0; i < days; i++) {
-    const date = new Date(today);
-    date.setDate(today.getDate() - i);
-    range.push(date.toISOString().slice(0, 10));
+    range.push(subtractShanghaiDays(todayStr, i)); // i=0 今天，i=1 昨天，i=2 前天
   }
   return range;
 }
+// ---------- 修改结束 ----------
 
 const dateRange = getDateRange(days);
 console.log('日期范围:', dateRange);
