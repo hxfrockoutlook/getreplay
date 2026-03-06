@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 5153,
+    "pID": "7c64070dc81c27d0776a7b649beba9bf",
+    "title": "欧篮联 88:91",
+    "keyword": "03月07日01:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/a2e19c2b6ed3efe3ee5c58bdf9a87ee3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "安纳托利亚艾菲斯VS里昂维勒班",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月07日01:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/31cc0e9e5145403719144571651/playlist_eof.m3u8?t=69ab8132&us=371f3e476a&sign=aa0b2ebe6f018fcf0016bdb8e6dacfc4"
+        ]
+      }
+    ]
+  }
+]
