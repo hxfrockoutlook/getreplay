@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 322,
+    "pID": "51cb220fb3cbaa6eb135e507a55ca9d3",
+    "title": "法甲 0:0",
+    "keyword": "03月08日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/8c03e57af9e8bec20a3ed2f5aaddf78b.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "欧塞尔VS斯特拉斯堡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月08日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e4144db25145403719316042132/playlist_eof.m3u8?t=69acd6f4&us=7c3a0449a2&sign=24a3c8c94ba5c77e1b9e833b3b56c405"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7dfe3f165145403719342404414/playlist_eof.m3u8?t=69acd6f4&us=7c3a0449a2&sign=122e616db7bd0b835d73075f601a34d2"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8d2eb6555145403719213221059/playlist_eof.m3u8?t=69acd6f4&us=7c3a0449a2&sign=bc36711055b70e594af92a1ae7fad583"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 904,
     "pID": "b9e6b29949a9df6802529d4f0539013f",
     "title": "NBA发展联盟 117:123",
@@ -122,19 +160,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6a31c1b55145403719311344540/playlist_eof.m3u8?t=69acc536&us=6ceaa10048&sign=a26e0a05344f6823f3fec3f36deac559"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6a31c1b55145403719311344540/playlist_eof.m3u8?t=69acd6f5&us=a426a3828c&sign=df6abc5441fac5a99444f7aecd62d6be"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b0097d995145403719312026960/playlist_eof.m3u8?t=69acc536&us=6ceaa10048&sign=37861613a0678a9f931aabe61a59d34e"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b0097d995145403719312026960/playlist_eof.m3u8?t=69acd6f5&us=a426a3828c&sign=81457bb170b52a82a4bfecb730578fae"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/044825785145403719313360048/playlist_eof.m3u8?t=69acc536&us=6ceaa10048&sign=4cd34feda6da1409c704853ca10bcaa5"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/044825785145403719313360048/playlist_eof.m3u8?t=69acd6f5&us=a426a3828c&sign=625166602890a7fe79fe8a82d9be9840"
         ]
       }
     ]
