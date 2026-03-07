@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 321,
+    "pID": "23cb8f4ced5c88bb8c4674521b6d5593",
+    "title": "法甲 0:1",
+    "keyword": "03月08日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/3e8ecd181a512ff663ff60ec85c8bed1.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "南特VS昂热",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月08日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fbc4b83f5145403719204806645/playlist_eof.m3u8?t=69acb723&us=ff6fd27c3e&sign=0cd6b7c5d61610fa36330d0b5525bbb5"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9e4982df5145403719237428207/playlist_eof.m3u8?t=69acb723&us=ff6fd27c3e&sign=22fda3379e502018fbbfc78666cf8089"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/579b48835145403719307864227/playlist_eof.m3u8?t=69acb723&us=ff6fd27c3e&sign=bb2c66ce74ab0c7fb7ce189121f30456"
+        ]
+      }
+    ]
+  }
+]
