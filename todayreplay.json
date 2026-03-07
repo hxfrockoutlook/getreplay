@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 655,
+    "pID": "9b640879562baabf04ee981de0262753",
+    "title": "NBA 106:99",
+    "keyword": "03月07日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/bcfe797437f18526ff4e62177021f638.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "火箭VS开拓者",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月07日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fb546efc5145403719276123533/playlist_eof.m3u8?t=69abeb67&us=4498e74a73&sign=a605fd1b81bf233867c10a5b01680ba2"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0722fba15145403719276644620/playlist_eof.m3u8?t=69abeb67&us=4498e74a73&sign=920c82ee5a67f532f2e0d391d695ec11"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c13bea925145403719275957397/playlist_eof.m3u8?t=69abeb67&us=4498e74a73&sign=581c09e0cbd76f9dbc7eee7949907df8"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 687,
     "pID": "48b0f7613abe048bf144319f122b1e56",
     "title": "NBA发展联盟 104:116",
@@ -110,19 +148,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b80391f95145403719241228046/playlist_eof.m3u8?t=69abdc3e&us=1c9e5b5b1f&sign=5169a5c7af3fe21165ff1f3313190b30"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b80391f95145403719241228046/playlist_eof.m3u8?t=69abeb68&us=d2250be2f7&sign=bd26a25e73804bf9822b1b252cfae9c2"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/792a6f495145403719240844986/playlist_eof.m3u8?t=69abdc3e&us=1c9e5b5b1f&sign=6a0629837d9a097de5b4015474fa1fbf"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/792a6f495145403719240844986/playlist_eof.m3u8?t=69abeb68&us=d2250be2f7&sign=f9b8e91209a7f2c71c1b8498de1325d4"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5f069c185145403719155026702/playlist_eof.m3u8?t=69abdc3e&us=1c9e5b5b1f&sign=c3ba79d4bf05a31ee6fa3b47a76356fb"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5f069c185145403719155026702/playlist_eof.m3u8?t=69abeb68&us=d2250be2f7&sign=81d44e3ab96a1c227164b6541216cfa5"
         ]
       }
     ]
