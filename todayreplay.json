@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 478,
+    "pID": "e8a543a61be29561d02d64d98991ae27",
+    "title": "英足总杯 0:1",
+    "keyword": "03月08日20:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英足总杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/29982511f1ea861967c3e6478d6a8a68.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "富勒姆VS南安普顿",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月08日20:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8ac83e9d5145403719410057691/playlist_eof.m3u8?t=69add458&us=e02e51296f&sign=17b6e19f4766ea0591dc0f38ca5b3133"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/63947a445145403719409747126/playlist_eof.m3u8?t=69add458&us=e02e51296f&sign=4100933c94c00bb86ec6be1af3985bb1"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ddf493a85145403719381289742/playlist_eof.m3u8?t=69add458&us=e02e51296f&sign=8fe6b86d94a07d4f05bebb34a7dfdfa6"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 318,
     "pID": "d8c244c1fe14a86113e60b7e84d00190",
     "title": "意甲 2:1",
@@ -188,13 +226,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/287392935145403719405413141/playlist_eof.m3u8?t=69adc36d&us=950018d3e5&sign=3bbde4b828aa9524a220c0464eca6001"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/287392935145403719405413141/playlist_eof.m3u8?t=69add45a&us=96a1be8fcd&sign=4de1d5a6ebfcb2afd481d1a0474e90d5"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6e6e77df5145403719406113974/playlist_eof.m3u8?t=69adc36d&us=950018d3e5&sign=8f2ec928a6d6fef3b932b78c665a2329"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6e6e77df5145403719406113974/playlist_eof.m3u8?t=69add45a&us=96a1be8fcd&sign=c1ef45b08423a9ed9b5faf7082a2b96f"
         ]
       }
     ]
@@ -328,7 +366,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e4b73c255145403719262558067/playlist_eof.m3u8?t=69adc36e&us=e1b4b6e6b2&sign=8ceb05fe9cb7c3f742929e572ffc3301"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e4b73c255145403719262558067/playlist_eof.m3u8?t=69add45b&us=53ae88cf46&sign=837d858e3e8ae08fa2509c3f9f15aafd"
         ]
       }
     ]
