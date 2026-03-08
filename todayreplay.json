@@ -1,5 +1,37 @@
 [
   {
+    "mgdbId": 326,
+    "pID": "54f93566c3d3636b982a7dea9891f61b",
+    "title": "中超 0:2",
+    "keyword": "03月08日19:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "中超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/9d520898f49a46e0a00feef82240cb80.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "武汉三镇VS北京国安",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月08日19:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/287392935145403719405413141/playlist_eof.m3u8?t=69adc36d&us=950018d3e5&sign=3bbde4b828aa9524a220c0464eca6001"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6e6e77df5145403719406113974/playlist_eof.m3u8?t=69adc36d&us=950018d3e5&sign=8f2ec928a6d6fef3b932b78c665a2329"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 457,
     "pID": "59b3e8046bf12977c343118df5990f9f",
     "title": "女亚杯预 0:2",
@@ -128,7 +160,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e4b73c255145403719262558067/playlist_eof.m3u8?t=69ada932&us=a1d13762cf&sign=02b4f347045e3d30527188944e7aac2f"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e4b73c255145403719262558067/playlist_eof.m3u8?t=69adc36e&us=e1b4b6e6b2&sign=8ceb05fe9cb7c3f742929e572ffc3301"
         ]
       }
     ]
@@ -232,19 +264,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/741929695145403719369560745/playlist_eof.m3u8?t=69adaea6&us=fa25187210&sign=94d2df7cf66e1b268ecabb93f9a06b6d"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/741929695145403719369560745/playlist_eof.m3u8?t=69adbde1&us=ac026e839d&sign=619cc306363d557785dc73f9ee46eab5"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4ed3c45f5145403719236304476/playlist_eof.m3u8?t=69adaea6&us=fa25187210&sign=6081002999a808938fdc77998722c6e8"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4ed3c45f5145403719236304476/playlist_eof.m3u8?t=69adbde1&us=ac026e839d&sign=c5f963f06738e758f914c923b5fbcd41"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/999bcde75145403719254881096/playlist_eof.m3u8?t=69adaea6&us=fa25187210&sign=fa7a40ad54fff95537a504f0244f5a96"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/999bcde75145403719254881096/playlist_eof.m3u8?t=69adbde1&us=ac026e839d&sign=1d129e1f737d7f3f6d37ac3eabd38b94"
         ]
       }
     ]
