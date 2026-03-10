@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 1107,
+    "pID": "5e099076bfe9b1b517ba0d1b407fadd3",
+    "title": "欧冠 1:0",
+    "keyword": "03月11日01:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fbcf002c8d6dd34813fa2b3a4cc9b04c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "加拉塔萨雷VS利物浦",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月11日01:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/69aaf0485145403719756182168/playlist_eof.m3u8?t=69b0c774&us=b8119e5905&sign=1f35f13be7aef436c0ba0e6d93f1b368"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d4ca2e095145403719795493341/playlist_eof.m3u8?t=69b0c774&us=b8119e5905&sign=7f1b4bcaf4a4769b41d1a2bacaa2a9b0"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6598f3c95145403719844738830/playlist_eof.m3u8?t=69b0c774&us=b8119e5905&sign=00a2e8c540b95cbb9e7fc817b8783964"
+        ]
+      }
+    ]
+  }
+]
