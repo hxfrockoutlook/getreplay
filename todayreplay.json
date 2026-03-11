@@ -140,17 +140,17 @@
     ]
   },
   {
-    "mgdbId": 1215,
-    "pID": "55cb36ee1e710f402615a7628690f775",
-    "title": "英冠 0:1",
+    "mgdbId": 1300,
+    "pID": "bb425340fddb81bb212a73889cf90c61",
+    "title": "欧篮联 82:88",
     "keyword": "03月12日03:45",
-    "sportItemId": "1",
+    "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/f08f87259dc2abc1449b67081e8b7f83.png",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/54019fa403eae4a98efc46cab4badde8.png",
     "competitionLogo": "",
-    "pkInfoTitle": "米德尔斯堡VS查尔顿",
+    "pkInfoTitle": "博洛尼亚VS贝尔格莱德游击",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
@@ -160,23 +160,23 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0cc8c1a15145403719921159532/playlist_eof.m3u8?t=69b23369&us=9e665fff83&sign=500fbabf9f50ab846959124a386f6957"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b043d56d5145403719923581957/playlist_eof.m3u8?t=69b23973&us=73aea74a11&sign=49bd6359314bf90e49265b3762836d9d"
         ]
       }
     ]
   },
   {
-    "mgdbId": 1216,
-    "pID": "623ead7361cb56e29ef547700d10a521",
-    "title": "英冠 1:0",
+    "mgdbId": 1219,
+    "pID": "df1648fbc9be393ec83da4aa3a3149ec",
+    "title": "英冠 2:1",
     "keyword": "03月12日03:45",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
     "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/61f530e22493ace89b5a47e2c6c045c5.png",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/86e6dba4cdc98b1dda1d25ea7d9eebfe.png",
     "competitionLogo": "",
-    "pkInfoTitle": "牛津联VS布莱克本",
+    "pkInfoTitle": "诺维奇VS谢菲联",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
@@ -186,7 +186,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/53d22fcc5145403719949413918/playlist_eof.m3u8?t=69b23369&us=9e665fff83&sign=d0ecfe5da3c504926eb0a70e07e56212"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/53d3bc715145403719949416398/playlist_eof.m3u8?t=69b2336a&us=4060e95ab4&sign=5eeebbda719528f5555df4b6e74a4d1f"
         ]
       }
     ]
@@ -218,6 +218,58 @@
     ]
   },
   {
+    "mgdbId": 1216,
+    "pID": "623ead7361cb56e29ef547700d10a521",
+    "title": "英冠 1:0",
+    "keyword": "03月12日03:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/61f530e22493ace89b5a47e2c6c045c5.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "牛津联VS布莱克本",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月12日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/53d22fcc5145403719949413918/playlist_eof.m3u8?t=69b23369&us=9e665fff83&sign=d0ecfe5da3c504926eb0a70e07e56212"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 1215,
+    "pID": "55cb36ee1e710f402615a7628690f775",
+    "title": "英冠 0:1",
+    "keyword": "03月12日03:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/f08f87259dc2abc1449b67081e8b7f83.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "米德尔斯堡VS查尔顿",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月12日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0cc8c1a15145403719921159532/playlist_eof.m3u8?t=69b23369&us=9e665fff83&sign=500fbabf9f50ab846959124a386f6957"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 1218,
     "pID": "00e6143fdf7f3af72f983a76917854bb",
     "title": "英冠 1:0",
@@ -239,32 +291,6 @@
         "name": "高清回放1(一)",
         "url": [
           "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5d702f6c5145403719949855224/playlist_eof.m3u8?t=69b2336a&us=4060e95ab4&sign=72521e7a01571e5f271f60af15b26041"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 1219,
-    "pID": "df1648fbc9be393ec83da4aa3a3149ec",
-    "title": "英冠 2:1",
-    "keyword": "03月12日03:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/86e6dba4cdc98b1dda1d25ea7d9eebfe.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "诺维奇VS谢菲联",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月12日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/53d3bc715145403719949416398/playlist_eof.m3u8?t=69b2336a&us=4060e95ab4&sign=5eeebbda719528f5555df4b6e74a4d1f"
         ]
       }
     ]
@@ -322,13 +348,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3db800e35145403719942625740/playlist_eof.m3u8?t=69b229ec&us=d22dd0ca45&sign=ce507f6ab5ebb56cffd09c965beda12a"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3db800e35145403719942625740/playlist_eof.m3u8?t=69b23979&us=bc18784e67&sign=0fdc64e91d587f47e9cc137ecd62fa8f"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8d130f8f5145403719919365657/playlist_eof.m3u8?t=69b229ec&us=d22dd0ca45&sign=3ad872d7c23d2dc010007879e93ee3a3"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8d130f8f5145403719919365657/playlist_eof.m3u8?t=69b23979&us=bc18784e67&sign=6cb927d49eb8b9b2168853b6b002041d"
         ]
       }
     ]
@@ -354,19 +380,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f79a0c435145403719941907144/playlist_eof.m3u8?t=69b229ec&us=d22dd0ca45&sign=df197c4ea05ffbbd906b4dca570729ba"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f79a0c435145403719941907144/playlist_eof.m3u8?t=69b23979&us=bc18784e67&sign=6a35bfc2d3e6b6b71ebac9323476d79a"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/64c599275145403719797000884/playlist_eof.m3u8?t=69b229ec&us=d22dd0ca45&sign=6b3d06be115a29f110b0003da655f32d"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/64c599275145403719797000884/playlist_eof.m3u8?t=69b23979&us=bc18784e67&sign=3840f914b759aacb04fc8c2d80143fed"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/490c3dfb5145403719820064380/playlist_eof.m3u8?t=69b229ec&us=d22dd0ca45&sign=68a230d42d7a4f26b12fe0bb1139f6bd"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/490c3dfb5145403719820064380/playlist_eof.m3u8?t=69b23979&us=bc18784e67&sign=9ee1ad6fc43141612a2ee107b4348c22"
         ]
       }
     ]
@@ -392,13 +418,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a8dc8c515145403719940889357/playlist_eof.m3u8?t=69b229ed&us=3dff3ee2de&sign=9cf086d325495d56d021d493349c60e4"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a8dc8c515145403719940889357/playlist_eof.m3u8?t=69b23979&us=bc18784e67&sign=157562a72e9837307642f80eb0e29a59"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c7f20e215145403719771435118/playlist_eof.m3u8?t=69b229ed&us=3dff3ee2de&sign=7e47c1b18d3179f0cb927c3e9045d840"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c7f20e215145403719771435118/playlist_eof.m3u8?t=69b23979&us=bc18784e67&sign=263fd27c51f087020d83603b642dfb47"
         ]
       }
     ]
@@ -424,13 +450,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c830d2655145403719913717229/playlist_eof.m3u8?t=69b229ed&us=3dff3ee2de&sign=32f9c9d730d777706f5fcbe5dbd2dd31"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c830d2655145403719913717229/playlist_eof.m3u8?t=69b2397a&us=9f66735659&sign=6857d54d8c7874d48a4774d9f0e8c641"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a713d5025145403719767314613/playlist_eof.m3u8?t=69b229ed&us=3dff3ee2de&sign=e8c80110edfef79982db1fbad6c00441"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a713d5025145403719767314613/playlist_eof.m3u8?t=69b2397a&us=9f66735659&sign=90eed36b9f4106055ffa85a4011a5753"
         ]
       }
     ]
