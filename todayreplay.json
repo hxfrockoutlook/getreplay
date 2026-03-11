@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "mgdbId": 1283,
+    "pID": "fb08d3c36677d1bfb924dfbefd46f913",
+    "title": "女篮世界杯 76:49",
+    "keyword": "03月12日00:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "女篮世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/44ebe928616b76d9415a62763c3b0936.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "德国女篮VS韩国女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月12日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c830d2655145403719913717229/playlist_eof.m3u8?t=69b20192&us=da782f0daa&sign=0a521c1a1e7368f7250b14d34188bb13"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a713d5025145403719767314613/playlist_eof.m3u8?t=69b20192&us=da782f0daa&sign=6fdd0f48edceff3905302d2369e5f88b"
+        ]
+      }
+    ]
+  }
+]
