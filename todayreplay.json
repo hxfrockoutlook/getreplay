@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "mgdbId": 1430,
+    "pID": "b3a6976cb56bc6fe66ae4fcdeb1cf1e2",
+    "title": "女篮世界杯 80:113",
+    "keyword": "03月13日00:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "女篮世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/c909efdeb2e44ec1b578be2be896f63f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "菲律宾女篮VS德国女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月13日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b364e1725145403720005291841/playlist_eof.m3u8?t=69b35350&us=224f434dd3&sign=bf13586dd2e29580d0ff0d4f85caccdd"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d98c9cd35145403720033093427/playlist_eof.m3u8?t=69b35350&us=224f434dd3&sign=255be178163a2eec9e92325bdae6580f"
+        ]
+      }
+    ]
+  }
+]
