@@ -1,5 +1,37 @@
 [
   {
+    "mgdbId": 1441,
+    "pID": "43090b2d51b0efb039793510c0e473d0",
+    "title": "女篮世界杯 51:74",
+    "keyword": "03月13日05:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "女篮世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/d4b2bfd0db89e9b41d44239a404d045d.jpg",
+    "competitionLogo": "",
+    "pkInfoTitle": "新西兰女篮VS意大利女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月13日05:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/74bb79605145403719929173050/playlist_eof.m3u8?t=69b39972&us=31f83a6591&sign=684e09062a083f2fabc23705cdd8341d"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/72bc17725145403720052646043/playlist_eof.m3u8?t=69b39972&us=31f83a6591&sign=83ca4dbd38263ed90ad1a32700e0b610"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 1318,
     "pID": "926414b3f09c2c7cf649d37e1a84478f",
     "title": "欧联杯 1:0",
