@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "mgdbId": 1769,
+    "pID": "d43f9620abe6038b6f2994b3bff77740",
+    "title": "法甲 2:1",
+    "keyword": "03月15日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b593727321793084b1f7804aebedc31a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "洛里昂VS朗斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月15日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b28b13b55145403720117460644/playlist_eof.m3u8?t=69b5f2ce&us=f69c8fd8bc&sign=f2e5a125f6549b53d0ed9ec3b72e8af1"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2976c5195145403720241943248/playlist_eof.m3u8?t=69b5f2ce&us=f69c8fd8bc&sign=955a16e3d765be110a6bfadad5dcb0ce"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7e5578f75145403720249100883/playlist_eof.m3u8?t=69b5f2ce&us=f69c8fd8bc&sign=f6f4c415bb47da8f30243f1452aed395"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 2126,
+    "pID": "b4fb93a9f6d4e22857d2f72aa940b823",
+    "title": "女篮世界杯 82:52",
+    "keyword": "03月15日00:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "女篮世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/28f5dbb01c5311a46f8b163f972d66cb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "韩国女篮VS哥伦比亚女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月15日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8e9b8cfb5145403720270148575/playlist_eof.m3u8?t=69b5f2cf&us=1bcfb32fef&sign=10ea314aaa244b3c888fd6ae2fcfa5bd"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8ef3c9365145403720270194272/playlist_eof.m3u8?t=69b5f2cf&us=1bcfb32fef&sign=2ab33179d38b95491aee6de6bd0b621b"
+        ]
+      }
+    ]
+  }
+]
