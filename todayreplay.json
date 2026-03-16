@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "mgdbId": 2485,
+    "pID": "a0307c94a84c6f0a6d19b3b588286e5a",
+    "title": "英超 2:2",
+    "keyword": "03月17日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/60f1c7788be3148a370dbf59f914abfe.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布伦特福德VS狼队",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月17日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8f4835e95145403720487884482/playlist_eof.m3u8?t=69b8cd2d&us=42d370b5e5&sign=b7c138a0e84f413a18b886b0931069a2"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bec6ce7b5145403720457374315/playlist_eof.m3u8?t=69b8cd2d&us=42d370b5e5&sign=89ba8945bc2305ae9127ef0bd7e7b79e"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/785de89b5145403720456611808/playlist_eof.m3u8?t=69b8cd2d&us=42d370b5e5&sign=8c230447dc6c1a44e275684e0e6090f1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 2486,
+    "pID": "f4b2f687e83440dcfaf0f57e148b819a",
+    "title": "西甲 1:1",
+    "keyword": "03月17日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/5005d8feab109ce64e40beb98073cc1f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "巴列卡诺VS莱万特",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月17日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e558699d5145403720454904564/playlist_eof.m3u8?t=69b8cd2e&us=c8607008d3&sign=56ddd63a4e9c0f4a792ce9de02459b85"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/88251f685145403720487565647/playlist_eof.m3u8?t=69b8cd2e&us=c8607008d3&sign=af5cd4416f759297eccd44f4d4a51f72"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/87dbb1245145403720487523928/playlist_eof.m3u8?t=69b8cd2e&us=c8607008d3&sign=7a35de97613b2dc40a935ca48934eb00"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 2514,
+    "pID": "ae14aa487cfd604e7f3230da7cc9d8c3",
+    "title": "英冠 0:1",
+    "keyword": "03月17日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/2f360e96a024fd54255d0ed941e9075e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "朴茨茅斯VS德比郡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月17日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/cbb784635145403720488153567/playlist_eof.m3u8?t=69b8cd2e&us=c8607008d3&sign=33bc01422d1b838486bd7abe6ad1f9a6"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 2487,
+    "pID": "a37f1a9705e634136000599c62458b76",
+    "title": "意甲 1:4",
+    "keyword": "03月17日03:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/0b0e25267dabd15c405070329df5fbdb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "克雷莫纳VS佛罗伦萨",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月17日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f2a307fa5145403720485732603/playlist_eof.m3u8?t=69b8cd2e&us=c8607008d3&sign=dae956ad229289af20af860a1b544e26"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/41f161625145403720486830908/playlist_eof.m3u8?t=69b8cd2e&us=c8607008d3&sign=f952ebfbe46ab362d98c4f563484e87c"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d00e5add5145403720352628258/playlist_eof.m3u8?t=69b8cd2e&us=c8607008d3&sign=cd3607868b904f7d032d3c4a4f19b19a"
+        ]
+      }
+    ]
+  }
+]
