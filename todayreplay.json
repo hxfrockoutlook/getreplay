@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "mgdbId": 2719,
+    "pID": "f0b2c7634cdb912c375b31f14880249e",
+    "title": "NBA发展联盟 107:122",
+    "keyword": "03月18日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA发展联盟",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e0b75fa5c0474af5934d3ab70930e3b3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "韦斯特彻斯特尼克斯VS克利夫兰剑客",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月18日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b8f0d6595145403720552610738/playlist_eof.m3u8?t=69b9f4c0&us=678fd34d57&sign=cadafde4ac1f33ae2cfba7f44b907758"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 2717,
+    "pID": "abf977827696dc4eac58769feaf9fef6",
+    "title": "女篮世界杯 73:81",
+    "keyword": "03月18日00:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "女篮世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/771484aa1aa443459d7e1352b565ec4e.jpg",
+    "competitionLogo": "",
+    "pkInfoTitle": "尼日利亚女篮VS德国女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月18日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8ed2b7fd5145403720548104667/playlist_eof.m3u8?t=69b9f4c1&us=b9d8df038b&sign=c607180771cd8987b1536d302df187d3"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b9c62fd65145403720576121093/playlist_eof.m3u8?t=69b9f4c1&us=b9d8df038b&sign=732dece30077c1ea9e4e5d7ea964c9ed"
+        ]
+      }
+    ]
+  }
+]
