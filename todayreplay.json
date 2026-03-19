@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 2984,
+    "pID": "d867225b3cb28cbd2e89db785985586b",
+    "title": "欧篮联 62:66",
+    "keyword": "03月20日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/a3819bb7ddd5edc47416d1efb5539fd3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "瓦伦西亚VS巴塞罗那",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月20日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/00b6491e5145403720784621473/playlist_eof.m3u8?t=69bc9b2e&us=faf7f98818&sign=9485ebf37158f8647e721045bc769162"
+        ]
+      }
+    ]
+  }
+]
