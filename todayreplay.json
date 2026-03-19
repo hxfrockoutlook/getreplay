@@ -70,6 +70,82 @@
     ]
   },
   {
+    "mgdbId": 2866,
+    "pID": "77d6dc91481eef665c38842073e0cb66",
+    "title": "欧联杯 1:2",
+    "keyword": "03月20日01:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧联杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/870815ca7c7545f7dc8c0716eecdb708.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "中日德兰VS诺丁汉森林",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月20日01:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/17706ecb5145403720757159768/playlist_eof.m3u8?t=69bcb37d&us=bb7db27719&sign=c4cf66aa005a9438f4eaa0a407232d15"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d1be09b05145403720756499668/playlist_eof.m3u8?t=69bcb37d&us=bb7db27719&sign=3abd6f6722911e8536fd7c0a3c11f368"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1e5d4c895145403720757448981/playlist_eof.m3u8?t=69bcb37d&us=bb7db27719&sign=fec69b765b923dc8e6dcf51b90dc68e2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 2883,
+    "pID": "fb10faa3c57baa156597c9b5eef99155",
+    "title": "欧足联 1:1",
+    "keyword": "03月20日01:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/02ec38de08e5725d895f41a5cd63e1c7.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "AEK拉纳卡VS水晶宫",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月20日01:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2931c3825145403720652474963/playlist_eof.m3u8?t=69bcb37d&us=bb7db27719&sign=1e63980181a5462aa6839b0161cacd37"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9f9e9fcf5145403720786863885/playlist_eof.m3u8?t=69bcb37d&us=bb7db27719&sign=b63bc58b9f0fc8d93301065ecb5d7524"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/de50e4c05145403720787222358/playlist_eof.m3u8?t=69bcb37d&us=bb7db27719&sign=2651b57f96dab509302f0f0a9b84c646"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 2884,
     "pID": "26932b0a51becd083b813dda432a100b",
     "title": "欧足联 1:2",
@@ -218,7 +294,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/00b6491e5145403720784621473/playlist_eof.m3u8?t=69bc9b2e&us=faf7f98818&sign=9485ebf37158f8647e721045bc769162"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/00b6491e5145403720784621473/playlist_eof.m3u8?t=69bcb37f&us=2f238a42e2&sign=e2e4768c0cce236eb24ae731323aafce"
         ]
       }
     ]
