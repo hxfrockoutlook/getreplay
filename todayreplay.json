@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 3024,
+    "pID": "d4a3a2fa976072faf268dd9627733bc6",
+    "title": "意甲 0:1",
+    "keyword": "03月21日01:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dba65c184e03c860ed919ce192b86c5e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "卡利亚里VS那不勒斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月21日01:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8aacc0225145403720748937305/playlist_eof.m3u8?t=69bdf653&us=8d92728434&sign=dfac6ceb1601fe27749516d70ff0e275"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2925f3c15145403720771465195/playlist_eof.m3u8?t=69bdf653&us=8d92728434&sign=5249bf5adf885e348441944a24737f3c"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bd72baa85145403720885415399/playlist_eof.m3u8?t=69bdf653&us=8d92728434&sign=45b118daea84766e71c0e9c0856eae0d"
+        ]
+      }
+    ]
+  }
+]
