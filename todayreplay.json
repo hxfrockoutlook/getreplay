@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 3001,
+    "pID": "5056a80a80f9292c28946cf7ec041824",
+    "title": "法甲 1:0",
+    "keyword": "03月22日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/2947fe2f42551a5b7eccca7fc948f879.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "图卢兹VS洛里昂",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月22日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/281711405145403720978237611/playlist_eof.m3u8?t=69bf2dd6&us=51a2cce89f&sign=8fa41952d67a6b30153bf582f0e484e6"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8124fbb75145403720979792969/playlist_eof.m3u8?t=69bf2dd6&us=51a2cce89f&sign=5928613a88b7458345d37d5a8af7da93"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e32a6b075145403720950049897/playlist_eof.m3u8?t=69bf2dd6&us=51a2cce89f&sign=fcd4ec4735457bc6c3b8d471c4aaa8f0"
+        ]
+      }
+    ]
+  }
+]
