@@ -1,5 +1,31 @@
 [
   {
+    "mgdbId": 3963,
+    "pID": "b0cfce19c8b35073b023b141d1358009",
+    "title": "NBA发展联盟 98:129",
+    "keyword": "03月22日03:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA发展联盟",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e0b75fa5c0474af5934d3ab70930e3b3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "韦斯特彻斯特尼克斯VS科利奇帕克天鹰",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月22日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2c6d36805145403720961700489/playlist_eof.m3u8?t=69bf54e0&us=fc3a03ce19&sign=4a36b255b5b0c6b0ee1103bf0be671ca"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 3424,
     "pID": "d12c1617c750ebbc5988239f7b90a3a7",
     "title": "法甲 3:0",
@@ -134,19 +160,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c60512285145403720956947237/playlist_eof.m3u8?t=69bf467d&us=65d64c1650&sign=76129d400c3507dc5e13e9b57e3666a3"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c60512285145403720956947237/playlist_eof.m3u8?t=69bf54e1&us=896453188a&sign=b6ad9ffaacea4cec371ad9605e95efc8"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b35b52455145403720956146675/playlist_eof.m3u8?t=69bf467d&us=65d64c1650&sign=8ff1bbe53ff4c6b356ed691d1143d5f8"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b35b52455145403720956146675/playlist_eof.m3u8?t=69bf54e1&us=896453188a&sign=daf748697c1361974bfa2353da22789b"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0064d3db5145403720957151137/playlist_eof.m3u8?t=69bf467d&us=65d64c1650&sign=77e1783c5a56dc3ce35f0170c71240f7"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0064d3db5145403720957151137/playlist_eof.m3u8?t=69bf54e1&us=896453188a&sign=44af446985df967235ccf65ee8d6eec1"
         ]
       }
     ]
