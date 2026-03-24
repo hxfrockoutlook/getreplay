@@ -1,5 +1,31 @@
 [
   {
+    "mgdbId": 4140,
+    "pID": "145380feada2d971b56adad927a94f65",
+    "title": "欧篮联 92:83",
+    "keyword": "03月25日04:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "皇家马德里VS特拉维夫夏普尔",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月25日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/edebc5c05145403721288471571/playlist_eof.m3u8?t=69c35e7c&us=547d8364ae&sign=795ced072afad4d2697fde960f6d0e32"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 4139,
     "pID": "d08e8e07048fecde11db4fe0d5062514",
     "title": "欧篮联 79:78",
@@ -98,7 +124,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6818255d5145403721283235980/playlist_eof.m3u8?t=69c34b4d&us=89dd337fa9&sign=286b5ea07f1457bbc6d237a4d8baf1f7"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6818255d5145403721283235980/playlist_eof.m3u8?t=69c35e7d&us=aebe67f2a8&sign=665061707900fbe016b31cf43140bd0b"
         ]
       }
     ]
