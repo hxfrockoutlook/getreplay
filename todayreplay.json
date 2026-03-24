@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "mgdbId": 4133,
+    "pID": "dea643c1a281973f8e147ae61b3f7f20",
+    "title": "欧篮联 78:71",
+    "keyword": "03月25日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/2d05b2c06841b4f3e6df084479f08594.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "萨拉基利斯VS拜仁慕尼黑",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月25日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1337bd5f5145403721173761809/playlist_eof.m3u8?t=69c33e8d&us=1ad65292cd&sign=8225376748d79221b44cd6b91ffef57e"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4134,
+    "pID": "149c6c2c3e637644308fed3ec852ede0",
+    "title": "欧篮联 90:85",
+    "keyword": "03月25日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e59309cc71a5436c88b6645da5dc39fc.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "摩纳哥VS米兰奥林匹亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月25日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ebd952345145403721254066431/playlist_eof.m3u8?t=69c33e8d&us=1ad65292cd&sign=aeb3fba0b48121a057cf4f7a626cfd42"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 4132,
+    "pID": "d20da85ff6fe3fe0d739fdfbc3a81c63",
+    "title": "欧篮联 94:89",
+    "keyword": "03月25日01:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/7ee25ad1863a6d376abebd6013c03cab.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "特拉维夫马卡比VS费内巴切",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月25日01:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b20368295145403721277327888/playlist_eof.m3u8?t=69c33e8e&us=8b24afd84c&sign=c97ddd1191b7a2094fad0e84786dca7b"
+        ]
+      }
+    ]
+  }
+]
