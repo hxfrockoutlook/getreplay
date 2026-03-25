@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 4486,
+    "pID": "d1c74fe5561c26df7403de9e0c8960c5",
+    "title": "欧篮联 100:108",
+    "keyword": "03月26日03:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5e722af9ec414d9925470ff6a845a069.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "巴斯克尼亚VS贝尔格莱德红星",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月26日03:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/29a306fd5145403721384249415/playlist_eof.m3u8?t=69c4aac8&us=1d3b2ce2c7&sign=3228e186ccf23a5ecd06958c521e5a6b"
+        ]
+      }
+    ]
+  }
+]
