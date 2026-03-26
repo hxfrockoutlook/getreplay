@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 4575,
+    "pID": "769759ae678fbba7016bad929e13a4a1",
+    "title": "欧篮联 103:87",
+    "keyword": "03月27日03:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1309d2bd483aa23e4c1d54a3dcba94eb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "米兰奥林匹亚VS博洛尼亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月27日03:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/db9811715145403721454330207/playlist_eof.m3u8?t=69c5ece2&us=b2c0df2b81&sign=2885f5303f11d7d544e0b822524cef2e"
+        ]
+      }
+    ]
+  }
+]
