@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 4826,
+    "pID": "b1f5946f0ef7d67bf410b8eb53e3b5bc",
+    "title": "欧篮联 82:92",
+    "keyword": "03月28日01:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/9b0fab2fcb670f18c7b275159b44cb48.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "费内巴切VS萨拉基利斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月28日01:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b05ec5805145403721538568125/playlist_eof.m3u8?t=69c735d0&us=24c4355da5&sign=6b4481f6dc2d3483fe1d7ab13b9d3a58"
+        ]
+      }
+    ]
+  }
+]
