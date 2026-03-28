@@ -1,5 +1,31 @@
 [
   {
+    "mgdbId": 4818,
+    "pID": "fc9fc9228d3323fc1f7eeec1a4548634",
+    "title": "CBA 93:77",
+    "keyword": "03月28日19:35",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "CBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/858cde8d2c075296f24e7ee61929fbeb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "广州VS辽宁",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月28日19:35"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/109027065145403721607438849/playlist_eof.m3u8?t=69c82530&us=2d92af33c5&sign=3822fabac55874fc1a4a7f9ad960ee17"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 4594,
     "pID": "f789a15af53783396e2edbf9869d864c",
     "title": "韩K联 1:0",
@@ -72,19 +98,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3516e23e5145403721598340264/playlist_eof.m3u8?t=69c811ea&us=47d0de7698&sign=6073b82aff99297b128806bb60458175"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3516e23e5145403721598340264/playlist_eof.m3u8?t=69c82531&us=9ff9d8596c&sign=a69b502ada29e2c85ad5144d3ce87447"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/73e49a685145403721480697827/playlist_eof.m3u8?t=69c811ea&us=47d0de7698&sign=6fb697955788af8f0f2d621cff4509d9"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/73e49a685145403721480697827/playlist_eof.m3u8?t=69c82531&us=9ff9d8596c&sign=ed635c77b04f28a97a5b37d129d1a6d3"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/eae2569b5145403721485217506/playlist_eof.m3u8?t=69c811ea&us=47d0de7698&sign=444ac040d807fc5d1d4aa332e2d12275"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/eae2569b5145403721485217506/playlist_eof.m3u8?t=69c82531&us=9ff9d8596c&sign=8ffa69d577e375601c6c79c55fd260fd"
         ]
       }
     ]
@@ -484,32 +510,6 @@
     ]
   },
   {
-    "mgdbId": 5060,
-    "pID": "083702ec786284ce7c37e93c2618a94e",
-    "title": "NBA发展联盟 123:101",
-    "keyword": "03月28日07:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/6a0fe581252a41a64175f1f59b7f1141.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "大急流城黄金VS伯明翰中队",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月28日07:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/07876b0f5145403721587845696/playlist_eof.m3u8?t=69c817c3&us=94d6f5c52a&sign=a380cf4b58d16b4048964f4ca56e592d"
-        ]
-      }
-    ]
-  },
-  {
     "mgdbId": 5061,
     "pID": "04132ada2ebff19ecabc87531be10601",
     "title": "NBA发展联盟 132:121",
@@ -531,6 +531,32 @@
         "name": "高清回放1(一)",
         "url": [
           "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dbab3ad75145403721454342057/playlist_eof.m3u8?t=69c817c4&us=418394803a&sign=6fabc3e01b7f354a61a60a3f406bfa58"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5060,
+    "pID": "083702ec786284ce7c37e93c2618a94e",
+    "title": "NBA发展联盟 123:101",
+    "keyword": "03月28日07:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA发展联盟",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/6a0fe581252a41a64175f1f59b7f1141.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "大急流城黄金VS伯明翰中队",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月28日07:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/07876b0f5145403721587845696/playlist_eof.m3u8?t=69c817c3&us=94d6f5c52a&sign=a380cf4b58d16b4048964f4ca56e592d"
         ]
       }
     ]
