@@ -18,9 +18,21 @@
     },
     "nodes": [
       {
-        "name": "超清外语1(一)",
+        "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/276b9ec05145403721645406846/playlist_eof.m3u8?t=69c8951f&us=50e7a75038&sign=fc5e50b20ef0dd047c6146e7c4173811"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b80931bc5145403721664661811/playlist_eof.m3u8?t=69c8a47c&us=91c9d360fa&sign=bc5cb910919525fe5e17a5565bafa533"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f1acb2825145403721641377647/playlist_eof.m3u8?t=69c8a47c&us=91c9d360fa&sign=d942cd5e7d29db0c4002eb42d41e1890"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/276b9ec05145403721645406846/playlist_eof.m3u8?t=69c8a47c&us=91c9d360fa&sign=9a6c0b17d7263d1c30ac94ca8b41899b"
         ]
       }
     ]
