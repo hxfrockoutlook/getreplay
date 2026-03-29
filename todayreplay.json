@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 5255,
+    "pID": "a342e8d4aacd55a8021f45ee0c815134",
+    "title": "NBA 113:127",
+    "keyword": "03月30日03:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "雄鹿VS快船",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月30日03:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/08489e035145403721736903873/playlist_eof.m3u8?t=69c9ef8f&us=11de9a7acc&sign=2876b22a82f96c9316d4db9ae5592a6d"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/08487bbd5145403721736903057/playlist_eof.m3u8?t=69c9ef8f&us=11de9a7acc&sign=abae73bb250ebfda4b61d0fecf2850dc"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/96f6570c5145403721762827599/playlist_eof.m3u8?t=69c9ef8f&us=11de9a7acc&sign=d41842da4f8dc01c1030e2f2bec399eb"
+        ]
+      }
+    ]
+  }
+]
