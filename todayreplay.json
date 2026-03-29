@@ -1,5 +1,237 @@
 [
   {
+    "mgdbId": 5075,
+    "pID": "2b2a880a309c21506f5c6d4a82fa40f9",
+    "title": "NBA 123:113",
+    "keyword": "03月29日07:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "老鹰VS国王",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月29日07:30"
+    },
+    "nodes": [
+      {
+        "name": "超清外语1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/460bfd8c5145403721683781985/playlist_eof.m3u8?t=69c8d50d&us=f08ea7c4a3&sign=b64c296de5f00d5a763d8fd972b19ab9"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5293,
+    "pID": "995a0d7d0ad87cb3b8f9fbdf49006d1e",
+    "title": "NBA发展联盟 132:117",
+    "keyword": "03月29日07:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA发展联盟",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/6c541e174967477ebbb991cbf9589864.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "爱荷华狼队VS俄克拉荷马城蓝色",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月29日07:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/41731a805145403721683590273/playlist_eof.m3u8?t=69c8d8f0&us=28d81d0805&sign=c4e03afc8e7b7d9a19cb9363819c2966"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5291,
+    "pID": "8dc6f21d0f005badf2055a5920a14ef7",
+    "title": "NBA发展联盟 113:93",
+    "keyword": "03月29日07:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA发展联盟",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/c508158123d80668cd0275c3c153a942.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "克利夫兰剑客VS长岛篮网",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月29日07:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a8df0ac45145403721555854915/playlist_eof.m3u8?t=69c8d8f1&us=835d835b43&sign=23633c29a63d970c225731cc919a3602"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5292,
+    "pID": "7c025a4547d557ba39dedd7b0fce44ba",
+    "title": "NBA发展联盟 119:125",
+    "keyword": "03月29日07:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA发展联盟",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/fc13ae4523cc94e1b89422275851ea34.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "汽车城邮轮VS奥西奥拉魔术",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月29日07:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7103e5e25145403721653090769/playlist_eof.m3u8?t=69c8d8f2&us=526fb3df8a&sign=00d30124e42e4ae521857c06db688416"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5074,
+    "pID": "7ca6915b1c7792a55d3b2afc77008ac7",
+    "title": "NBA 114:118",
+    "keyword": "03月29日06:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e52f6ac53681289c91703501a960cb3c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "黄蜂VS76人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月29日06:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/cc8aa1365145403721678162201/playlist_eof.m3u8?t=69c8ce04&us=a0f85987f7&sign=c1dae4f496493aca22e68ced068c0875"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d0dcbf675145403721678316757/playlist_eof.m3u8?t=69c8ce04&us=a0f85987f7&sign=58237cc63ba053ec6f389999cf711b67"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/087f9ab85145403721560340917/playlist_eof.m3u8?t=69c8ce04&us=a0f85987f7&sign=b201a90edf3f5360aa3bd0b0cf4e78e6"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5251,
+    "pID": "bfcd00123a1e58cde57f15b215748af6",
+    "title": "NBA发展联盟 122:120",
+    "keyword": "03月29日06:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA发展联盟",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f875d37ea26c9e996df34379a6c0f63b.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "特拉华蓝衫VS首都前进",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月29日06:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a8e0ac8c5145403721555857884/playlist_eof.m3u8?t=69c8d8f2&us=526fb3df8a&sign=17152fb34a3645b0ee9a18ce4ca66168"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5252,
+    "pID": "7262ae4f8dcfded902a0d35cd9fb1a6c",
+    "title": "NBA发展联盟 138:141",
+    "keyword": "03月29日06:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA发展联盟",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/789ebadd3b2b2f28dda7ee9854f82807.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "格林斯伯勒蜂群VS科利奇帕克天鹰",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月29日06:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/88fb0faf5145403721677579809/playlist_eof.m3u8?t=69c8d8f3&us=4d6e98bd82&sign=494e4a245010451ec72bb754bbfa0194"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5073,
+    "pID": "bfa3a5e17dd7b2fd8292e61c2e2ecb1d",
+    "title": "NBA 87:109",
+    "keyword": "03月29日05:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "森林狼VS活塞",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月29日05:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9dfff7505145403721562170420/playlist_eof.m3u8?t=69c8ce04&us=a0f85987f7&sign=07bae5220117706fd104a436767e3263"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/598f93a45145403721649385516/playlist_eof.m3u8?t=69c8ce04&us=a0f85987f7&sign=bdf21432fedb3e89da93b43cd54032a0"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3523d0415145403721676296350/playlist_eof.m3u8?t=69c8ce04&us=a0f85987f7&sign=86e78ed38e65e9b388e63082a69d1c27"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 5072,
     "pID": "087c71bd7483b730658509425dff7ee3",
     "title": "NBA 95:127",
@@ -20,19 +252,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b80931bc5145403721664661811/playlist_eof.m3u8?t=69c8a47c&us=91c9d360fa&sign=bc5cb910919525fe5e17a5565bafa533"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b80931bc5145403721664661811/playlist_eof.m3u8?t=69c8d2b5&us=a8d2ab3ed7&sign=b88c25270a3b7e8ab0cd262e5a2f15a9"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f1acb2825145403721641377647/playlist_eof.m3u8?t=69c8a47c&us=91c9d360fa&sign=d942cd5e7d29db0c4002eb42d41e1890"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f1acb2825145403721641377647/playlist_eof.m3u8?t=69c8d2b5&us=a8d2ab3ed7&sign=e4289d4d09a877f601859f379a0bac03"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/276b9ec05145403721645406846/playlist_eof.m3u8?t=69c8a47c&us=91c9d360fa&sign=9a6c0b17d7263d1c30ac94ca8b41899b"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/276b9ec05145403721645406846/playlist_eof.m3u8?t=69c8d2b5&us=a8d2ab3ed7&sign=19454cdecbc5e0413c6d01ec468d933a"
         ]
       }
     ]
