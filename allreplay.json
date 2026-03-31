@@ -1,5 +1,173 @@
 [
   {
+    "mgdbId": 5377,
+    "pID": "820cefdb89f459dd90a76442ad3bbc33",
+    "title": "CBA 101:92",
+    "keyword": "03月31日19:35",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "CBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5689743705f1852f10597c559323f04a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "广东VS江苏",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月31日19:35"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5377_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5377_1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5378,
+    "pID": "a3b44f2e10f007424a0d6c008442ec95",
+    "title": "CBA 89:110",
+    "keyword": "03月31日19:35",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "CBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/0ef4bf20fbdcd89b1d7cb4a9b29f0f5a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "吉林VS上海",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月31日19:35"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5378_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5378_1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5380,
+    "pID": "d8061906a5508a097fe6d3f817e0f355",
+    "title": "WCBA 86:81",
+    "keyword": "03月31日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WCBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/90f31c91c132ca2873b6e574dd0f1d79.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "石家庄英励女篮VS厦门银行女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月31日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5380_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5381,
+    "pID": "3fc51112bc72870f0b92afb0ef9da064",
+    "title": "WCBA 65:73",
+    "keyword": "03月31日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WCBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/72f4b5ba888537eb2e2cff018ecd71ba.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "浙江稠州银行女篮VS合肥文旅女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月31日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5381_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5382,
+    "pID": "266b46dde28e0d281193b3c638b762e6",
+    "title": "中NBL 85:73",
+    "keyword": "03月31日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "中NBL",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/7414cf3518e0d92239294d83fcd4fa4b.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "合肥狂风VS长沙勇胜",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月31日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5382_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5383,
+    "pID": "43cf1631911c3de5d3290d5c2a52a911",
+    "title": "中NBL 90:87",
+    "keyword": "03月31日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "中NBL",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/54a6fe2b5b311d9359d31b8ceeb14ea8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "上海玄鸟VS山东蜜獾",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "03月31日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5383_0"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 5376,
     "pID": "9954d9322e2c2ddaf7fe5c89f8b4de3f",
     "title": "NBA 120:101",
@@ -865,562 +1033,6 @@
         "name": "超清外语(三)",
         "url": [
           "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5255_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5078,
-    "pID": "13214bb11b9e8e95f455efc7b9cf14be",
-    "title": "CBA 86:111",
-    "keyword": "03月29日19:35",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "CBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/0ef4bf20fbdcd89b1d7cb4a9b29f0f5a.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "吉林VS深圳",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日19:35"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5078_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5079,
-    "pID": "7f2a7be2e4d74f7620e26fae771b9929",
-    "title": "CBA 96:100",
-    "keyword": "03月29日19:35",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "CBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f7ad4ca154d205eb1799c5a1d1ff3370.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "山西VS上海",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日19:35"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5079_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5080,
-    "pID": "c5117cc19864245adff84877bdf76689",
-    "title": "CBA 54:102",
-    "keyword": "03月29日19:35",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "CBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/nd80e6d5b1e2d6d989b5c3b7790fe0025.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "四川VS广东",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日19:35"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5080_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5081,
-    "pID": "b861b665874ec6f8a0636c40091ec775",
-    "title": "CBA 91:53",
-    "keyword": "03月29日19:35",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "CBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "广厦VS江苏",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日19:35"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5081_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5131,
-    "pID": "380684ad38261c3697bd192183ff1742",
-    "title": "WCBA 91:72",
-    "keyword": "03月29日19:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "WCBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/nfc76640e91459ce3f67f87a8f8dbf622.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "大连文体旅女篮VS北京首钢园女篮",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日19:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5131_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5132,
-    "pID": "a2c3b10ea3f3d7cfc67ced22ba460e3c",
-    "title": "WCBA 81:78",
-    "keyword": "03月29日19:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "WCBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1fc01a1c1284848305881929497c06cb.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "河南豫光金铅女篮VS陕西榆林天泽女篮",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日19:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5132_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5077,
-    "pID": "4d781a4f366f7136de02f7a071c601c9",
-    "title": "NBA 134:109",
-    "keyword": "03月29日10:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/da3c882a7e0bc592b4c1ba9d8c5fb68d.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "太阳VS爵士",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日10:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5077_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5340,
-    "pID": "2401a4e46cffa040d0268ff75c5257c2",
-    "title": "NBA发展联盟 102:118",
-    "keyword": "03月29日10:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/8e3b6e6687fa4871b9c0f753a92b0139.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "圣迭戈快船VS斯托克顿国王",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日10:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5340_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5341,
-    "pID": "e47f8871536ad6ecda262202467b3612",
-    "title": "NBA发展联盟 116:134",
-    "keyword": "03月29日10:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/0e4c9f3103651a9a5e4a5765fda25ed7.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "圣克鲁斯勇士VS德克萨斯传奇",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日10:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5341_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5076,
-    "pID": "d5a5b0b97ed0baf932e28e05c9f81aab",
-    "title": "NBA 125:124",
-    "keyword": "03月29日08:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "灰熊VS公牛",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日08:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5076_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5076_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5076_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5294,
-    "pID": "899bc7ddfd90990054215beb6052e336",
-    "title": "NBA发展联盟 118:120",
-    "keyword": "03月29日08:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1c769dc6d709c1cd35308cc9390a971b.jpg",
-    "competitionLogo": "",
-    "pkInfoTitle": "里奥格兰德山谷毒蛇VS孟菲斯疾行",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日08:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5294_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5075,
-    "pID": "2b2a880a309c21506f5c6d4a82fa40f9",
-    "title": "NBA 123:113",
-    "keyword": "03月29日07:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/4e67b14905a05af9e1bd04406bf8690f.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "老鹰VS国王",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日07:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5075_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5293,
-    "pID": "995a0d7d0ad87cb3b8f9fbdf49006d1e",
-    "title": "NBA发展联盟 132:117",
-    "keyword": "03月29日07:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/6c541e174967477ebbb991cbf9589864.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "爱荷华狼队VS俄克拉荷马城蓝色",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日07:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5293_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5291,
-    "pID": "8dc6f21d0f005badf2055a5920a14ef7",
-    "title": "NBA发展联盟 113:93",
-    "keyword": "03月29日07:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/c508158123d80668cd0275c3c153a942.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "克利夫兰剑客VS长岛篮网",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日07:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5291_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5292,
-    "pID": "7c025a4547d557ba39dedd7b0fce44ba",
-    "title": "NBA发展联盟 119:125",
-    "keyword": "03月29日07:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/fc13ae4523cc94e1b89422275851ea34.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "汽车城邮轮VS奥西奥拉魔术",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日07:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5292_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5074,
-    "pID": "7ca6915b1c7792a55d3b2afc77008ac7",
-    "title": "NBA 114:118",
-    "keyword": "03月29日06:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e52f6ac53681289c91703501a960cb3c.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "黄蜂VS76人",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日06:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5074_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5074_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5074_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5251,
-    "pID": "bfcd00123a1e58cde57f15b215748af6",
-    "title": "NBA发展联盟 122:120",
-    "keyword": "03月29日06:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f875d37ea26c9e996df34379a6c0f63b.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "特拉华蓝衫VS首都前进",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日06:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5251_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5252,
-    "pID": "7262ae4f8dcfded902a0d35cd9fb1a6c",
-    "title": "NBA发展联盟 138:141",
-    "keyword": "03月29日06:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA发展联盟",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/789ebadd3b2b2f28dda7ee9854f82807.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "格林斯伯勒蜂群VS科利奇帕克天鹰",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日06:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5252_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5073,
-    "pID": "bfa3a5e17dd7b2fd8292e61c2e2ecb1d",
-    "title": "NBA 87:109",
-    "keyword": "03月29日05:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/38794d0ac418d8f2d03bd17a2623f3ed.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "森林狼VS活塞",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日05:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5073_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5073_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5073_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 5072,
-    "pID": "087c71bd7483b730658509425dff7ee3",
-    "title": "NBA 95:127",
-    "keyword": "03月29日03:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "雄鹿VS马刺",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "03月29日03:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=5072_0"
         ]
       }
     ]
