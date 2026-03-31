@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 5477,
+    "pID": "2a4c620ad5c6d39a9bc21b004cf4ddf5",
+    "title": "欧篮联 82:103",
+    "keyword": "04月01日02:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/54019fa403eae4a98efc46cab4badde8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "博洛尼亚VS巴黎",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月01日02:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5669f33c5145403721924058623/playlist_eof.m3u8?t=69cc898b&us=c50112f9aa&sign=7bd8b9ad82bd737389b150641063d8f1"
+        ]
+      }
+    ]
+  }
+]
