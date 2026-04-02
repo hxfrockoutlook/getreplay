@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 5840,
+    "pID": "d2590f86966fd250aa0d9df1b5d6c2b8",
+    "title": "欧篮联 92:88",
+    "keyword": "04月03日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ca224b11d94be0f26e2043aa8584db09.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "特拉维夫夏普尔VS帕纳辛纳科斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月03日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2f00f8025145403722139500899/playlist_eof.m3u8?t=69cf1133&us=9082dd51e1&sign=4cb729ca59e0751c6b2958444b5ba923"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 5841,
+    "pID": "33a13ee218d3d34380a8db30c1cdb797",
+    "title": "欧篮联 83:71",
+    "keyword": "04月03日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/2d05b2c06841b4f3e6df084479f08594.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "萨拉基利斯VS巴塞罗那",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月03日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/31b0899a5145403722139650453/playlist_eof.m3u8?t=69cf1133&us=9082dd51e1&sign=fd28dbb3fffef634163f45ae8e2dc0b1"
+        ]
+      }
+    ]
+  }
+]
