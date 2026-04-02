@@ -1,5 +1,31 @@
 [
   {
+    "mgdbId": 5848,
+    "pID": "d48c301d1e1d2439cb0c2dda668ac052",
+    "title": "欧篮联 103:89",
+    "keyword": "04月03日03:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/7ee25ad1863a6d376abebd6013c03cab.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "特拉维夫马卡比VS安纳托利亚艾菲斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月03日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/cc621e7e5145403722148464535/playlist_eof.m3u8?t=69cf35a7&us=494762e5a8&sign=087dc0abc1256ae7317d6900567da9f0"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 5847,
     "pID": "3ad2733db7897f56e6668be5d69eb870",
     "title": "欧篮联 103:93",
@@ -46,7 +72,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c670da805145403722117985128/playlist_eof.m3u8?t=69cf1e5d&us=d7ab00cbc8&sign=e414651a24e8b203ce55601e830c4dfb"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c670da805145403722117985128/playlist_eof.m3u8?t=69cf35a8&us=b70c27a798&sign=afb6c4c99f5f4df9a3ebfa90a33bccb2"
         ]
       }
     ]
@@ -72,7 +98,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8f32753d5145403722025077828/playlist_eof.m3u8?t=69cf1e5e&us=9203fd822b&sign=26378a98da8c20e9423d585609e2f0d6"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8f32753d5145403722025077828/playlist_eof.m3u8?t=69cf35a8&us=b70c27a798&sign=29795ae96c988befb2fb3a44885f714f"
         ]
       }
     ]
