@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 5905,
+    "pID": "7c54b09cd7b7ff62b572c7738e60069b",
+    "title": "沙特超 2:2",
+    "keyword": "04月04日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "拉斯永恒VS塞哈特海湾",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月04日00:00"
+    },
+    "nodes": [
+      {
+        "name": "超清外语1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dd6147545145403722138309411/playlist_eof.m3u8?t=69d047fa&us=67c47f7e9a&sign=8209533e78a6cdb99d217d7117b932f7"
+        ]
+      }
+    ]
+  }
+]
