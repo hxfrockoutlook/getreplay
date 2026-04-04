@@ -1,1 +1,206 @@
-[]
+[
+  {
+    "mgdbId": 6174,
+    "pID": "4e3d198d27924f5f8baa2fe203be1049",
+    "title": "德甲 0:2",
+    "keyword": "04月05日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "德甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bfdd500484330d63a723cbc396df762c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "斯图加特VS多特蒙德",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ff837e305145403722213610364/playlist_eof.m3u8?t=69d1a6e7&us=b444a80d70&sign=b9427d27e62a3690e7239f1176606382"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3e02549b5145403722231603967/playlist_eof.m3u8?t=69d1a6e7&us=b444a80d70&sign=63ad54bd29b0b689175ed2eefb24a1ce"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/db1966d75145403722335155335/playlist_eof.m3u8?t=69d1a6e7&us=b444a80d70&sign=f051c44c12aa0d8f96fc8901c73b04c1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 6175,
+    "pID": "f6d98a4908f4f5200c1a65ded7b860da",
+    "title": "西甲 0:0",
+    "keyword": "04月05日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/018e260ad68bdad741c61e3171c4c608.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "贝蒂斯VS西班牙人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/51bf621e5145403722316232878/playlist_eof.m3u8?t=69d1a6b5&us=7a938c6332&sign=9d5911bb214c8cd822aa9aaed6dc1bd6"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/db18d6525145403722335154241/playlist_eof.m3u8?t=69d1a6b5&us=7a938c6332&sign=860f3a4f355a1ae26beba5486cf74f47"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/59e7ff2a5145403722211115504/playlist_eof.m3u8?t=69d1a6b5&us=7a938c6332&sign=242fc80803cbe1c8c3752c5304fbeb63"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 6202,
+    "pID": "f351b63674466870775de11ed0d95487",
+    "title": "沙特超 1:0",
+    "keyword": "04月05日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/e5516d35314acec9169f33834a199842.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "新未来城体育VS费哈",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b2e7a7435145403722307298871/playlist_eof.m3u8?t=69d1a6e8&us=f953627113&sign=ab7875a84a0be948a80639b58511800d"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 6196,
+    "pID": "c42a7203d88cffc5379d3bfcda3b991d",
+    "title": "沙特超 3:0",
+    "keyword": "04月05日00:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/a0a227a6100628d3213e1fc321acd4f2.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "吉达国民VS达马克",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日00:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e90543a35145403722335743992/playlist_eof.m3u8?t=69d1a6e9&us=a67c9e3107&sign=6204c365318560400b4fc907784b7604"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 6705,
+    "pID": "213cde0173a53c1fb02b589ac785ba11",
+    "title": "英足总杯 7:0",
+    "keyword": "04月05日00:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英足总杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "切尔西VS维尔港",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日00:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/03e825925145403722308406205/playlist_eof.m3u8?t=69d1a6e9&us=a67c9e3107&sign=64d307b04c45463c4faf134b4e065dd2"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bebb7adf5145403722314528288/playlist_eof.m3u8?t=69d1a6e9&us=a67c9e3107&sign=781ef96dc126982973246afe3f649895"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e41151515145403722335501091/playlist_eof.m3u8?t=69d1a6e9&us=a67c9e3107&sign=38e48844d67118ba9da0071b43ffa4b9"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 6177,
+    "pID": "406181ac47843504a8073d0de06b7a9c",
+    "title": "意甲 0:1",
+    "keyword": "04月05日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b8e39abb18bb1c69396c59ff73ecf124.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "维罗纳VS佛罗伦萨",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fa8fc99e5145403722206669371/playlist_eof.m3u8?t=69d1a6ea&us=a3fc4ac4aa&sign=8378be8085a76e982ca26172a01a11f2"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/906235d65145403722334245227/playlist_eof.m3u8?t=69d1a6ea&us=a3fc4ac4aa&sign=c1b9036d3faf6f75fc070b3dc868ac21"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8ef7c5025145403722303947738/playlist_eof.m3u8?t=69d1a6ea&us=a3fc4ac4aa&sign=aecd6deedd5507823645c240d9e926ef"
+        ]
+      }
+    ]
+  }
+]
