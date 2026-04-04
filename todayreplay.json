@@ -76,6 +76,76 @@
     ]
   },
   {
+    "mgdbId": 6485,
+    "pID": "35c48d47aefaf78a921292b143195137",
+    "title": "NBA 152:136",
+    "keyword": "04月05日03:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ff7ccef6a6b79c6417ee8367946b0aec.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "热火VS奇才",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1900d6835145403722346357098/playlist_eof.m3u8?t=69d1d81d&us=022cf908da&sign=df06578eb6177bf2fef2e8f50c014cda"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a17a38b65145403722317390630/playlist_eof.m3u8?t=69d1d81d&us=022cf908da&sign=c273e8bc64c76c51151bbf79b98834e8"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fc0b34e05145403722318938523/playlist_eof.m3u8?t=69d1d81d&us=022cf908da&sign=fa170ede5517d7aafd11da742b4c125a"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 6486,
+    "pID": "10a1527cc6046b6cc8d775c6fdcd71c7",
+    "title": "NBA 136:134",
+    "keyword": "04月05日03:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "掘金VS马刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e6bc51025145403722216653876/playlist_eof.m3u8?t=69d1d81e&us=a624e08c3b&sign=99f7c0d3df887dd0e2bd36aa970da637"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ebaf763d5145403722216894207/playlist_eof.m3u8?t=69d1d81e&us=a624e08c3b&sign=4cc2ec3ca14a5b217c78301c85bc8c32"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 6722,
     "pID": "b40f16d7b0d9a467eaf2e1952cf1a2e8",
     "title": "英足总杯 2:1",
@@ -198,19 +268,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/85089a955145403722337807300/playlist_eof.m3u8?t=69d1c2e6&us=9ec2c4ce47&sign=4d066c5604f968581d31903c5d0c3406"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/85089a955145403722337807300/playlist_eof.m3u8?t=69d1d81f&us=1c0b7388d3&sign=7d3cad29092a01cde0ab3e1c2f89fc64"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/338729155145403722336625402/playlist_eof.m3u8?t=69d1c2e6&us=9ec2c4ce47&sign=3f063da006ec0a5367da55686c4137e9"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/338729155145403722336625402/playlist_eof.m3u8?t=69d1d81f&us=1c0b7388d3&sign=c7c2ea597264512bcbd956094a02ce7f"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2ecb4cda5145403722336416490/playlist_eof.m3u8?t=69d1c2e6&us=9ec2c4ce47&sign=b7e98d90ca82fdfe07328f852da913fb"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2ecb4cda5145403722336416490/playlist_eof.m3u8?t=69d1d81f&us=1c0b7388d3&sign=2acceeb0811c523db4f38aec41ab3dab"
         ]
       }
     ]
