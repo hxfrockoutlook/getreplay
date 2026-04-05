@@ -1,5 +1,31 @@
 [
   {
+    "mgdbId": 6278,
+    "pID": "80e5335f9120a810781d885f2ce5f9d9",
+    "title": "日职联 3:2",
+    "keyword": "04月05日15:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "日职联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/937795c0851c1e794e96a5cb660fcd59.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "川崎前锋VS浦和红钻",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月05日15:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3c410b9b5145403722391635361/playlist_eof.m3u8?t=69d274c6&us=4f9bd1d250&sign=2f1fb71846c11bd6073a226db5c4603d"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 6277,
     "pID": "c714b62673b5796828d2dd8d1b3d0891",
     "title": "日职联 0:0",
@@ -176,19 +202,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6c3ee4de5145403722361196419/playlist_eof.m3u8?t=69d262c2&us=1b0bd9c729&sign=7fe5b9526952a0a2673f7cd4ecf4d3be"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6c3ee4de5145403722361196419/playlist_eof.m3u8?t=69d274c8&us=efd8138e3b&sign=0c9673a87ef0669a598357997d1827df"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6def8c2e5145403722361203441/playlist_eof.m3u8?t=69d262c2&us=1b0bd9c729&sign=7c1085d1ae2fff80df112ea2c1f57a18"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6def8c2e5145403722361203441/playlist_eof.m3u8?t=69d274c8&us=efd8138e3b&sign=96557e8fc37972aebd8252518efd716b"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fb74b5db5145403722332499160/playlist_eof.m3u8?t=69d262c2&us=1b0bd9c729&sign=7ff153604a6499fb81dd0555169c4716"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fb74b5db5145403722332499160/playlist_eof.m3u8?t=69d274c8&us=efd8138e3b&sign=403a662ef4ee42315a6570c867d7c2ca"
         ]
       }
     ]
