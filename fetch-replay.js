@@ -192,7 +192,7 @@ async function main() {
         for (let i = 0; i < Math.min(count, 3); i++) {
           nodes.push({
             name: `${nameTemplates[i]}(${numberToChinese(i + 1)})`,
-            url: [`https://miguvideo.hxfrock.ggff.net/api/player?flag=88看球回放&pid=${match.mgdbId}_${i}`]
+            url: [`https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=${match.mgdbId}_${i}`]
           });
         }
       } else {
