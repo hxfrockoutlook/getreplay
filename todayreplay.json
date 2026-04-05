@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 6563,
+    "pID": "c439be2d48e4d3a7152b277594cdb7f1",
+    "title": "意甲 0:1",
+    "keyword": "04月06日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/7ca5de14056c7290f6787e0943aa11ad.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "比萨VS都灵",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月06日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a9d4b7025145403722429946505/playlist_eof.m3u8?t=69d2f56f&us=c99e9759d7&sign=2733d2dd99f9182450a8052ecc562f5a"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/da49c6965145403722430644191/playlist_eof.m3u8?t=69d2f56f&us=c99e9759d7&sign=958cf17a4d78d0dcea516b7b41ae8c4a"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a7d974a35145403722429895350/playlist_eof.m3u8?t=69d2f56f&us=c99e9759d7&sign=99570a9c17942d6ca811a290651b419e"
+        ]
+      }
+    ]
+  }
+]
