@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 6802,
+    "pID": "1f17d1ea3a5a97337cc61ce25c041295",
+    "title": "英冠 2:2",
+    "keyword": "04月07日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/54d8cca610fda7b60925116c3b2aacdb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "斯旺西VS米德尔斯堡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月07日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/26372dd95145403722502732277/playlist_eof.m3u8?t=69d44a92&us=cef3d7dafe&sign=6b1326a24c0f65563a6f8818a044c7e7"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 6723,
+    "pID": "c6150dd3a00af88846cb46af7ab51bf5",
+    "title": "意甲 2:0",
+    "keyword": "04月07日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dc0e43b95c6676c54415bac168472aa4.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "尤文VS热那亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月07日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c837fdc45145403722528575338/playlist_eof.m3u8?t=69d44a93&us=26c2372730&sign=4cedbc1ff6206d49e33fcc574732ea34"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6947c5ba5145403722401914566/playlist_eof.m3u8?t=69d44a93&us=26c2372730&sign=adb114f015833bff772fce31e5135f0b"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/880848c05145403722500598465/playlist_eof.m3u8?t=69d44a93&us=26c2372730&sign=28daab072e07ca072518f5f9367904e6"
+        ]
+      }
+    ]
+  }
+]
