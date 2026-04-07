@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 7104,
+    "pID": "acd311f46316902d0f86af00152ec659",
+    "title": "欧篮联 95:80",
+    "keyword": "04月08日00:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ca224b11d94be0f26e2043aa8584db09.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "特拉维夫夏普尔VS费内巴切",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月08日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7b96e6045145403722612277957/playlist_eof.m3u8?t=69d5a431&us=dae0a6bf44&sign=6aadb59f023308d1b62ab84c4a4a714b"
+        ]
+      }
+    ]
+  }
+]
