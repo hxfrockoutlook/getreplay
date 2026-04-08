@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 7149,
+    "pID": "ad0ba6f2aa2902733322811b80d6dbd3",
+    "title": "欧联杯 1:1",
+    "keyword": "04月09日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧联杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布拉加VS贝蒂斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月09日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6952f9215145403722734544682/playlist_eof.m3u8?t=69d6edc7&us=cff78eca84&sign=dcdd4caff86bc3774b7ab4295cf3066f"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f779725c5145403722736024592/playlist_eof.m3u8?t=69d6edc7&us=cff78eca84&sign=6423e758bfc27ee3fd49ff485b29d40b"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/eefb16555145403722705412129/playlist_eof.m3u8?t=69d6edc7&us=cff78eca84&sign=8903b8c784b509d21d379559754e9b0b"
+        ]
+      }
+    ]
+  }
+]
