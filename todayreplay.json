@@ -1,5 +1,83 @@
 [
   {
+    "mgdbId": 7335,
+    "pID": "53a5b8769e399e89a18515fd27c18b3f",
+    "title": "欧篮联 84:94",
+    "keyword": "04月10日02:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1309d2bd483aa23e4c1d54a3dcba94eb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "米兰奥林匹亚VS拜仁慕尼黑",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月10日02:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bfc36b775145403722820614138/playlist_eof.m3u8?t=69d85aee&us=de0d177fe7&sign=a0b1782aacd3c1d15c3d030547488a91"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 7242,
+    "pID": "cffbf2debbfa5c9a09477aa190df1e4a",
+    "title": "沙特超 2:3",
+    "keyword": "04月10日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/381dd852484f06350b771097612cf08e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "达曼协作VS利雅得体育",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月10日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/39cc745b5145403722730705339/playlist_eof.m3u8?t=69d85493&us=1b1072c7a1&sign=b7b8cedb21adb37f084b14638359b479"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 7334,
+    "pID": "f0ba31f8a390b24fef46781168037177",
+    "title": "欧篮联 69:74",
+    "keyword": "04月10日01:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/9b0fab2fcb670f18c7b275159b44cb48.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "费内巴切VS皇家马德里",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月10日01:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7dafdbc25145403722850338377/playlist_eof.m3u8?t=69d85495&us=b11d3a7406&sign=c5dd175d41769733e3941d0f1ecedae1"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 7234,
     "pID": "431ee4e11af0dc83f16ec054d4ab1c29",
     "title": "欧足联 3:0",
@@ -20,19 +98,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a5464ae05145403722847038822/playlist_eof.m3u8?t=69d83f7c&us=19f412c7d6&sign=c1a5aeaed99a74944f4cfc6371d7fa4b"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a5464ae05145403722847038822/playlist_eof.m3u8?t=69d85aef&us=1894a4b766&sign=ea370174bb8c96e9dec270867655a3a8"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5f5e8f9f5145403722805293374/playlist_eof.m3u8?t=69d83f7c&us=19f412c7d6&sign=b1b3153ede1655a8a59f825c0179d659"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5f5e8f9f5145403722805293374/playlist_eof.m3u8?t=69d85aef&us=1894a4b766&sign=554b85a29abb9847d075b0f6de3a06d0"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4f8f433e5145403722808682350/playlist_eof.m3u8?t=69d83f7c&us=19f412c7d6&sign=ca409d2038b5af02afe072e5b879941a"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4f8f433e5145403722808682350/playlist_eof.m3u8?t=69d85aef&us=1894a4b766&sign=c0c8d9e84e8500aeeaae2b2187e4751a"
         ]
       }
     ]
@@ -58,7 +136,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b2edecbb5145403722806537530/playlist_eof.m3u8?t=69d8468e&us=0dc58dc741&sign=7597f59ab2917100ef253048e75c65c7"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b2edecbb5145403722806537530/playlist_eof.m3u8?t=69d85aef&us=1894a4b766&sign=82bc1980430345a6a983dfc6702299b3"
         ]
       }
     ]
