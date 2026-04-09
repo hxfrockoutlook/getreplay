@@ -1,43 +1,5 @@
 [
   {
-    "mgdbId": 7230,
-    "pID": "d1afaa25052fba7aa515f40c97bc358a",
-    "title": "欧联杯 1:3",
-    "keyword": "04月10日03:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "博洛尼亚VS阿斯顿维拉",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "04月10日03:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/017f75be5145403722821172883/playlist_eof.m3u8?t=69d8749a&us=c6acbc823d&sign=0184e19b5950c93cdff8be17028d33f1"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fe5852345145403722855300072/playlist_eof.m3u8?t=69d8749a&us=c6acbc823d&sign=9d8ef7a67fc97f57533896d433f52d3a"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/93cf61015145403722816079192/playlist_eof.m3u8?t=69d8749a&us=c6acbc823d&sign=e5587483e8520578f6a5d0f0f3487377"
-        ]
-      }
-    ]
-  },
-  {
     "mgdbId": 7247,
     "pID": "1dcceed89b4cce405b3f2a5edd850790",
     "title": "欧足联 3:0",
@@ -178,17 +140,17 @@
     ]
   },
   {
-    "mgdbId": 7228,
-    "pID": "2627b442fa5b51cd9574ec2c9f8f5404",
-    "title": "欧联杯 3:0",
+    "mgdbId": 7230,
+    "pID": "d1afaa25052fba7aa515f40c97bc358a",
+    "title": "欧联杯 1:3",
     "keyword": "04月10日03:00",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
     "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
     "competitionLogo": "",
-    "pkInfoTitle": "弗赖堡VS塞尔塔",
+    "pkInfoTitle": "博洛尼亚VS阿斯顿维拉",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
@@ -198,19 +160,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fa40f59d5145403722855184008/playlist_eof.m3u8?t=69d8749d&us=682e78cae2&sign=55e2b7dd5c66f0249d12a96a6121db72"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/017f75be5145403722821172883/playlist_eof.m3u8?t=69d8749a&us=c6acbc823d&sign=0184e19b5950c93cdff8be17028d33f1"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bd66c22a5145403722854858158/playlist_eof.m3u8?t=69d8749d&us=682e78cae2&sign=ab0704dbe513f9f57fddc3f06a7c537c"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fe5852345145403722855300072/playlist_eof.m3u8?t=69d8749a&us=c6acbc823d&sign=9d8ef7a67fc97f57533896d433f52d3a"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/56b95e525145403722815713030/playlist_eof.m3u8?t=69d8749d&us=682e78cae2&sign=0bc73dae58b75c372a1ae9f45501ffe0"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/93cf61015145403722816079192/playlist_eof.m3u8?t=69d8749a&us=c6acbc823d&sign=e5587483e8520578f6a5d0f0f3487377"
         ]
       }
     ]
@@ -249,6 +211,44 @@
         "name": "超清外语1(三)",
         "url": [
           "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/505900265145403722856553097/playlist_eof.m3u8?t=69d8749d&us=682e78cae2&sign=f628812d6b7c63239a3e208ed560aaec"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 7228,
+    "pID": "2627b442fa5b51cd9574ec2c9f8f5404",
+    "title": "欧联杯 3:0",
+    "keyword": "04月10日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧联杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "弗赖堡VS塞尔塔",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月10日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fa40f59d5145403722855184008/playlist_eof.m3u8?t=69d8749d&us=682e78cae2&sign=55e2b7dd5c66f0249d12a96a6121db72"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bd66c22a5145403722854858158/playlist_eof.m3u8?t=69d8749d&us=682e78cae2&sign=ab0704dbe513f9f57fddc3f06a7c537c"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/56b95e525145403722815713030/playlist_eof.m3u8?t=69d8749d&us=682e78cae2&sign=0bc73dae58b75c372a1ae9f45501ffe0"
         ]
       }
     ]
@@ -326,7 +326,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/39cc745b5145403722730705339/playlist_eof.m3u8?t=69d86797&us=81ecd66d8a&sign=061a2790f57a217fc0986fd424104be4"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/39cc745b5145403722730705339/playlist_eof.m3u8?t=69d87f1f&us=7dcd85c08d&sign=6966a9fbb486c4211b838bb9586d76c2"
         ]
       }
     ]
@@ -352,7 +352,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7dafdbc25145403722850338377/playlist_eof.m3u8?t=69d86798&us=725c1f30f6&sign=c9d23515fcbc87025952970521859165"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7dafdbc25145403722850338377/playlist_eof.m3u8?t=69d87f20&us=01aad5f311&sign=f173d27e70a1c84190ce405650bf5c15"
         ]
       }
     ]
@@ -442,7 +442,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f7fe6d8a5145403722699207298/playlist_eof.m3u8?t=69d86798&us=725c1f30f6&sign=269f476a60f99854be708baa2f630b85"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f7fe6d8a5145403722699207298/playlist_eof.m3u8?t=69d87f21&us=a5df60aa75&sign=5caa1ec33a908cf20a09a492cc4451dc"
         ]
       }
     ]
