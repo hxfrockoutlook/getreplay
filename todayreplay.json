@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 7234,
+    "pID": "431ee4e11af0dc83f16ec054d4ab1c29",
+    "title": "欧足联 3:0",
+    "keyword": "04月10日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/5005d8feab109ce64e40beb98073cc1f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "巴列卡诺VS雅典AEK",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月10日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a5464ae05145403722847038822/playlist_eof.m3u8?t=69d83f7c&us=19f412c7d6&sign=c1a5aeaed99a74944f4cfc6371d7fa4b"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5f5e8f9f5145403722805293374/playlist_eof.m3u8?t=69d83f7c&us=19f412c7d6&sign=b1b3153ede1655a8a59f825c0179d659"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4f8f433e5145403722808682350/playlist_eof.m3u8?t=69d83f7c&us=19f412c7d6&sign=ca409d2038b5af02afe072e5b879941a"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 7233,
+    "pID": "8bd469a3614420e57a6ff7ad166923c6",
+    "title": "沙特超 1:1",
+    "keyword": "04月10日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/5f0fa2c7f5502f43700281d32ee636d2.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "达马克VS胡拜尔库迪西亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月10日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f7fe6d8a5145403722699207298/playlist_eof.m3u8?t=69d83875&us=e4d58395ab&sign=666deef4cd41cc337d0942398ac90c2c"
+        ]
+      }
+    ]
+  }
+]
