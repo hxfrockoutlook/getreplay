@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 7378,
+    "pID": "1735f01b7fa0633c651b0aec9b627ccb",
+    "title": "法甲 4:1",
+    "keyword": "04月11日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/83a982f8219a768e7cd29d1ac765b199.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "巴黎FCVS摩纳哥",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月11日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/906092405145403722809111859/playlist_eof.m3u8?t=69d9980c&us=4aba2c1df5&sign=d0ea4ca3de0eb328180d466b3b7f320f"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2b34399d5145403722920255556/playlist_eof.m3u8?t=69d9980c&us=4aba2c1df5&sign=42ab295cd8d28f840790d2d9ba5d175c"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/80ea4f675145403722955918705/playlist_eof.m3u8?t=69d9980c&us=4aba2c1df5&sign=8d148423b5179e1a2aded3208d22482c"
+        ]
+      }
+    ]
+  }
+]
