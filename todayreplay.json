@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 8233,
+    "pID": "ab98769cc125fda759ff95508fec2dad",
+    "title": "德甲 0:1",
+    "keyword": "04月13日01:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "德甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/903089d338485f6c68fbc5da690a0628.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "美因茨VS弗赖堡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月13日01:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7e4ba2cc5145403723164857877/playlist_eof.m3u8?t=69dc491f&us=a306613925&sign=8e38df269b4e8f93ec0b40fecf9dd76b"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a60a66e15145403723025897308/playlist_eof.m3u8?t=69dc491f&us=a306613925&sign=fe29745ea415c703959f258ca055e986"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ed8fe4625145403723138871276/playlist_eof.m3u8?t=69dc491f&us=a306613925&sign=cec54325449b77995b18ef10ff358ade"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 8234,
     "pID": "ba085151bab5e9bedbaec74c31e64e99",
     "title": "西甲 0:3",
@@ -20,19 +58,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dd9cb7ec5145403723050301075/playlist_eof.m3u8?t=69dc3402&us=4580a3dd03&sign=ab102b1d0e3fcf66db0c35e35eea56e6"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dd9cb7ec5145403723050301075/playlist_eof.m3u8?t=69dc4d27&us=4b3b421bc4&sign=1bcce88e5af0e9a201b31e16463e413f"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/47c2d0cf5145403723160713015/playlist_eof.m3u8?t=69dc3402&us=4580a3dd03&sign=fb117d059782f1d1d1f96bcd6c8f83f9"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/47c2d0cf5145403723160713015/playlist_eof.m3u8?t=69dc4d27&us=4b3b421bc4&sign=ee27e2a55d545d2f5649b27630192181"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c9a8c55f5145403723172562278/playlist_eof.m3u8?t=69dc3402&us=4580a3dd03&sign=4257bfeecce06c9c9789dcc470080019"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c9a8c55f5145403723172562278/playlist_eof.m3u8?t=69dc4d27&us=4b3b421bc4&sign=d189d977c99244472326be5bfab6387f"
         ]
       }
     ]
@@ -58,19 +96,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/58c6bcbe5145403723024855654/playlist_eof.m3u8?t=69dc3404&us=383dac15b2&sign=5215860bef68df7b2ae6c8b74c0400cb"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/58c6bcbe5145403723024855654/playlist_eof.m3u8?t=69dc4d27&us=4b3b421bc4&sign=22d13974b486d45304a91a3250c4b6c5"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3bc60ae15145403723129096735/playlist_eof.m3u8?t=69dc3404&us=383dac15b2&sign=5b9a3075022fc372857c0e2cd06c5791"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3bc60ae15145403723129096735/playlist_eof.m3u8?t=69dc4d27&us=4b3b421bc4&sign=f9579d07dce2c07adcda81d33e6347f5"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b9eba7945145403723158302334/playlist_eof.m3u8?t=69dc3404&us=383dac15b2&sign=3323e68eebba8ab9eb03ccb4225654d1"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b9eba7945145403723158302334/playlist_eof.m3u8?t=69dc4d27&us=4b3b421bc4&sign=bedbcdcaf4bc60e46dab8701548484aa"
         ]
       }
     ]
