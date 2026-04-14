@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 8530,
+    "pID": "4bd4e530c1faf9d1167c5dffea3b7249",
+    "title": "沙特超 2:2",
+    "keyword": "04月15日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bc74439d19c8bbaa17c57406b120b86d.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "胡拜尔库迪西亚VS利雅得青年人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月15日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/424c4ac15145403723350639664/playlist_eof.m3u8?t=69deec13&us=d9d72d0770&sign=4fc2bbb1dad1b7939ef6495cae73e620"
+        ]
+      }
+    ]
+  }
+]
