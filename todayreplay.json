@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "mgdbId": 8748,
+    "pID": "92c6dce24904024581137ab2395139d5",
+    "title": "欧联杯 1:3",
+    "keyword": "04月17日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧联杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "塞尔塔VS弗赖堡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月17日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ff8fa8bf5145403723587183260/playlist_eof.m3u8?t=69e179fb&us=37f4c7b3ea&sign=5b247a9b1fa35c20796a0a247cb3b8a4"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4bb5aa985145403723547015641/playlist_eof.m3u8?t=69e179fb&us=37f4c7b3ea&sign=6617a844102792b8eb5fac204fbc588c"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7528dabb5145403723425728116/playlist_eof.m3u8?t=69e179fb&us=37f4c7b3ea&sign=e1bdace99db7e92e94765e47978c616f"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 8761,
+    "pID": "db090998458c3cfb724be16057524ac6",
+    "title": "欧足联 2:2",
+    "keyword": "04月17日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/e52b745126bbb6bdddc90b91b44413ae.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "阿尔克马尔VS顿涅茨克矿工",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月17日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/03f8129e5145403723546298113/playlist_eof.m3u8?t=69e179f4&us=7849a0852e&sign=a42b6c3670d97073c099992711097d55"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2940d23b5145403723431582841/playlist_eof.m3u8?t=69e179f4&us=7849a0852e&sign=dd67be7e231b45b8769d84b87adb9353"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9b5ab83f5145403723429167326/playlist_eof.m3u8?t=69e179f4&us=7849a0852e&sign=2dd931a70b2274ced868812916b9c10a"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 8759,
+    "pID": "fc00c1ea104844fe6b5f9f6e1b4e5855",
+    "title": "亚精英赛 3:3",
+    "keyword": "04月17日00:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "亚精英赛",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/5c794bfbf3227563c85323bb624721ec.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "萨德VS神户胜利船",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月17日00:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a24098775145403723572814032/playlist_eof.m3u8?t=69e1864f&us=0ad5c08494&sign=a50024d982f44908b1cbf2d684b93769"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a52737e95145403723572995940/playlist_eof.m3u8?t=69e1864f&us=0ad5c08494&sign=8de99b345d50e90765d26cc514649c63"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9b49afdd5145403723429159116/playlist_eof.m3u8?t=69e1864f&us=0ad5c08494&sign=d5c9d9e236a3ff2c051f6f25407733dd"
+        ]
+      }
+    ]
+  }
+]
