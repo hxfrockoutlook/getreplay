@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 9251,
+    "pID": "a82d69df0fec5a6535729c51250a3b18",
+    "title": "欧篮联 85:79",
+    "keyword": "04月18日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/2d05b2c06841b4f3e6df084479f08594.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "萨拉基利斯VS巴黎",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月18日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6c09d68d5145403723697693365/playlist_eof.m3u8?t=69e2d287&us=60c117f8a3&sign=7997e80ba5ccd33196390b009b9f300a"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 8885,
+    "pID": "f8daee5ab73e86e1efde3cf90cfdc5c8",
+    "title": "意甲 2:1",
+    "keyword": "04月18日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/616bf242a532f72e970648f2ead423cf.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "萨索洛VS科莫",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月18日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ae893e595145403723735023671/playlist_eof.m3u8?t=69e2cb66&us=e1156ed517&sign=63722aa6ef516220e854233009d29908"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/258dc6e75145403723577929009/playlist_eof.m3u8?t=69e2cb66&us=e1156ed517&sign=9fade7e041c6a7838d608be4be1c0700"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b5bd53365145403723735350404/playlist_eof.m3u8?t=69e2cb66&us=e1156ed517&sign=5b59b4a8c26946b64fa855d726e10710"
+        ]
+      }
+    ]
+  }
+]
