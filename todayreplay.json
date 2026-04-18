@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 9327,
+    "pID": "0716294e862547aa300103a42fb3c975",
+    "title": "法甲 1:1",
+    "keyword": "04月19日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/526150064f4f983d670deb33fa6385b6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "昂热VS勒阿弗尔",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月19日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/52c304fc5145403723744262804/playlist_eof.m3u8?t=69e423ee&us=a356c0cdda&sign=3d7c8bb01c919d1b95e3ffd046fbc62f"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6ac272225145403723649754161/playlist_eof.m3u8?t=69e423ee&us=a356c0cdda&sign=c5aa3f95b08a87a45af42dc30ca585a6"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c66060bd5145403723742801871/playlist_eof.m3u8?t=69e423ee&us=a356c0cdda&sign=96259b91b587fee6e59fccaa49db3160"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 9315,
     "pID": "9c07be3fc6212b4e9711b14eb7aa2ea1",
     "title": "英超 2:2",
@@ -122,19 +160,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ff6c1b8d5145403723807356898/playlist_eof.m3u8?t=69e415de&us=d3150559df&sign=771da1d55be47aaa8f7335f3b19c1203"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ff6c1b8d5145403723807356898/playlist_eof.m3u8?t=69e42a15&us=7496482a1e&sign=df119cf4276108753c9d830972713e81"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ce2575b55145403723810204375/playlist_eof.m3u8?t=69e415de&us=d3150559df&sign=e3c59b3d5074a3b6503ba356d0200795"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ce2575b55145403723810204375/playlist_eof.m3u8?t=69e42a15&us=7496482a1e&sign=1f89f251dbb1cb88e8d439f42ae921a8"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0b59f5cc5145403723848945744/playlist_eof.m3u8?t=69e415de&us=d3150559df&sign=521f6257629bbb306cc533b37d8cc9e4"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0b59f5cc5145403723848945744/playlist_eof.m3u8?t=69e42a15&us=7496482a1e&sign=32be4d07b7abe351b3b24aee74dcabf1"
         ]
       }
     ]
