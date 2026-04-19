@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 9772,
+    "pID": "c3cd677fc0fe391fe6bb9c15066a5d11",
+    "title": "意甲 1:2",
+    "keyword": "04月20日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/7ca5de14056c7290f6787e0943aa11ad.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "比萨VS热那亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月20日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9bb426c65145403723911767376/playlist_eof.m3u8?t=69e5677a&us=8f7ed3a496&sign=84f6a4e77a9e3eb9cc5ea69ca6d80c74"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/be195dff5145403723806852227/playlist_eof.m3u8?t=69e5677a&us=8f7ed3a496&sign=f9e209eb42572666b97aa65f0cbd6f84"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/2ca3d9055145403723835465942/playlist_eof.m3u8?t=69e5677a&us=8f7ed3a496&sign=3dff8dfca7677052dbfa680a522add9c"
+        ]
+      }
+    ]
+  }
+]
