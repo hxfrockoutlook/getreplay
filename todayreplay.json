@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 9905,
+    "pID": "55960b769c41359a2aa20e710946e44f",
+    "title": "亚精英赛 1:2",
+    "keyword": "04月21日00:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "亚精英赛",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/d85cce27ab583e5b3cead155f02b098a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "神户胜利船VS吉达国民",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月21日00:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7bd672b25145403724052339121/playlist_eof.m3u8?t=69e6bc8e&us=ac9c5005e9&sign=7282235de68076d9a53e3541787a906b"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/54abae025145403723900190996/playlist_eof.m3u8?t=69e6bc8e&us=ac9c5005e9&sign=2b7890429cf6e4af5802983f08ad952b"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dcac08795145403724084403347/playlist_eof.m3u8?t=69e6bc8e&us=ac9c5005e9&sign=7748ba75cc160c2c930d57023aeead37"
+        ]
+      }
+    ]
+  }
+]
