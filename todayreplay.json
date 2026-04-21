@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "mgdbId": 9992,
+    "pID": "b67052eb8ec789a683797ec2571899b7",
+    "title": "西甲 1:1",
+    "keyword": "04月22日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fdef90456d2a2eee09976c558457aec7.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "马略卡VS瓦伦西亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月22日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9fa5903a5145403724215572057/playlist_eof.m3u8?t=69e81888&us=b4d3fb09ef&sign=dcc426f6bc32a61c0dce9b632e032a1d"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6acf43f55145403724204739013/playlist_eof.m3u8?t=69e81888&us=b4d3fb09ef&sign=ea7e3ad4fe177f17173ac2f29f7b3319"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/13a96d635145403724054264859/playlist_eof.m3u8?t=69e81888&us=b4d3fb09ef&sign=2e78985a08b67aeb6f672711d6d40e57"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 9993,
+    "pID": "fe0341d27bcb8689fa078a8a2dcacf5c",
+    "title": "西甲 1:0",
+    "keyword": "04月22日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/abbb31d42c55612737713aac6567a226.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "毕尔巴鄂VS奥萨苏纳",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月22日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9f39abc05145403724215513869/playlist_eof.m3u8?t=69e81886&us=86959388d5&sign=779e387b9ebb36666b310a55b3212ba7"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6faa351b5145403724164052962/playlist_eof.m3u8?t=69e81886&us=86959388d5&sign=4b03d7c5df001ecabc101ea2908c547e"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/983b3df95145403724215215575/playlist_eof.m3u8?t=69e81886&us=86959388d5&sign=3d61ada3731784bb5755ae4cad871a1e"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 10004,
+    "pID": "7670262e5aac599255fc94e1657daaa7",
+    "title": "亚精英赛 1:0",
+    "keyword": "04月22日00:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "亚精英赛",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "町田泽维亚VS迪拜青年国民",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月22日00:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f50980365145403724033549501/playlist_eof.m3u8?t=69e81183&us=fac1ce08fc&sign=793c55cdbddf798efff46659cfe8aea6"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b1a70e785145403724212265833/playlist_eof.m3u8?t=69e81183&us=fac1ce08fc&sign=2de5e116da62057439dabeb589593fbe"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bfdc327d5145403724212895253/playlist_eof.m3u8?t=69e81183&us=fac1ce08fc&sign=5789c609639508bc1457cb5cc3f04500"
+        ]
+      }
+    ]
+  }
+]
