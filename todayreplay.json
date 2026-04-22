@@ -1,5 +1,37 @@
 [
   {
+    "mgdbId": 9998,
+    "pID": "cc8cddfe75ee01729d781c645bae0e98",
+    "title": "中超 2:0",
+    "keyword": "04月22日20:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "中超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/e8327d4681b4a73c83be9fe087b30721.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "上海申花VS青岛海牛",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月22日20:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3e5629b65145403724302436354/playlist_eof.m3u8?t=69e92ab9&us=791169a323&sign=250dd1ed56845846d6ea72d688d8fcd4"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1f70065c5145403724275113854/playlist_eof.m3u8?t=69e92ab9&us=791169a323&sign=68b73ce182ded64cd3261c5977dd314f"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 9996,
     "pID": "465dfa86e104f812133bbee1241374c1",
     "title": "中超 0:1",
@@ -20,13 +52,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/965f5dff5145403724256232649/playlist_eof.m3u8?t=69e91d97&us=d24f3964b9&sign=e45e0d8613b810bf2b713096a909ce18"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/965f5dff5145403724256232649/playlist_eof.m3u8?t=69e93319&us=243839c783&sign=646a35c5d41e300ba7256af5f858a304"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5304db275145403724255677447/playlist_eof.m3u8?t=69e91d97&us=d24f3964b9&sign=f4e8afceeac23ad9fb72ea5f21672c1d"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5304db275145403724255677447/playlist_eof.m3u8?t=69e93319&us=243839c783&sign=67246560ea5b7f500b7526e85c0c5fd8"
         ]
       }
     ]
@@ -52,13 +84,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/796407d45145403724290210932/playlist_eof.m3u8?t=69e91d80&us=ef8f8d55ba&sign=9e863e810e2d3c1f67df8ac0df144433"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/796407d45145403724290210932/playlist_eof.m3u8?t=69e9331a&us=d232dd29d0&sign=80fc3118019700feb95826d74324e1ab"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5753adfd5145403724255825910/playlist_eof.m3u8?t=69e91d80&us=ef8f8d55ba&sign=1b3739a1c03fa83170456b262fb04c88"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5753adfd5145403724255825910/playlist_eof.m3u8?t=69e9331a&us=d232dd29d0&sign=26d23bb40debb89fb37d5500744d1b0b"
         ]
       }
     ]
@@ -84,7 +116,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/79e66cbf5145403724290287272/playlist_eof.m3u8?t=69e91d97&us=d24f3964b9&sign=ab83b045f832bf9b7fd0d7e25dd8e822"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/79e66cbf5145403724290287272/playlist_eof.m3u8?t=69e9331a&us=d232dd29d0&sign=a9cd4b0e07818da1cdaf87f30007148b"
         ]
       }
     ]
@@ -110,7 +142,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1080d4385145403724285334322/playlist_eof.m3u8?t=69e91d98&us=f834b642ba&sign=3fbc8d857294bed57a49db1b8d75889b"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1080d4385145403724285334322/playlist_eof.m3u8?t=69e9331a&us=d232dd29d0&sign=a4b08300b2f3f176877fc64f88b4f050"
         ]
       }
     ]
@@ -136,7 +168,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d1e1ab6e5145403724284987367/playlist_eof.m3u8?t=69e91d98&us=f834b642ba&sign=d195fffcd7af1258b3b3b70cbe44b960"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d1e1ab6e5145403724284987367/playlist_eof.m3u8?t=69e9331a&us=d232dd29d0&sign=5a3d466a01728f6b86ef20bf14e0acae"
         ]
       }
     ]
@@ -162,7 +194,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/41cf71fa5145403724248143336/playlist_eof.m3u8?t=69e91d98&us=f834b642ba&sign=c917845e977f645ea078f377f11dfbf6"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/41cf71fa5145403724248143336/playlist_eof.m3u8?t=69e9331b&us=aa33cba7e5&sign=c2a9618497a3ff72c582b043da0a58f9"
         ]
       }
     ]
@@ -188,7 +220,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/23f8b0435145403724292957045/playlist_eof.m3u8?t=69e91d99&us=e4fa4f81c2&sign=9b56c347b1881857d129e0389a0a5fdf"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/23f8b0435145403724292957045/playlist_eof.m3u8?t=69e9331b&us=aa33cba7e5&sign=05cab6b39ba35d34d6151df64fc8d540"
         ]
       }
     ]
@@ -214,19 +246,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/44872f115145403724255007141/playlist_eof.m3u8?t=69e91d99&us=e4fa4f81c2&sign=7f60a1558c31fe8e843a986b8701439d"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/44872f115145403724255007141/playlist_eof.m3u8?t=69e9331b&us=aa33cba7e5&sign=41dda40d7c7a060a7a2dcfb6a32b77b2"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6a4fa3dd5145403724079106842/playlist_eof.m3u8?t=69e91d99&us=e4fa4f81c2&sign=43583b504b64f07111e228f81a39408c"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6a4fa3dd5145403724079106842/playlist_eof.m3u8?t=69e9331b&us=aa33cba7e5&sign=272c768faf3d8c4d4c741a1a3daa6cd4"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0a9f01015145403724254860484/playlist_eof.m3u8?t=69e91d99&us=e4fa4f81c2&sign=d45b15371bfb2993af4857b824e88da6"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0a9f01015145403724254860484/playlist_eof.m3u8?t=69e9331b&us=aa33cba7e5&sign=de775b4bb4648358c4db6e79adde9f42"
         ]
       }
     ]
@@ -252,19 +284,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3bd53a375145403724200972308/playlist_eof.m3u8?t=69e90f9a&us=d5a9785365&sign=29a6eda560792bef8ea8baefce2790fc"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3bd53a375145403724200972308/playlist_eof.m3u8?t=69e930e6&us=c6c8869c8a&sign=63a1cb3689dc49418e097f3620ab0936"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/aa67dee05145403724066990433/playlist_eof.m3u8?t=69e90f9a&us=d5a9785365&sign=2044e203c4ecf16f78f5b2c4abf636bc"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/aa67dee05145403724066990433/playlist_eof.m3u8?t=69e930e6&us=c6c8869c8a&sign=2bdaf66886d59e77141e266bd3c137ae"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/40b23d7f5145403724099032880/playlist_eof.m3u8?t=69e90f9a&us=d5a9785365&sign=e8241411c97a41778604d983bd920f6f"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/40b23d7f5145403724099032880/playlist_eof.m3u8?t=69e930e6&us=c6c8869c8a&sign=73802ec89021730c7018d97b1387253b"
         ]
       }
     ]
@@ -290,19 +322,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0d99d5c55145403724237396456/playlist_eof.m3u8?t=69e91d99&us=e4fa4f81c2&sign=b4c53e3debf8fb2aea9c2d48ab456bb3"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0d99d5c55145403724237396456/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=ae52ccaa4a677796d65cb9b8dfc1fef2"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/164cb4e45145403724237708485/playlist_eof.m3u8?t=69e91d99&us=e4fa4f81c2&sign=6007b1cfe30633e6142f74982556e542"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/164cb4e45145403724237708485/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=7b03dabbfbe43f1a584aaf17d41f5b89"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/26c15a5d5145403724197515252/playlist_eof.m3u8?t=69e91d99&us=e4fa4f81c2&sign=f19e994a079aa883a718bd64802206d6"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/26c15a5d5145403724197515252/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=cb1a7e59365a4dacc7e866a7e3f8aa68"
         ]
       }
     ]
@@ -328,19 +360,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/cc4a553e5145403724039953324/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=dfa2dcd6fcf59e1527dba0f1a258a6a6"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/cc4a553e5145403724039953324/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=1623f729442014c991ecc1c544b81b9f"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9f94aea55145403724215564787/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=012f0517958a3a3ff5b52175655f1f2c"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9f94aea55145403724215564787/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=549ff2640d1f9d89a64ab82a11a62bb9"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/45cc58625145403724224859417/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=62be1821f1818e3528c21f0b49bb8f39"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/45cc58625145403724224859417/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=4d7bde159d7d1c139e30e96189cbf3e6"
         ]
       }
     ]
@@ -366,19 +398,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1319b38c5145403724166476958/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=ca12a6b69b25984ebc5d331729e39d2d"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1319b38c5145403724166476958/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=2c86d829e7102504f8f274885bb09fc6"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a6b61fa05145403724215880592/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=ae97b1bcdc0c42b35b8fb7b024bb6582"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a6b61fa05145403724215880592/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=9c50bde66b0e6dccee109a8a20ca3968"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/042a9cf75145403724064407640/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=79b0cf25b32bb9ef101453a2801d120a"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/042a9cf75145403724064407640/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=7294f3afd9441b48fd295307b24b12ac"
         ]
       }
     ]
@@ -404,19 +436,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/eabede765145403724223245462/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=fb81b06aba17b20fefb2904192d2018d"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/eabede765145403724223245462/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=908e06748ef064b553b1524aeea28def"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0348bcaf5145403724213460043/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=43fc914a1c63bee3e0648a377c7d7321"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0348bcaf5145403724213460043/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=9fa28b6b03ca1e28389e588c4c322ce5"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/56b39bfe5145403724191436842/playlist_eof.m3u8?t=69e91d9a&us=ce605e0ca1&sign=8cf864ce668e2cc4d9372e26b8c02129"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/56b39bfe5145403724191436842/playlist_eof.m3u8?t=69e9331c&us=603de68958&sign=6f40edf179f9403e8f414e70c7fe8799"
         ]
       }
     ]
@@ -442,7 +474,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0aa779185145403724176920421/playlist_eof.m3u8?t=69e91d9b&us=dd6bc97dbd&sign=4b1c17a549cae04b76da4e94e7661e75"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0aa779185145403724176920421/playlist_eof.m3u8?t=69e9331d&us=4854f30123&sign=22b41cd1138015394554b6f87e180aa9"
         ]
       }
     ]
@@ -468,7 +500,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/03ab4e215145403724176626553/playlist_eof.m3u8?t=69e91d9b&us=dd6bc97dbd&sign=79ad61fc4ece0f3f66b98ab265db19e1"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/03ab4e215145403724176626553/playlist_eof.m3u8?t=69e9331d&us=4854f30123&sign=ae135227b462918cab802b863b8f983f"
         ]
       }
     ]
@@ -494,7 +526,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a9b4aec25145403724222781893/playlist_eof.m3u8?t=69e91d9b&us=dd6bc97dbd&sign=5bd69432a49b9ca3252b9d696fe511e0"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a9b4aec25145403724222781893/playlist_eof.m3u8?t=69e9331d&us=4854f30123&sign=b8ffe1a8b9542dc9d30c63921b578c05"
         ]
       }
     ]
@@ -520,7 +552,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/abaf60185145403724222831914/playlist_eof.m3u8?t=69e91d9c&us=82b4685a42&sign=0e20f68caa9f87c292bcd9db0cbd9d12"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/abaf60185145403724222831914/playlist_eof.m3u8?t=69e9331e&us=bc7684355c&sign=c9e28253d1747933d21896bb1ca4cede"
         ]
       }
     ]
@@ -546,7 +578,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0b50c67a5145403724183721156/playlist_eof.m3u8?t=69e91d9c&us=82b4685a42&sign=d11e9d6fcdc308209fd41244bf2c44d0"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0b50c67a5145403724183721156/playlist_eof.m3u8?t=69e9331e&us=bc7684355c&sign=5db53ee33d8cc20e2b933cf2227f3f65"
         ]
       }
     ]
@@ -572,7 +604,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5bb8457a5145403724191686021/playlist_eof.m3u8?t=69e916f6&us=0b54d6502f&sign=2130c5a2ee98d0fd379afe3846c9eff7"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5bb8457a5145403724191686021/playlist_eof.m3u8?t=69e9331e&us=bc7684355c&sign=8313034cbed5bea5f640df1a238e7b74"
         ]
       }
     ]
@@ -598,7 +630,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0167a05b5145403724176535134/playlist_eof.m3u8?t=69e91d9d&us=3ac646a333&sign=25e0c002972b979eb763c84cee8b4dcb"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0167a05b5145403724176535134/playlist_eof.m3u8?t=69e9331e&us=bc7684355c&sign=3ba47575bfa1e92f7d7341027198defc"
         ]
       }
     ]
@@ -624,7 +656,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0aa89e615145403724176922707/playlist_eof.m3u8?t=69e91d9d&us=3ac646a333&sign=62987cb17284126ed294a4b85245ecd5"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0aa89e615145403724176922707/playlist_eof.m3u8?t=69e9331f&us=cadbae5498&sign=aa3f7cdb00e9dc7da1ba1c3bfa8bcf92"
         ]
       }
     ]
@@ -650,7 +682,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0aaa48ab5145403724176925876/playlist_eof.m3u8?t=69e91d9d&us=3ac646a333&sign=5b44cc5ae88a2a1db645dd239b396f5d"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0aaa48ab5145403724176925876/playlist_eof.m3u8?t=69e9331f&us=cadbae5498&sign=10ae1480375cf8e500deef774382e002"
         ]
       }
     ]
@@ -676,7 +708,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/06f1a1625145403724183566418/playlist_eof.m3u8?t=69e91d9e&us=0aef5c5483&sign=acbd66f4513c8f441b5044e485aa8298"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/06f1a1625145403724183566418/playlist_eof.m3u8?t=69e9331f&us=cadbae5498&sign=2c29a424d8d29d4aa63df6f949755bdc"
         ]
       }
     ]
@@ -702,19 +734,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9fa5903a5145403724215572057/playlist_eof.m3u8?t=69e91d9e&us=0aef5c5483&sign=397a2f0097809c4d5a8579a5fcb6d87f"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9fa5903a5145403724215572057/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=593ddaba9ebb22778d7cb967c572bd40"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6acf43f55145403724204739013/playlist_eof.m3u8?t=69e91d9e&us=0aef5c5483&sign=b5649ff165ebb8fa1927a8bc3c76d4c6"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6acf43f55145403724204739013/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=04f44feec2feb6b5ddcd382f2e03102c"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/13a96d635145403724054264859/playlist_eof.m3u8?t=69e91d9e&us=0aef5c5483&sign=9eb5e80ed2fa95520ee8c667ff733315"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/13a96d635145403724054264859/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=a846163ad8127394b63ec78449bd0057"
         ]
       }
     ]
@@ -740,19 +772,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9f39abc05145403724215513869/playlist_eof.m3u8?t=69e91d9e&us=0aef5c5483&sign=670117402ae596d8ca3e4f9ec5ce7bb0"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/9f39abc05145403724215513869/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=47e21ec65f9ca9c0fc9c07b71966c071"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6faa351b5145403724164052962/playlist_eof.m3u8?t=69e91d9e&us=0aef5c5483&sign=6ec25b0ea4fd844f0b3e0f0db54e750b"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/6faa351b5145403724164052962/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=37856f598b96f7b8a648895ab7f168ac"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/983b3df95145403724215215575/playlist_eof.m3u8?t=69e91d9e&us=0aef5c5483&sign=c0fc2c34507fefb24736562f4ab61557"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/983b3df95145403724215215575/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=991e27baa9372bdc5435613ae539692c"
         ]
       }
     ]
@@ -778,19 +810,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f50980365145403724033549501/playlist_eof.m3u8?t=69e91d9f&us=28899e8f68&sign=e92b636c3eb578906b8cf65003015256"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f50980365145403724033549501/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=ebe949c0f7df7fa3cb2e8d4766493935"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b1a70e785145403724212265833/playlist_eof.m3u8?t=69e91d9f&us=28899e8f68&sign=2ca1b2761784374107dfe5f2280e019d"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b1a70e785145403724212265833/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=23ab832b60f174ae973e99db5de066e9"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bfdc327d5145403724212895253/playlist_eof.m3u8?t=69e91d9f&us=28899e8f68&sign=6e1c6c90e6622df397d8af46ce5fe5fd"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bfdc327d5145403724212895253/playlist_eof.m3u8?t=69e93320&us=667d6ac0c0&sign=84537c6412bb04fcabafd5ba4640bc2c"
         ]
       }
     ]
