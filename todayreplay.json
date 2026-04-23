@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 10291,
+    "pID": "fd78f1d0736f83d19543e64b6d90da93",
+    "title": "沙特超 1:2",
+    "keyword": "04月24日00:10",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fde877e452f79f75955ad4e4f326c654.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "纳杰马体育VS布赖代合作",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月24日00:10"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e85745005145403724420079864/playlist_eof.m3u8?t=69eaab22&us=e26acb9952&sign=ad00fef1b3d3ff12257dd5db9a5815ae"
+        ]
+      }
+    ]
+  }
+]
