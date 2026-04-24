@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 12880,
+    "pID": "31b2853c75f2f4ef51ad30f8c2b9de4a",
+    "title": "德甲 3:1",
+    "keyword": "04月25日02:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "德甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/26a59fe5653a96ba72f4f1e4e08b6d4b.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "RB莱比锡VS柏林联合",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月25日02:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/599488e15145403724547487033/playlist_eof.m3u8?t=69ec223d&us=fc15a0d11d&sign=a7617538386158088c2787fda6bc515e"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/720e15c85145403724537695418/playlist_eof.m3u8?t=69ec223d&us=fc15a0d11d&sign=5746d531f3485cd55fc0de56344a50e6"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8b769a195145403724517080273/playlist_eof.m3u8?t=69ec223d&us=fc15a0d11d&sign=906d03cff04b25ffb2dd22b85629f986"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 13235,
     "pID": "59ae6093679ddb10ab871faa3e16aaad",
     "title": "欧篮联 79:70",
@@ -20,7 +58,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3bce4c575145403724533592202/playlist_eof.m3u8?t=69ec0ac9&us=4b5d647a04&sign=8e7a1d82c4c9515b5e965f97c32fa9a7"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4a77aae65145403724540995068/playlist_eof.m3u8?t=69ec223d&us=fc15a0d11d&sign=7287b809115fe3acf4c649fa36df80a0"
         ]
       }
     ]
@@ -46,7 +84,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e65f0bdc5145403724383135481/playlist_eof.m3u8?t=69ec12fa&us=51c0951d04&sign=5b2da1ef96fe5d4c30a035ed0e25ce5a"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e65f0bdc5145403724383135481/playlist_eof.m3u8?t=69ec223e&us=5a2fd775c5&sign=657785ec42822e71845f6f927da24c46"
         ]
       }
     ]
