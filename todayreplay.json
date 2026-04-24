@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 12918,
+    "pID": "ccb828853f6bd9d34dd6d50fb8bfffe4",
+    "title": "沙特超 2:1",
+    "keyword": "04月25日00:10",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/0459eff25f56626beed63c97e0e67dcf.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "哈森姆VS利雅得体育",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月25日00:10"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e65f0bdc5145403724383135481/playlist_eof.m3u8?t=69ec03ca&us=076d706dad&sign=e0686849f4038dade0a2f4afa57b66af"
+        ]
+      }
+    ]
+  }
+]
