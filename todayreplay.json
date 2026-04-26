@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 13637,
+    "pID": "4b41c58ce3a0dde134f165d65d05b5e1",
+    "title": "意甲 2:2",
+    "keyword": "04月27日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "都灵VS国米",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月27日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b494eaa05145403724711687640/playlist_eof.m3u8?t=69ee97e4&us=c569eaa577&sign=62ab6b5dd80654d88cdaa730a77ddc46"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4567e26a5145403724754368926/playlist_eof.m3u8?t=69ee97e4&us=c569eaa577&sign=676c74f8b752869668e392989d3cc321"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b1e1e34d5145403724711531012/playlist_eof.m3u8?t=69ee97e4&us=c569eaa577&sign=a68e92e65cf305e3b3a80e79e75970f8"
+        ]
+      }
+    ]
+  }
+]
