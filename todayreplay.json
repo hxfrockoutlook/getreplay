@@ -1,5 +1,37 @@
 [
   {
+    "mgdbId": 13938,
+    "pID": "b455e33280555028d8f4d4f0d93f4113",
+    "title": "NBA 93:89",
+    "keyword": "04月27日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "猛龙VS骑士",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月27日01:00"
+    },
+    "nodes": [
+      {
+        "name": "超清中文1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4e020e315145403724747959268/playlist_eof.m3u8?t=69eeb9da&us=f891a813eb&sign=ccfca6ac52a458e69db755daca8974a8"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b70398745145403724728486988/playlist_eof.m3u8?t=69eeb9da&us=f891a813eb&sign=1eef1a4390509a9af76841e5742ad97e"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 13766,
     "pID": "c1af2763fed4e3ff7c754fed4700c0d0",
     "title": "西甲 2:1",
