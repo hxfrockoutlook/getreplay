@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 13957,
+    "pID": "eb00c8af99eb8f5c3161e801b971e0b4",
+    "title": "意甲 3:2",
+    "keyword": "04月28日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dba65c184e03c860ed919ce192b86c5e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "卡利亚里VS亚特兰大",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月28日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/3d9e86ea5145403724866243894/playlist_eof.m3u8?t=69f0001f&us=5511b17f03&sign=d00c5804d0fb8f4f6363eb919c6c73c9"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b9cf7da75145403724854353973/playlist_eof.m3u8?t=69f0001f&us=5511b17f03&sign=b65bcadf1a11045c8e62601186986323"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ffc91e805145403724855051718/playlist_eof.m3u8?t=69f0001f&us=5511b17f03&sign=b41dfdd49c535e5c0620721c2124483c"
+        ]
+      }
+    ]
+  }
+]
