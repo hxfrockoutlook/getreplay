@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 14116,
+    "pID": "9b8398a442d97d2793de77b9fdbc5bbc",
+    "title": "沙特超 1:1",
+    "keyword": "04月29日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/e5516d35314acec9169f33834a199842.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "新未来城体育VS哈森姆",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月29日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/be0afc5f5145403724949120635/playlist_eof.m3u8?t=69f1519a&us=89ccfa0a53&sign=3d4c0da16226643d69463c49110ad91b"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 14113,
+    "pID": "f1f2895efddb69a6791df62890f1ffdd",
+    "title": "沙特超 1:1",
+    "keyword": "04月29日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "利雅得青年人VS哈萨征服",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月29日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d70bdc035145403724946113892/playlist_eof.m3u8?t=69f154b0&us=279515b26a&sign=c13763e28c5134156c4855cce22a3ffe"
+        ]
+      }
+    ]
+  }
+]
