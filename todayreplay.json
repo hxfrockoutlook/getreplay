@@ -1,5 +1,69 @@
 [
   {
+    "mgdbId": 14207,
+    "pID": "a845ce40608066364522b2c87b33a9db",
+    "title": "欧冠 1:1",
+    "keyword": "04月30日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/390977b0421bce136c562057ea171ecf.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "马竞VS阿森纳",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月30日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/414f12035145403724937543183/playlist_eof.m3u8?t=69f2c117&us=58d7716d09&sign=7836b74ff5d21eb8ebe768961e3ef84d"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7af38a665145403725086443848/playlist_eof.m3u8?t=69f2c117&us=58d7716d09&sign=06efcb5b30e6bae8ad6657e82383cd59"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/823b6aeb5145403725086783972/playlist_eof.m3u8?t=69f2c117&us=58d7716d09&sign=3d792a32ea1fe0386b67078a531116bd"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 14291,
+    "pID": "d25e9b7407be53ad79fceef108ebf607",
+    "title": "欧篮联 86:82",
+    "keyword": "04月30日02:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "皇家马德里VS特拉维夫夏普尔",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月30日02:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/cf75af4e5145403724997739820/playlist_eof.m3u8?t=69f2c5b3&us=30c4a22e59&sign=3591833566fea18dec2cb6f9cfb94d3a"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 14221,
     "pID": "6f2726b493ac75b322a59cf6a50241dc",
     "title": "沙特超 2:0",
@@ -20,7 +84,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b7b863875145403725049727764/playlist_eof.m3u8?t=69f2b78c&us=d6f03c38d8&sign=445e4fedb19d1e25265f958d53a02d34"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b7b863875145403725049727764/playlist_eof.m3u8?t=69f2ccb9&us=f07bfdc0b6&sign=9d1b0a676c32d6cc127c6fdf91f18f29"
         ]
       }
     ]
@@ -46,7 +110,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/48c128f05145403725041404640/playlist_eof.m3u8?t=69f2beab&us=12d060fa83&sign=eebad4cc590d11b8f6b93fc4e1894c39"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/48c128f05145403725041404640/playlist_eof.m3u8?t=69f2ce87&us=e945f454e3&sign=6b7397d31aabc7a77dd45dbb434985d6"
         ]
       }
     ]
@@ -72,7 +136,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a81f11c15145403725073496515/playlist_eof.m3u8?t=69f2beab&us=12d060fa83&sign=12c0fb81d6a46eaeffbb7413c81a4752"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a81f11c15145403725073496515/playlist_eof.m3u8?t=69f2ce88&us=3d9f050fff&sign=5da76724b22b89f6847c1102f24d6646"
         ]
       }
     ]
