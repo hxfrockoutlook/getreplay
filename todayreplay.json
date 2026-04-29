@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 14213,
+    "pID": "57353766ca5be730479f55c4c815dc4c",
+    "title": "沙特超 0:2",
+    "keyword": "04月30日00:10",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布赖代合作VS吉达联合",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月30日00:10"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/48c128f05145403725041404640/playlist_eof.m3u8?t=69f29986&us=58835acf87&sign=571e8e285fc6912bb94c267f49001347"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 14209,
+    "pID": "87ab833217bf5c7b94f5440667c35870",
+    "title": "沙特超 0:4",
+    "keyword": "04月30日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/aa2d8e24a68822387257f31d692c4297.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "利雅得体育VS胡拜尔库迪西亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "04月30日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a81f11c15145403725073496515/playlist_eof.m3u8?t=69f29478&us=c738cb8450&sign=dbbd790923550d422462ee4ec859b0c2"
+        ]
+      }
+    ]
+  }
+]
