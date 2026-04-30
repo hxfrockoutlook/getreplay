@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 14321,
+    "pID": "e612551357c961e42616e1c11cdaaf87",
+    "title": "沙特超 1:3",
+    "keyword": "05月01日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/47edbc8776467d4a14314c82b25344ab.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "阿科多VS达曼协作",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月01日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e1b360c85145403725148846664/playlist_eof.m3u8?t=69f3ec77&us=16036600df&sign=e5d3d83e8b47a0b36d293415085a614b"
+        ]
+      }
+    ]
+  }
+]
