@@ -1,1 +1,142 @@
-[]
+[
+  {
+    "mgdbId": 14457,
+    "pID": "49627c821e5a76ce6e7004f0657ea2d3",
+    "title": "英超 3:1",
+    "keyword": "05月02日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/cd46d2ed1d364308dc206c97b48ce556.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "利兹联VS伯恩利",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月02日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f2523ae25145403725271271579/playlist_eof.m3u8?t=69f568b4&us=b008071899&sign=1feec4eb158aa17f988a96b8f22d8461"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/aa281c9c5145403725270494342/playlist_eof.m3u8?t=69f568b4&us=b008071899&sign=00d7019107ac33da008a68d9a3c46efa"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d1ed43bb5145403725314839024/playlist_eof.m3u8?t=69f568b4&us=b008071899&sign=2de465db3c1bb546ce21ed49d73124bb"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 14466,
+    "pID": "ca876bdd26ead0e0edc1967067ff433a",
+    "title": "西甲 0:1",
+    "keyword": "05月02日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/006ce259b33ef72dd5570cfa8dc39f38.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "赫罗纳VS马略卡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月02日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/438e9d455145403725272419685/playlist_eof.m3u8?t=69f568b4&us=b008071899&sign=a74b9a2fab475c7e52137a093c62f32e"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/439f93795145403725272427404/playlist_eof.m3u8?t=69f568b4&us=b008071899&sign=ea82f4550e65eba15f1093d1894d3548"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8bcad77e5145403725273206953/playlist_eof.m3u8?t=69f568b4&us=b008071899&sign=8728c9652fd085dc76a819c9cda9c65b"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 14469,
+    "pID": "2e925e16efc432eb34809a33c30df078",
+    "title": "意甲 1:2",
+    "keyword": "05月02日02:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/7ca5de14056c7290f6787e0943aa11ad.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "比萨VS莱切",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月02日02:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a2bc07d85145403725270134194/playlist_eof.m3u8?t=69f5618c&us=699a89f53e&sign=c4d862cf97d0fff084075fd066fa1179"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/425afa015145403725160189168/playlist_eof.m3u8?t=69f5618c&us=699a89f53e&sign=320c92d5290b334508c3fec33661f6b1"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bf441d435145403725314039787/playlist_eof.m3u8?t=69f5618c&us=699a89f53e&sign=94fcae1bfd78859ae331d533ded2bd9c"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 14827,
+    "pID": "372a6a044546f2cfe577bfb47d9b6f0d",
+    "title": "欧篮联 102:75",
+    "keyword": "05月02日02:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/64da3b30721ca7c898892c6baec2ec4e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "皇家马德里VS特拉维夫夏普尔",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月02日02:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d77639cd5145403725304209200/playlist_eof.m3u8?t=69f568b5&us=60e91570a2&sign=45d0b99b587b977d759ef60238ec0285"
+        ]
+      }
+    ]
+  }
+]
