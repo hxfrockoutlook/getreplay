@@ -1,1 +1,92 @@
-[]
+[
+  {
+    "mgdbId": 15304,
+    "pID": "bf6965843d0ba39fa0eb4cf1cda26317",
+    "title": "西甲 3:0",
+    "keyword": "05月04日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/018e260ad68bdad741c61e3171c4c608.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "贝蒂斯VS皇家奥维耶多",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月04日00:30"
+    },
+    "nodes": [
+      {
+        "name": "超清外语1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/aff2556a5145403725521140130/playlist_eof.m3u8?t=69f7e185&us=bc09472a8c&sign=9534b889431d197a586d77e8e7d19b6f"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15197,
+    "pID": "8dd97c58aa7afadd3afb50179e63b478",
+    "title": "意甲 1:1",
+    "keyword": "05月04日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dc0e43b95c6676c54415bac168472aa4.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "尤文VS维罗纳",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月04日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/fdb8535b5145403725485360080/playlist_eof.m3u8?t=69f7e186&us=6ef8eeed48&sign=542862099e77a8e45070f46d26b8da11"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dc46bf365145403725518053160/playlist_eof.m3u8?t=69f7e186&us=6ef8eeed48&sign=e6b6ac6284924d748cdbbb013417e502"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/18e347f95145403725363431750/playlist_eof.m3u8?t=69f7e186&us=6ef8eeed48&sign=14e82f7d5ffd836ce6cdee691cebbe4c"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15199,
+    "pID": "3c84ad0e0390f60444d20093a1ff20ba",
+    "title": "沙特超 1:5",
+    "keyword": "05月04日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "利雅得青年人VS布赖代合作",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月04日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/54c48a1cvodger1386416388/e70df5895145403725274849347/playlist_eof.m3u8?t=69f7da7a&us=fc2fb0c559&sign=11bf85920673f5d53162fe7d7b71f5c9"
+        ]
+      }
+    ]
+  }
+]
