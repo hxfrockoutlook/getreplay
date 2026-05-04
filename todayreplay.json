@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 15517,
+    "pID": "6a92a01d7bd5add13880ee851bb3aaae",
+    "title": "意甲 1:2",
+    "keyword": "05月05日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/0b0e25267dabd15c405070329df5fbdb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "克雷莫纳VS拉齐奥",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月05日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/b5ceb3055145403725626868404/playlist_eof.m3u8?t=69f93a09&us=040b7d7a3c&sign=b67db6ef96735713dcc946e47e93c02f"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/12ffce045145403725468642364/playlist_eof.m3u8?t=69f93a09&us=040b7d7a3c&sign=33bc3e4a4edcf4ce17ae8631d2d4d1c3"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/69627f1f5145403725513653078/playlist_eof.m3u8?t=69f93a09&us=040b7d7a3c&sign=f0972e1346b5e64b275240decca2a650"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15531,
+    "pID": "a2d2f764529cf015a6797be4a8aee94a",
+    "title": "沙特超 4:2",
+    "keyword": "05月05日00:10",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/2b0b85fcec97994a4758002512957d7a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "费哈VS利雅得体育",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月05日00:10"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/707a169b5145403725615304555/playlist_eof.m3u8?t=69f93288&us=d6aeb3198b&sign=eeb03c37c41055f81f2528b9b8490f97"
+        ]
+      }
+    ]
+  }
+]
