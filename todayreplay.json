@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 15672,
+    "pID": "97f42887c22db7874dee1203c84ebed1",
+    "title": "欧冠 1:0",
+    "keyword": "05月06日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/d6f5debc456da1119256ab66462ab510.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "阿森纳VS马竞",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月06日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/26cc65c75145403725696647026/playlist_eof.m3u8?t=69faa702&us=d2ae66580e&sign=e6d4f0f464988602fdfdbf1da12766f1"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c9de51e35145403725742613469/playlist_eof.m3u8?t=69faa702&us=d2ae66580e&sign=fafb3f26cec20f81538267a2542d309a"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c308eadb5145403725701287045/playlist_eof.m3u8?t=69faa702&us=d2ae66580e&sign=53dca27b2d3a2bfdeff8fa860994a41f"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 7685,
     "pID": "4c81f5e1fcc45f91d94ccb1e454ee5f7",
     "title": "沙特超 1:2",
@@ -20,7 +58,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0ece3f075145403725729750637/playlist_eof.m3u8?t=69fa9998&us=8ee8d5fce8&sign=e43b6b48974a8d7ddd1a2cd363e1623a"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0ece3f075145403725729750637/playlist_eof.m3u8?t=69faaeb1&us=ff2ff3bb63&sign=e4448e8827db97c094d1809de817e75a"
         ]
       }
     ]
@@ -46,7 +84,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d56d964d5145403725695482693/playlist_eof.m3u8?t=69fa999e&us=76e3abdbb4&sign=4c43fe73d2e812f2a10dd406da434125"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d56d964d5145403725695482693/playlist_eof.m3u8?t=69faaeb3&us=4ffb266bab&sign=054ff794ee6c83e6805772290f759279"
         ]
       }
     ]
@@ -72,7 +110,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d00866575145403725732070083/playlist_eof.m3u8?t=69fa999f&us=a1414a9b7c&sign=56e79d36e720e200b7a50eba9ca6ab95"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d00866575145403725732070083/playlist_eof.m3u8?t=69faaeb4&us=03c49beb85&sign=dc2d91524e5361dcc47a202ce7ca503a"
         ]
       }
     ]
