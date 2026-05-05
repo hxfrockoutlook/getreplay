@@ -1,5 +1,57 @@
 [
   {
+    "mgdbId": 7685,
+    "pID": "4c81f5e1fcc45f91d94ccb1e454ee5f7",
+    "title": "沙特超 1:2",
+    "keyword": "05月06日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/6d48cbd483dee74ed9aef387bb082d64.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "塞哈特海湾VS利雅得新月",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月06日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/0ece3f075145403725729750637/playlist_eof.m3u8?t=69fa9998&us=8ee8d5fce8&sign=e43b6b48974a8d7ddd1a2cd363e1623a"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15787,
+    "pID": "c746c54e6128f19172805086518e9108",
+    "title": "欧篮联 82:105",
+    "keyword": "05月06日01:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e59309cc71a5436c88b6645da5dc39fc.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "摩纳哥VS奥林匹亚科斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月06日01:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d56d964d5145403725695482693/playlist_eof.m3u8?t=69fa999e&us=76e3abdbb4&sign=4c43fe73d2e812f2a10dd406da434125"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 15786,
     "pID": "625a9bbdff9b8b52cb8b138c12d451e2",
     "title": "欧篮联 76:69",
@@ -20,7 +72,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d00866575145403725732070083/playlist_eof.m3u8?t=69fa8482&us=97acf14715&sign=7d5d1da3d1954c91f82e400bb8dfa5b6"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d00866575145403725732070083/playlist_eof.m3u8?t=69fa999f&us=a1414a9b7c&sign=56e79d36e720e200b7a50eba9ca6ab95"
         ]
       }
     ]
