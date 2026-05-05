@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 15786,
+    "pID": "625a9bbdff9b8b52cb8b138c12d451e2",
+    "title": "欧篮联 76:69",
+    "keyword": "05月06日00:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ca224b11d94be0f26e2043aa8584db09.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "特拉维夫夏普尔VS皇家马德里",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月06日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/d00866575145403725732070083/playlist_eof.m3u8?t=69fa8482&us=97acf14715&sign=7d5d1da3d1954c91f82e400bb8dfa5b6"
+        ]
+      }
+    ]
+  }
+]
