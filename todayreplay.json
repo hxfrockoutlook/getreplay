@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "mgdbId": 15878,
+    "pID": "81a3b17763efb0abe536074189446c1f",
+    "title": "欧篮联 87:91",
+    "keyword": "05月07日02:15",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/7f30c3037b96ac022fb9a48e792c058e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "帕纳辛纳科斯VS瓦伦西亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月07日02:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/dd1214035145403725803778018/playlist_eof.m3u8?t=69fbef96&us=3ff0db2108&sign=c1ec95a65aac95acfb622529170786e4"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15812,
+    "pID": "e2e2a193a976595d047598599182720e",
+    "title": "沙特超 3:1",
+    "keyword": "05月07日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/a0a227a6100628d3213e1fc321acd4f2.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "吉达国民VS哈萨征服",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月07日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/20fabee95145403725845465529/playlist_eof.m3u8?t=69fbeb18&us=e814fa4732&sign=da2a2f0b2bd9b8ba7d1d29041ef24b29"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15869,
+    "pID": "83ab6e9775eb35403d0bfefa891fdb87",
+    "title": "欧篮联 81:78",
+    "keyword": "05月07日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/2d05b2c06841b4f3e6df084479f08594.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "萨拉基利斯VS费内巴切",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月07日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/f9bde4de5145403725831154816/playlist_eof.m3u8?t=69fbe419&us=38e4f7fef0&sign=e74a38d4b32966732ada797448a4e700"
+        ]
+      }
+    ]
+  }
+]
