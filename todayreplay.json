@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 15891,
+    "pID": "e17f8c19068cc0038b572138504f68c7",
+    "title": "沙特超 2:4",
+    "keyword": "05月08日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "利雅得青年人VS利雅得胜利",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月08日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1e7a01a75145403725923287483/playlist_eof.m3u8?t=69fd3f49&us=44aedab5f8&sign=50853959d6e63329b332dc6c66f619f9"
+        ]
+      }
+    ]
+  }
+]
