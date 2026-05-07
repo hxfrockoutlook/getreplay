@@ -1,5 +1,157 @@
 [
   {
+    "mgdbId": 15884,
+    "pID": "5af7b1acb9a80d063097b2cabcafa70d",
+    "title": "欧联杯 3:1",
+    "keyword": "05月08日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧联杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "弗赖堡VS布拉加",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月08日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/c2bcc0e95145403725854587326/playlist_eof.m3u8?t=69fd4aa9&us=24c064b16c&sign=7393fa62e747d49dc9b1298faf9f91af"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/7f068f5d5145403725955310094/playlist_eof.m3u8?t=69fd4aa9&us=24c064b16c&sign=cef8e498b2837eb787a5c83c351da152"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ee476e7e5145403725912642391/playlist_eof.m3u8?t=69fd4aa9&us=24c064b16c&sign=ced76ac5ce25590b4e0baf9fcc4bbf78"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15885,
+    "pID": "14f2d1220084b00cc2360411250ee12e",
+    "title": "欧联杯 4:0",
+    "keyword": "05月08日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧联杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/a3c32d6a906083118cac2cb796edaab3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "阿斯顿维拉VS诺丁汉森林",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月08日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/4af5ce155145403725944584899/playlist_eof.m3u8?t=69fd4aa9&us=24c064b16c&sign=dee1e6f2e91250e675040138afb60823"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/a0d66ca75145403725945921691/playlist_eof.m3u8?t=69fd4aa9&us=24c064b16c&sign=fd2c075d5951d25cca1632744a43fa4c"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/e053a3695145403725851766474/playlist_eof.m3u8?t=69fd4aa9&us=24c064b16c&sign=6c31a1d267e31535e3f4025739b26dd0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15893,
+    "pID": "6feefad0ff4442b5daef43ee0ec42c88",
+    "title": "欧足联 0:1",
+    "keyword": "05月08日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/998db478bf7c06d5817bf846987a0d0a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "斯特拉斯堡VS巴列卡诺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月08日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/980207ea5145403725789706543/playlist_eof.m3u8?t=69fd4aa8&us=5edc17f33a&sign=6a9a77dda49cfe0d9f19a0895d3651f6"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/8684cd685145403725955680626/playlist_eof.m3u8?t=69fd4aa8&us=5edc17f33a&sign=4d05c8649b946efc5aa06d8aae0c1b8e"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/bdff53a75145403725854375824/playlist_eof.m3u8?t=69fd4aa8&us=5edc17f33a&sign=28c97838793b9cad698b61beddef5191"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 15894,
+    "pID": "a430ef6549bb51545eae4b23cf640797",
+    "title": "欧足联 2:1",
+    "keyword": "05月08日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/42396d18444156e640c37476c2b41b93.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "水晶宫VS顿涅茨克矿工",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月08日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1d0100c55145403725791783072/playlist_eof.m3u8?t=69fd4aa8&us=5edc17f33a&sign=e3043f6184f60af75f6b81551b8fdf96"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/347b4d035145403725913377813/playlist_eof.m3u8?t=69fd4aa8&us=5edc17f33a&sign=07e05c8a250d23a90015a040b1ba0020"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/ab5d4c8c5145403725793292496/playlist_eof.m3u8?t=69fd4aa8&us=5edc17f33a&sign=431cca0c9de85b3ab29d3a2b15856df1"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 15891,
     "pID": "e17f8c19068cc0038b572138504f68c7",
     "title": "沙特超 2:4",
@@ -20,7 +172,33 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1e7a01a75145403725923287483/playlist_eof.m3u8?t=69fd3f49&us=44aedab5f8&sign=50853959d6e63329b332dc6c66f619f9"
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/1e7a01a75145403725923287483/playlist_eof.m3u8?t=69fd51b1&us=8e5cb63d20&sign=f929e50209e3a5adbd2967e7d94a111e"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 16000,
+    "pID": "80a16a9fd2fdda541299a1be49f9bbee",
+    "title": "欧篮联 81:87",
+    "keyword": "05月08日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ca224b11d94be0f26e2043aa8584db09.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "特拉维夫夏普尔VS皇家马德里",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月08日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/597840045145403725951962704/playlist_eof.m3u8?t=69fd5258&us=6adf684f86&sign=f206cf60cfaa2d603d84f8cde4260cc6"
         ]
       }
     ]
