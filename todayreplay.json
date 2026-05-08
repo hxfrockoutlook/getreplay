@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 16348,
+    "pID": "9cb32a8166a6ad234c12dd1da8e7420d",
+    "title": "欧篮联 90:94",
+    "keyword": "05月09日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/2d05b2c06841b4f3e6df084479f08594.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "萨拉基利斯VS费内巴切",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月09日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hls.livelivelive.space/video/64664c68vodsgp1386416388/5ccf812c5145403726089075498/playlist_eof.m3u8?t=69fe871e&us=77af7e5ad5&sign=60dcc90163aa45b38b8391977d96f39f"
+        ]
+      }
+    ]
+  }
+]
