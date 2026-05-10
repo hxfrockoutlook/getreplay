@@ -136,6 +136,38 @@
     ]
   },
   {
+    "mgdbId": 16862,
+    "pID": "fcb1b635536556b0f46b7d993bd355f7",
+    "title": "法甲 2:1",
+    "keyword": "05月11日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/8c03e57af9e8bec20a3ed2f5aaddf78b.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "欧塞尔VS尼斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月11日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/3419d7e65145403726360397781/playlist_eof.m3u8?t=6a014cc1&us=80122c5c8b&sign=952435e5d0eff79e4a5216c501f7e075"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/2461801a5145403726370504841/playlist_eof.m3u8?t=6a014cc1&us=80122c5c8b&sign=60852723da4f4c0b8ae2c7db9fbaf3fc"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 16863,
     "pID": "5e04eb4e6ff28dd6f151f49a62b61c2f",
     "title": "法甲 0:1",
@@ -260,7 +292,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/c8bab9635145403726243106799/playlist_eof.m3u8?t=6a013824&us=d15ddfabb2&sign=19681856ea342c9e8c9c3bbbd72f01e5"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/c8bab9635145403726243106799/playlist_eof.m3u8?t=6a014cc2&us=cc32663b3c&sign=05acba5fd3306380949c013db147f742"
         ]
       }
     ]
@@ -286,19 +318,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/cb0f46235145403726355495820/playlist_eof.m3u8?t=6a013825&us=19c2bfe6e0&sign=22e8919be7184425b43ab17401b8bc7e"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/cb0f46235145403726355495820/playlist_eof.m3u8?t=6a014cc2&us=cc32663b3c&sign=c7a5b8155ee3d15e5b105c70a09efbc7"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/514ce04a5145403726289553394/playlist_eof.m3u8?t=6a013825&us=19c2bfe6e0&sign=cdd5c1c7d2fc38178627c74ca472f8b7"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/514ce04a5145403726289553394/playlist_eof.m3u8?t=6a014cc2&us=cc32663b3c&sign=22070c36e5a1e51d90ab22f207385a5c"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/d42eb0105145403726355867677/playlist_eof.m3u8?t=6a013825&us=19c2bfe6e0&sign=4d962d1d4c8876f437bd244f3c4ccf0d"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/d42eb0105145403726355867677/playlist_eof.m3u8?t=6a014cc2&us=cc32663b3c&sign=78634c1c49412c3f8c97d033a56685f3"
         ]
       }
     ]
