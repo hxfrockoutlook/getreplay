@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 17092,
+    "pID": "54386ec2ce4018adae6b8ab2c38f24b0",
+    "title": "沙特超 2:1",
+    "keyword": "05月12日00:50",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/e5516d35314acec9169f33834a199842.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "新未来城体育VS利雅得青年人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月12日00:50"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/939224135145403726497852949/playlist_eof.m3u8?t=6a02748b&us=613dd4abb1&sign=9fde8508527b1e6827c95007e2339cd7"
+        ]
+      }
+    ]
+  }
+]
