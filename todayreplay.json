@@ -1,5 +1,31 @@
 [
   {
+    "mgdbId": 17102,
+    "pID": "e8ce58f826ba6308074644e3fed6a7cd",
+    "title": "沙特超 1:2",
+    "keyword": "05月12日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布赖代合作VS吉达国民",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月12日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/c5ca9e925145403726491869775/playlist_eof.m3u8?t=6a028299&us=3af22b71ca&sign=0894d95990b8193f7c82604fc5dae7ba"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 17092,
     "pID": "54386ec2ce4018adae6b8ab2c38f24b0",
     "title": "沙特超 2:1",
@@ -20,7 +46,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/939224135145403726497852949/playlist_eof.m3u8?t=6a02748b&us=613dd4abb1&sign=9fde8508527b1e6827c95007e2339cd7"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/939224135145403726497852949/playlist_eof.m3u8?t=6a0289ab&us=3c27125427&sign=58c67c79e38e98cfbc29af226b1c7e9e"
         ]
       }
     ]
