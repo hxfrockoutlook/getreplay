@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 17249,
+    "pID": "2da5336bfe00582902a970fa1c14514a",
+    "title": "西甲 2:3",
+    "keyword": "05月13日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fd954d083ee85a6f1a3f2471dc756242.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "塞尔塔VS莱万特",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月13日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/75a15eca5145403726561881766/playlist_eof.m3u8?t=6a03cd11&us=25c1b05a6f&sign=3f300815cbc51bca5a50e535c47b64ec"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/a080cc3c5145403726453236227/playlist_eof.m3u8?t=6a03cd11&us=25c1b05a6f&sign=8436241dd8e3bdf7c668adcfa3729aaa"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/b0bcd8645145403726589603155/playlist_eof.m3u8?t=6a03cd11&us=25c1b05a6f&sign=99aeddd47f0eb84678eda630a3d10281"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 17260,
+    "pID": "373edc2f6b29a813461b455ab55e203e",
+    "title": "沙特超 0:0",
+    "keyword": "05月13日00:20",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/068aa9b10aa4d47ab3a8fdbe8b716518.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "拉斯永恒VS阿科多",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月13日00:20"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/8f92c84e5145403726599087734/playlist_eof.m3u8?t=6a03cfc4&us=be13a476c0&sign=94db1036c753e245b7eae4a94e012574"
+        ]
+      }
+    ]
+  }
+]
