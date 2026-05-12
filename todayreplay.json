@@ -1,5 +1,69 @@
 [
   {
+    "mgdbId": 17250,
+    "pID": "fbc2e840cfeaa4a632cd28aec20d9747",
+    "title": "西甲 2:1",
+    "keyword": "05月13日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/018e260ad68bdad741c61e3171c4c608.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "贝蒂斯VS埃尔切",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月13日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/418cd44a5145403726574546953/playlist_eof.m3u8?t=6a03db25&us=45fc85fd9c&sign=04c10b8914c14c05de0739d80c4aaad4"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/88777f585145403726605331723/playlist_eof.m3u8?t=6a03db25&us=45fc85fd9c&sign=26d4e7c42e3af85df378dff620970b98"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/ab736ba85145403726565922593/playlist_eof.m3u8?t=6a03db25&us=45fc85fd9c&sign=e2ca0f695e7f93baf03fb2963c2cb2b9"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 17267,
+    "pID": "513260fc534ec5b8b15c5d8b34d35596",
+    "title": "沙特超 1:1",
+    "keyword": "05月13日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "利雅得胜利VS利雅得新月",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月13日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/8fd42e285145403726605686681/playlist_eof.m3u8?t=6a03db25&us=45fc85fd9c&sign=c1106da25088a7f6b92eecac08e4218c"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 17249,
     "pID": "2da5336bfe00582902a970fa1c14514a",
     "title": "西甲 2:3",
@@ -20,19 +84,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/75a15eca5145403726561881766/playlist_eof.m3u8?t=6a03cd11&us=25c1b05a6f&sign=3f300815cbc51bca5a50e535c47b64ec"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/75a15eca5145403726561881766/playlist_eof.m3u8?t=6a03e207&us=fa8925ce35&sign=f5f2bc249ba52c7cc9d5794af863e958"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/a080cc3c5145403726453236227/playlist_eof.m3u8?t=6a03cd11&us=25c1b05a6f&sign=8436241dd8e3bdf7c668adcfa3729aaa"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/a080cc3c5145403726453236227/playlist_eof.m3u8?t=6a03e207&us=fa8925ce35&sign=b7029eaf2f34982b0654e2f8d8d2b3d6"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/b0bcd8645145403726589603155/playlist_eof.m3u8?t=6a03cd11&us=25c1b05a6f&sign=99aeddd47f0eb84678eda630a3d10281"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/b0bcd8645145403726589603155/playlist_eof.m3u8?t=6a03e207&us=fa8925ce35&sign=ba76dd5abc1d8057101e27f75b8f06c4"
         ]
       }
     ]
@@ -58,7 +122,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/8f92c84e5145403726599087734/playlist_eof.m3u8?t=6a03cfc4&us=be13a476c0&sign=94db1036c753e245b7eae4a94e012574"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/8f92c84e5145403726599087734/playlist_eof.m3u8?t=6a03e22b&us=1edfd17fb8&sign=bafcfffe68e0350bbdd3e0d375e2b9f1"
         ]
       }
     ]
