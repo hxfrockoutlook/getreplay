@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "mgdbId": 17431,
+    "pID": "5480202046410c64c83e9fdb56d4e57f",
+    "title": "西甲 2:0",
+    "keyword": "05月14日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/214049d4df11756a2eb21bbd8266e2a1.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "西班牙人VS毕尔巴鄂",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月14日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/49b8df355145403726706303071/playlist_eof.m3u8?t=6a0515e5&us=2715edeeae&sign=a227b6a683557a5e448b4f3962d68cc5"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/020e0e065145403726705597335/playlist_eof.m3u8?t=6a0515e5&us=2715edeeae&sign=add9ab4d53cee0ee8c1c79d494a087e3"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/460594435145403726693714632/playlist_eof.m3u8?t=6a0515e5&us=2715edeeae&sign=c2fde017c68b7466c69509323d20f2b9"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 17434,
+    "pID": "a2bc3a3f05530d1d344326fdcea383ad",
+    "title": "法甲 1:2",
+    "keyword": "05月14日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bb7e6346a3860008e4ff266ba3b655e8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布雷斯特VS斯特拉斯堡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月14日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/82ade17c5145403726694018501/playlist_eof.m3u8?t=6a0515e4&us=5e93d1f4d8&sign=b7a5bd344d35cf6dbac9fd3770137c8a"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/1444e2525145403726665420001/playlist_eof.m3u8?t=6a0515e4&us=5e93d1f4d8&sign=46c6c86d0773e9020c3c5af423bd5f8b"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/06488a9f5145403726705731545/playlist_eof.m3u8?t=6a0515e4&us=5e93d1f4d8&sign=43bb4bfa878a77d1de6d03d0101db375"
+        ]
+      }
+    ]
+  }
+]
