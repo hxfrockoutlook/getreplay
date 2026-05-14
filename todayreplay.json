@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 17660,
+    "pID": "bd93ec49e1931760be2d028ef56a53e3",
+    "title": "西甲 1:1",
+    "keyword": "05月15日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/3b54543c1a584e2e9948d655142996d3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "瓦伦西亚VS巴列卡诺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月15日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/3ffbc9105145403726798901668/playlist_eof.m3u8?t=6a067010&us=2c944b0f28&sign=55ac6342a0600e6bd9c63532b7e1813a"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/9f742ba95145403726721269776/playlist_eof.m3u8?t=6a067010&us=2c944b0f28&sign=bd081107cb23613f180944a6c8613964"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/83d8244f5145403726799532198/playlist_eof.m3u8?t=6a067010&us=2c944b0f28&sign=9f2c9ed68eccb761db67ab29ddb6113c"
+        ]
+      }
+    ]
+  }
+]
