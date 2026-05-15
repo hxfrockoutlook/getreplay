@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "mgdbId": 17704,
+    "pID": "27f1364b14140d7b31db79e2c8701ee6",
+    "title": "沙特超 3:0",
+    "keyword": "05月16日00:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/5f0fa2c7f5502f43700281d32ee636d2.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "达马克VS费哈",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月16日00:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/a80f73ac5145403726874908644/playlist_eof.m3u8?t=6a07b397&us=d4f04a7178&sign=27cfae4abaa948bc2b6f527c5f2b20ab"
+        ]
+      }
+    ]
+  }
+]
