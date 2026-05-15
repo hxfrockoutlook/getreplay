@@ -1,5 +1,31 @@
 [
   {
+    "mgdbId": 17731,
+    "pID": "004b429268fccfb3e522f53ae3406ce4",
+    "title": "沙特超 1:1",
+    "keyword": "05月16日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布赖代合作VS利雅得体育",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月16日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/ad9463435145403726881930129/playlist_eof.m3u8?t=6a07c899&us=e2d0e7c00a&sign=0a78028a0f2a7a4e33efe273bc48953b"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 17704,
     "pID": "27f1364b14140d7b31db79e2c8701ee6",
     "title": "沙特超 3:0",
@@ -20,7 +46,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/a80f73ac5145403726874908644/playlist_eof.m3u8?t=6a07b397&us=d4f04a7178&sign=27cfae4abaa948bc2b6f527c5f2b20ab"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/a80f73ac5145403726874908644/playlist_eof.m3u8?t=6a07c89a&us=ca70da74ae&sign=a4f93a89e83abf6608d3c95b3dbb7cb0"
         ]
       }
     ]
