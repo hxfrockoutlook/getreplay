@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 17702,
+    "pID": "0fad13c8e85d36e6dc0051b13cab7180",
+    "title": "NBA 94:115",
+    "keyword": "05月16日07:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "骑士VS活塞",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月16日07:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/d15305ae5145403726790629865/playlist_eof.m3u8?t=6a082a79&us=8bac3519d9&sign=6d2695231d6613ada3af2977e13e0c41"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/20a962e25145403726852015946/playlist_eof.m3u8?t=6a082a79&us=8bac3519d9&sign=97b8c25e64b5d690a8dea53d1d6fc802"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/67959d3a5145403726900462650/playlist_eof.m3u8?t=6a082a79&us=8bac3519d9&sign=5a804304823a069f7a5a6fffc3898b5a"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 17691,
     "pID": "03aaf4af541703c5e08fca85a3eefa3e",
     "title": "英超 4:2",
@@ -20,19 +58,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/b9fbdb1b5145403726925160415/playlist_eof.m3u8?t=6a07ef4e&us=0819158875&sign=fb7c954979f9e80aa7a9b76d40ead3bf"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/b9fbdb1b5145403726925160415/playlist_eof.m3u8?t=6a082a7a&us=ed8e0a00ea&sign=9fea420e208d9da6536158fd14412cae"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/78d02fa55145403726924681634/playlist_eof.m3u8?t=6a07ef4e&us=0819158875&sign=89501668e5ae5a3715da36534b19ae8c"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/78d02fa55145403726924681634/playlist_eof.m3u8?t=6a082a7a&us=ed8e0a00ea&sign=9af42f0544bdf454c679ab368d26b612"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/05f2ed1e5145403726896063220/playlist_eof.m3u8?t=6a07ef4e&us=0819158875&sign=8f814819886d0d8dda0faeda59736c9a"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/05f2ed1e5145403726896063220/playlist_eof.m3u8?t=6a082a7a&us=ed8e0a00ea&sign=ba13008188d50900396af03cdbb0f7e7"
         ]
       }
     ]
@@ -58,7 +96,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/ad9463435145403726881930129/playlist_eof.m3u8?t=6a07ef4e&us=0819158875&sign=945efb4ae607a92815bb4f43fa0b9bda"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/ad9463435145403726881930129/playlist_eof.m3u8?t=6a082b13&us=62d4e69415&sign=5cd3851c1c716df4be402ca680f48349"
         ]
       }
     ]
@@ -84,7 +122,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/a80f73ac5145403726874908644/playlist_eof.m3u8?t=6a07ef4f&us=3be21d17e8&sign=08fbb453f221612f195d134c876c029a"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/a80f73ac5145403726874908644/playlist_eof.m3u8?t=6a082b14&us=2b7a3fb780&sign=a8380f5adc024e1a3c2f2aea44303bcf"
         ]
       }
     ]
