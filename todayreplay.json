@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 18280,
+    "pID": "4b2f47beb2a7a033e8539beeebf80d52",
+    "title": "意甲 0:1",
+    "keyword": "05月18日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/45c9647899b8bf2fb6f988c6c33b964c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "亚特兰大VS博洛尼亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月18日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/55efb0a45145403727099401576/playlist_eof.m3u8?t=6a0a52cb&us=c8a64ce0e8&sign=1f886e91c454263408c4e7a16f241462"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/801b15205145403727079550371/playlist_eof.m3u8?t=6a0a52cb&us=c8a64ce0e8&sign=f78f39ed139627f58a9140a79bf4ac25"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/f3ccf3765145403727121701906/playlist_eof.m3u8?t=6a0a52cb&us=c8a64ce0e8&sign=c19ffbc105e1f7d2ac45fbb530a21b0f"
+        ]
+      }
+    ]
+  }
+]
