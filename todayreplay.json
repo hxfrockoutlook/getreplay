@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "mgdbId": 18560,
+    "pID": "cc70ec29b4cec5dd90f8d65267dd81d0",
+    "title": "英超 2:1",
+    "keyword": "05月20日03:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "切尔西VS热刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月20日03:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/e2c08b535145403727430130292/playlist_eof.m3u8?t=6a0d2137&us=1e5d868165&sign=7bf97a80c5cbf6bf7f50820023f7ee91"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/1cb294405145403727285344092/playlist_eof.m3u8?t=6a0d2137&us=1e5d868165&sign=f27177fa283cdc75f9b5adc1af4ee5b2"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/11e592c65145403727468264229/playlist_eof.m3u8?t=6a0d2137&us=1e5d868165&sign=400abae851117110e2479d9182fb18e1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 18559,
+    "pID": "7f4ce6e853f456183ec7eeda391ccddd",
+    "title": "英超 1:1",
+    "keyword": "05月20日02:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/240b30d333c97d293752ab7afd77ccd6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "伯恩茅斯VS曼城",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月20日02:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/2427652a5145403727292419596/playlist_eof.m3u8?t=6a0d156c&us=3aced95ec2&sign=55d609e105ac6bb13dc055360880dd52"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/2fc32da25145403727465480255/playlist_eof.m3u8?t=6a0d156c&us=3aced95ec2&sign=94a943d0cfb8bb605bd0aa565cbbd979"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/f8a720835145403727454552546/playlist_eof.m3u8?t=6a0d156c&us=3aced95ec2&sign=03d16e8a5b27ad7509c26a7a801a4697"
+        ]
+      }
+    ]
+  }
+]
