@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 18546,
+    "pID": "41642710f2cb856a6c30faad4ede09b3",
+    "title": "NBA 115:122",
+    "keyword": "05月19日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "雷霆VS马刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月19日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/f64afc545145403727335450401/playlist_eof.m3u8?t=6a0c3984&us=7700d0e328&sign=d86fd1fd2bafc294ae48e10ed225b651"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/b4f722dd5145403727175048720/playlist_eof.m3u8?t=6a0c3984&us=7700d0e328&sign=28675dcadc823efc728e47832509db5f"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/f40a10f75145403727335364103/playlist_eof.m3u8?t=6a0c3984&us=7700d0e328&sign=2a226cb6400efafb6a45ccf33a98ff4a"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 18483,
     "pID": "88ba817458481693f051f5e7e599419c",
     "title": "英超 1:0",
@@ -20,19 +58,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/6b4716e35145403727279634108/playlist_eof.m3u8?t=6a0bfb8d&us=4bffe279bc&sign=8e012a3a0b799234c69729a9599e215d"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/6b4716e35145403727279634108/playlist_eof.m3u8?t=6a0c3b8c&us=35740b7dd1&sign=8953d171537b68c820c7eaa4ed4777da"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/dd6a0e025145403727219480078/playlist_eof.m3u8?t=6a0bfb8d&us=4bffe279bc&sign=d24df0d913b06c4c7a7ed81ffa94b633"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/dd6a0e025145403727219480078/playlist_eof.m3u8?t=6a0c3b8c&us=35740b7dd1&sign=dd630104bb571ad4dee1dbac2ddb531c"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/9eab93745145403727225821212/playlist_eof.m3u8?t=6a0bfb8d&us=4bffe279bc&sign=04147cc735549569f391a54b7f8df95e"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/9eab93745145403727225821212/playlist_eof.m3u8?t=6a0c3b8c&us=35740b7dd1&sign=4a20a5731917515911d8329082ada625"
         ]
       }
     ]
