@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 18650,
+    "pID": "743efdf74c48a4ce37460a366875a2a4",
+    "title": "欧联杯 0:3",
+    "keyword": "05月21日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧联杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/6508946c9a5fe22a8784b905b25e8c79.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "弗赖堡VS阿斯顿维拉",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月21日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/6e0438c55145403727561385086/playlist_eof.m3u8?t=6a0e6e28&us=4e06d614a1&sign=9461594ba42d01ed6b35a11c11f9b674"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/6f9adac75145403727435679307/playlist_eof.m3u8?t=6a0e6e28&us=4e06d614a1&sign=5ff8ab563fe9608ca43debebec610ad2"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/50c74eaa5145403727533928575/playlist_eof.m3u8?t=6a0e6e28&us=4e06d614a1&sign=a30bf3d4a34ae4f7d8186bfb4f437a7e"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 18673,
     "pID": "2b8cf37b706acf3abc9df09f4ed6e8ba",
     "title": "沙特超 1:4",
@@ -20,7 +58,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/91f9bb8a5145403727568754390/playlist_eof.m3u8?t=6a0e6567&us=42103b4efa&sign=371e1301c04dbdd49d36cf8a4accbc4a"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/91f9bb8a5145403727568754390/playlist_eof.m3u8?t=6a0e7531&us=266561141f&sign=904c376586c3e152e523d2c6b41e770f"
         ]
       }
     ]
@@ -46,7 +84,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/88bc10465145403727432685447/playlist_eof.m3u8?t=6a0e6567&us=42103b4efa&sign=0bd4574996658704aa43858bfd667c06"
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/88bc10465145403727432685447/playlist_eof.m3u8?t=6a0e7531&us=266561141f&sign=6c1b3eb5c81e9267da1ac35869326b74"
         ]
       }
     ]
