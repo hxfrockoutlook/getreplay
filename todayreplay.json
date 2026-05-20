@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 18673,
+    "pID": "2b8cf37b706acf3abc9df09f4ed6e8ba",
+    "title": "沙特超 1:4",
+    "keyword": "05月21日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/6d48cbd483dee74ed9aef387bb082d64.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "塞哈特海湾VS吉达国民",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月21日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/91f9bb8a5145403727568754390/playlist_eof.m3u8?t=6a0e6567&us=42103b4efa&sign=371e1301c04dbdd49d36cf8a4accbc4a"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 18675,
+    "pID": "08893e8e18ef4c486b8805e0722a313e",
+    "title": "沙特超 1:0",
+    "keyword": "05月21日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fde877e452f79f75955ad4e4f326c654.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "纳杰马体育VS利雅得青年人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月21日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/88bc10465145403727432685447/playlist_eof.m3u8?t=6a0e6567&us=42103b4efa&sign=0bd4574996658704aa43858bfd667c06"
+        ]
+      }
+    ]
+  }
+]
