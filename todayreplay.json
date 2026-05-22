@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "mgdbId": 18877,
+    "pID": "8d157138492d46b4b26c2ba09c4f2389",
+    "title": "意甲 1:1",
+    "keyword": "05月23日02:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/858d87ded0cce014bae0c9681af48524.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "佛罗伦萨VS亚特兰大",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月23日02:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/6ccd46c05145403727768130354/playlist_eof.m3u8?t=6a11112a&us=0066f14af4&sign=6c0c57f8d7e591abffd0175dd7f1a4f8"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/67d3bc365145403727751202253/playlist_eof.m3u8?t=6a11112a&us=0066f14af4&sign=600aac066a68450ce3285b8babdd53db"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/bbf890265145403727769210837/playlist_eof.m3u8?t=6a11112a&us=0066f14af4&sign=ca8007701b17f517c43d4668e8ce0aee"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 19073,
+    "pID": "e651df3e3d57e70d8760a921da865263",
+    "title": "欧篮联 90:105",
+    "keyword": "05月23日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/a3819bb7ddd5edc47416d1efb5539fd3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "瓦伦西亚VS皇家马德里",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月23日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/f415b4bdvodusw1386416388/0f1b53095145403727247769209/playlist_eof.m3u8?t=6a1114e4&us=461d1b1852&sign=f6e4165e5af0ba6402fd159af0498388"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/6264d28a5145403727778532249/playlist_eof.m3u8?t=6a1114e4&us=461d1b1852&sign=3aa0e47f3f1b94a33471461c21182d14"
+        ]
+      }
+    ]
+  }
+]
