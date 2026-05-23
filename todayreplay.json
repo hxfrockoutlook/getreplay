@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 19104,
+    "pID": "8a9791ffdd64bdf55220c3198596b32c",
+    "title": "意甲 3:3",
+    "keyword": "05月24日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "博洛尼亚VS国米",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月24日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/d1f4994d5145403727837246794/playlist_eof.m3u8?t=6a12422e&us=995fb8b6e0&sign=a7d393db078135193711d0398284c916"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/539e844e5145403727832379838/playlist_eof.m3u8?t=6a12422e&us=995fb8b6e0&sign=d43604eecdcc465090ee60becee819ba"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/777d27da5145403727860080450/playlist_eof.m3u8?t=6a12422e&us=995fb8b6e0&sign=14b9ca5076b891d8bd92444e8c9b6991"
+        ]
+      }
+    ]
+  }
+]
