@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 19327,
+    "pID": "d57aff6623403bb58a2d79eaed38121e",
+    "title": "意甲 1:0",
+    "keyword": "05月25日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/37ed13d27edccd30e053167962c02b3a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "那不勒斯VS乌迪内斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月25日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/e75ae7ad5145403727963909419/playlist_eof.m3u8?t=6a138e81&us=348b80935b&sign=d7d18e273adefb472a970f113baa1779"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/fdebe0235145403727936418405/playlist_eof.m3u8?t=6a138e81&us=348b80935b&sign=01634305ddc716ffbbea7d047d031242"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://pull.livecdn.cc/video/64664c68vodsgp1386416388/57d753815145403727832510865/playlist_eof.m3u8?t=6a138e81&us=348b80935b&sign=dee055d1ba26b0c3a1e099e48540fb44"
+        ]
+      }
+    ]
+  }
+]
