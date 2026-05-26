@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 19644,
+    "pID": "85e5a7b8dfafb3165a396438ce305c92",
+    "title": "NBA 93:130",
+    "keyword": "05月26日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "骑士VS尼克斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月26日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/4fa67e045145403728068761075/playlist_eof.m3u8?t=6a156675&us=6e59bdb6ad&sign=d3fb8dba4f4b5acdff59154401340781"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/4fa6a42b5145403728068761964/playlist_eof.m3u8?t=6a156675&us=6e59bdb6ad&sign=271bc18dde98e2b126b32b4f56066253"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/468a62e85145403728068395346/playlist_eof.m3u8?t=6a156675&us=6e59bdb6ad&sign=2fb9b44f63eb82f5d44d0e2ef9dc7c21"
+        ]
+      }
+    ]
+  }
+]
