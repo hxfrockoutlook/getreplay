@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 19644,
+    "pID": "85e5a7b8dfafb3165a396438ce305c92",
+    "title": "NBA 93:130",
+    "keyword": "05月26日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/57c938e35ceb2ee92562a09c4165fb47.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "骑士VS尼克斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月26日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19644_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19644_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19644_2"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 19531,
     "pID": "f62c84ba7c961bf29629ea3d6a5cd28c",
     "title": "NBA 103:82",
