@@ -1,5 +1,37 @@
 [
   {
+    "mgdbId": 19645,
+    "pID": "4a4b5d58ca06b74eb92c03f0e02308d8",
+    "title": "CBA 101:90",
+    "keyword": "05月26日19:35",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "CBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1125281dafbf06dad029825221e83d5a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "上海VS广厦",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月26日19:35"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/4e6431d35145403728160171160/playlist_eof.m3u8?t=6a1602d3&us=138f8b4a4f&sign=5b0d79d2d95d95b1c82cdd317f8c03d7"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/6c7ab9625145403728119412794/playlist_eof.m3u8?t=6a1602d3&us=138f8b4a4f&sign=5e1e43645cf344b9769a815b2daddbda"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 19644,
     "pID": "85e5a7b8dfafb3165a396438ce305c92",
     "title": "NBA 93:130",
@@ -20,19 +52,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/4fa67e045145403728068761075/playlist_eof.m3u8?t=6a1598e4&us=8b532bd90b&sign=ba08ea3974299b1d4f69bbc89c7b43dd"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/4fa67e045145403728068761075/playlist_eof.m3u8?t=6a15fbc9&us=260040ba59&sign=09f0e625a6aa0a32dc8ba58044ae310b"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/4fa6a42b5145403728068761964/playlist_eof.m3u8?t=6a1598e4&us=8b532bd90b&sign=68e5355e96930bad3196a69b0ef11303"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/4fa6a42b5145403728068761964/playlist_eof.m3u8?t=6a15fbc9&us=260040ba59&sign=8d396f616e5602d15a424455534e1742"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/468a62e85145403728068395346/playlist_eof.m3u8?t=6a1598e4&us=8b532bd90b&sign=0255b3d3d33dfe8d79e6462dc7c41668"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/468a62e85145403728068395346/playlist_eof.m3u8?t=6a15fbc9&us=260040ba59&sign=63064e57d2cca780955beee0dff701fb"
         ]
       }
     ]
