@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 19734,
+    "pID": "35ac8c2d2c169aeb53119f1c9d870eae",
+    "title": "NBA 127:114",
+    "keyword": "05月27日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "雷霆VS马刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月27日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/3ad7937d5145403728115507725/playlist_eof.m3u8?t=6a16c0ea&us=55a42bd046&sign=8846a8cb8678efbb6df5c8e9186e4442"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/ef4e15e55145403728179151836/playlist_eof.m3u8?t=6a16c0ea&us=55a42bd046&sign=a345934503d9f412cba5b5f2770effd7"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/221b6c7a5145403728220861740/playlist_eof.m3u8?t=6a16c0ea&us=55a42bd046&sign=5cb7f3a3547136400ae761182ca9d7fb"
+        ]
+      }
+    ]
+  }
+]
