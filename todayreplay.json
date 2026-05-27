@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 19747,
+    "pID": "7479568c61a26df4731e22cafcdd2c76",
+    "title": "欧足联 1:0",
+    "keyword": "05月28日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/42396d18444156e640c37476c2b41b93.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "水晶宫VS巴列卡诺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月28日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/04256a925001834805307044441/playlist_eof.m3u8?t=6a17ad2e&us=eafd2dce47&sign=0016134a975e875f662896bffad8ede1"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/73b1ce5f5145403728140095439/playlist_eof.m3u8?t=6a17ad2e&us=eafd2dce47&sign=b11a53052af8969b2b650c4561f682cc"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/83be21bf5145403728140756723/playlist_eof.m3u8?t=6a17ad2e&us=eafd2dce47&sign=f1040a8dcbf596a657b63c3a492cf639"
+        ]
+      }
+    ]
+  }
+]
