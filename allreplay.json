@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 19747,
+    "pID": "7479568c61a26df4731e22cafcdd2c76",
+    "title": "欧足联 1:0",
+    "keyword": "05月28日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/42396d18444156e640c37476c2b41b93.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "水晶宫VS巴列卡诺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月28日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19747_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19747_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19747_2"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 19734,
     "pID": "35ac8c2d2c169aeb53119f1c9d870eae",
     "title": "NBA 127:114",
