@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 19902,
+    "pID": "de0c004034379461c3037fa0306c80f2",
+    "title": "NBA 118:91",
+    "keyword": "05月29日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5305d1a7b721b5bef418041eff53ba82.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "马刺VS雷霆",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月29日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19902_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19902_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=19902_2"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 19806,
     "pID": "a6fe80b1ddd29645f8cf4876a5819ad3",
     "title": "CBA 91:88",
