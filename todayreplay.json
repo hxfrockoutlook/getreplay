@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 19902,
+    "pID": "de0c004034379461c3037fa0306c80f2",
+    "title": "NBA 118:91",
+    "keyword": "05月29日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5305d1a7b721b5bef418041eff53ba82.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "马刺VS雷霆",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月29日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/32ad0d615001834805430713996/playlist_eof.m3u8?t=6a194fbb&us=f509d62f1f&sign=7e00ce6dd64beb471f59a25024bf7d7f"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7ff029495145403728283069287/playlist_eof.m3u8?t=6a194fbb&us=f509d62f1f&sign=0096bc51f7510426dd8379c177cf9029"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/73fbfe0a5145403728279834247/playlist_eof.m3u8?t=6a194fbb&us=f509d62f1f&sign=8834c09264656fb6346c43e0dd8c084f"
+        ]
+      }
+    ]
+  }
+]
