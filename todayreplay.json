@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 19926,
+    "pID": "24401c05b9771ac65cc39094de84a45e",
+    "title": "日职联 5:0",
+    "keyword": "05月30日13:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "日职联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/d85cce27ab583e5b3cead155f02b098a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "神户胜利船VS鹿岛鹿角",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月30日13:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/4af4ea165001834805634520326/playlist_eof.m3u8?t=6a1ad848&us=881257060b&sign=8b011c717b162890fe5e3b9ef11281b8"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 19925,
+    "pID": "b693ae48da461f5cf10261821926b361",
+    "title": "日职联 2:1",
+    "keyword": "05月30日13:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "日职联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "广岛三箭VS川崎前锋",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月30日13:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9ff214be5001834805625011969/playlist_eof.m3u8?t=6a1ad848&us=881257060b&sign=77825474d0d76dfa36a9aacabe5edafa"
+        ]
+      }
+    ]
+  }
+]
