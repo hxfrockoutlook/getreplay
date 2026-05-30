@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 20098,
+    "pID": "4b0481b77b1923c841ec1a69dda1b08b",
+    "title": "欧冠 1:1",
+    "keyword": "05月31日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/3b720f181ce9993f9422d276acf7b292.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "巴黎圣日耳曼VS阿森纳",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月31日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/30b5fd9f5001834805685347160/playlist_eof.m3u8?t=6a1b8482&us=bed01d8c7a&sign=2ebb86e220757aeb90bcba10c9dfce2c"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/eed7795e5001834805643715364/playlist_eof.m3u8?t=6a1b8482&us=bed01d8c7a&sign=34008d8c3e2fab9d0b3a0f9844b2279f"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f177316b5001834805643859278/playlist_eof.m3u8?t=6a1b8482&us=bed01d8c7a&sign=342327e23f18cbe74d539e7dd6ff098c"
+        ]
+      }
+    ]
+  }
+]
