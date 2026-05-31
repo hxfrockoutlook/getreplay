@@ -1,5 +1,69 @@
 [
   {
+    "mgdbId": 20134,
+    "pID": "b95396a8dbe4cd09de5fd1df9fab34b3",
+    "title": "美冠杯 0:0",
+    "keyword": "05月31日08:05",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "美冠杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/725ccd5793be6b4f8dd917170dd17d04.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "托卢卡VS老虎大学",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月31日08:05"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/dfa209bd5001834805707474054/playlist_eof.m3u8?t=6a1c19ea&us=7126d32cd4&sign=09fec4769e0f48af9da01e41ee9196f1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 20244,
+    "pID": "57ed60d6e8d573ea43c7983ba16c69ee",
+    "title": "NBA 103:111",
+    "keyword": "05月31日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/319e03be75fee4098a83b1d0e01940b7.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "雷霆VS马刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "05月31日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/2f50d7625001834805715332589/playlist_eof.m3u8?t=6a1c0e99&us=3f8ec39a5d&sign=a57a2bbffb0cf9b8fc752c892eae3cf5"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/5fa4eea25001834805672418537/playlist_eof.m3u8?t=6a1c0e99&us=3f8ec39a5d&sign=f02e4fdced677597f23122bf9b9e1fd1"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/eaefbe1e5001834805707921283/playlist_eof.m3u8?t=6a1c0e99&us=3f8ec39a5d&sign=21dd37089bd788096e9a37d79b5c4ad3"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 20098,
     "pID": "4b0481b77b1923c841ec1a69dda1b08b",
     "title": "欧冠 1:1",
@@ -20,19 +84,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/30b5fd9f5001834805685347160/playlist_eof.m3u8?t=6a1bd36b&us=db4a21c9d7&sign=3647d5263b866d07adb39760178d0b25"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/30b5fd9f5001834805685347160/playlist_eof.m3u8?t=6a1c1201&us=4bb3ed4f1a&sign=65f11aa256abce41ef1698cc06e2885e"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/eed7795e5001834805643715364/playlist_eof.m3u8?t=6a1bd36b&us=db4a21c9d7&sign=c07c26e40e6c491c400c5850f7b78ab3"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/eed7795e5001834805643715364/playlist_eof.m3u8?t=6a1c1201&us=4bb3ed4f1a&sign=a9c77da71f5d6c9921904f3449035bed"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/f177316b5001834805643859278/playlist_eof.m3u8?t=6a1bd36b&us=db4a21c9d7&sign=372a5bebcfb896b61302c8eef9368738"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f177316b5001834805643859278/playlist_eof.m3u8?t=6a1c1201&us=4bb3ed4f1a&sign=dba66980fc0bd1cec47caa4b15ee766e"
         ]
       }
     ]
