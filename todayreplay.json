@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 20667,
+    "pID": "9c6af809cd802c8a5ae7354d8d20965b",
+    "title": "国际赛 81:82",
+    "keyword": "06月04日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "国际赛",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/0a4ae4dca6f2751b6e0c664bb2606f80.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "中国VSFMP拉德尼基",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月04日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/fc7dae465001834806151624999/playlist_eof.m3u8?t=6a21cc69&us=06626ea1b6&sign=0895a5492be13e6aa562ffc8cc784ba9"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f397ad585001834806151288124/playlist_eof.m3u8?t=6a21cc69&us=06626ea1b6&sign=d4a85358fcc28e7c8e894fa06b271f9e"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/50fdef495001834806169684681/playlist_eof.m3u8?t=6a21cc69&us=06626ea1b6&sign=d452fbc848aeecbb7875a807f7f3dd38"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 20627,
     "pID": "c06943afeaaef54f188d8c1aa4dd9ee9",
     "title": "NBA 95:105",
@@ -20,19 +58,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/4c5f79395001834806135148461/playlist_eof.m3u8?t=6a2198dd&us=aa81d7f019&sign=d483c1856a1e57f7e330190a9e6e98c2"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/4c5f79395001834806135148461/playlist_eof.m3u8?t=6a21c624&us=5235f0b285&sign=86dc6eea68bff48e9af84adde4bc3567"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/fd815e1d5001834806097218460/playlist_eof.m3u8?t=6a2198dd&us=aa81d7f019&sign=08819764f73c1b2fa7df0999370e0470"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/fd815e1d5001834806097218460/playlist_eof.m3u8?t=6a21c624&us=5235f0b285&sign=5aca9a4ad0de6ba507508c6ab7316631"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/0ee03e625001834805973633426/playlist_eof.m3u8?t=6a2198dd&us=aa81d7f019&sign=b9841f7f46663c544c84898db4a75b09"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/0ee03e625001834805973633426/playlist_eof.m3u8?t=6a21c624&us=5235f0b285&sign=9bf7b3f5a062a8fcadd3b3afe9a4e562"
         ]
       }
     ]
