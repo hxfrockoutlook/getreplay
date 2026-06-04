@@ -1,32 +1,76 @@
 [
   {
-    "mgdbId": 20520,
-    "pID": "c096ca73be6d3f8c97d410aa0af28775",
-    "title": "CBA 101:93",
-    "keyword": "06月02日19:35",
+    "mgdbId": 20667,
+    "pID": "9c6af809cd802c8a5ae7354d8d20965b",
+    "title": "国际赛 81:82",
+    "keyword": "06月04日19:30",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
-    "competitionName": "CBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/96108e3d2a3cf92f8f5305e5135f2419.png",
+    "competitionName": "国际赛",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/0a4ae4dca6f2751b6e0c664bb2606f80.png",
     "competitionLogo": "",
-    "pkInfoTitle": "广厦VS上海",
+    "pkInfoTitle": "中国VSFMP拉德尼基",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "06月02日19:35"
+      "time": "06月04日19:30"
     },
     "nodes": [
       {
         "name": "高清回放(一)",
         "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20520_0"
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20667_0"
         ]
       },
       {
         "name": "超清中文(二)",
         "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20520_1"
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20667_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20667_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 20627,
+    "pID": "c06943afeaaef54f188d8c1aa4dd9ee9",
+    "title": "NBA 95:105",
+    "keyword": "06月04日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5305d1a7b721b5bef418041eff53ba82.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "马刺VS尼克斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月04日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20627_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20627_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20627_2"
         ]
       }
     ]
