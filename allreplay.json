@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 20807,
+    "pID": "9c9486d8260f63b5598ec127ceb258a4",
+    "title": "NBA 104:105",
+    "keyword": "06月06日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5305d1a7b721b5bef418041eff53ba82.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "马刺VS尼克斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月06日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20807_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20807_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=20807_2"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 20706,
     "pID": "9770cbf96c674dfe62ac233fa8dad215",
     "title": "CBA 103:82",
