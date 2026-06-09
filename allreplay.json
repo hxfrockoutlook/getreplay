@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 21146,
+    "pID": "a9e684f8dcbf581b562e253af273f9bf",
+    "title": "NBA 111:115",
+    "keyword": "06月09日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "尼克斯VS马刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月09日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=21146_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=21146_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=21146_2"
+        ]
+      }
+    ]
+  }
+]
