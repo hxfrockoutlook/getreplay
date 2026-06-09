@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 21146,
+    "pID": "a9e684f8dcbf581b562e253af273f9bf",
+    "title": "NBA 111:115",
+    "keyword": "06月09日08:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "尼克斯VS马刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月09日08:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/78ec168e5001834806648981765/playlist_eof.m3u8?t=6a27d696&us=be5cbd4fbc&sign=71c74d9f8c63ba300f2d56a8a0387202"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/ab74e8235001834806547438318/playlist_eof.m3u8?t=6a27d696&us=be5cbd4fbc&sign=8abd504076971bb0e44d568968424a52"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/ecafa8615001834806650235956/playlist_eof.m3u8?t=6a27d696&us=be5cbd4fbc&sign=f9f11f1b94e742d69e757c53132cea0c"
+        ]
+      }
+    ]
+  }
+]
