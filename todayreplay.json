@@ -1,5 +1,75 @@
 [
   {
+    "mgdbId": 21378,
+    "pID": "e952c1d4d121ebb965a2e74e58bb59a0",
+    "title": "世界杯 4:1",
+    "keyword": "06月13日09:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "美国VS巴拉圭",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月13日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/c4e5ca8b5001834807096918359/playlist_eof.m3u8?t=6a2d272e&us=8efa8ca85b&sign=507f1e4fe7a9d3ef5fe9c770d0cce6bf"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/b37e89375001834807150619215/playlist_eof.m3u8?t=6a2d272e&us=8efa8ca85b&sign=c2a6e73a0250e75774066993a11b2552"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/970c21275001834807139954285/playlist_eof.m3u8?t=6a2d272e&us=8efa8ca85b&sign=5964798926c555d212600e2369961e87"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 21448,
+    "pID": "d8c8c3236891e5e8a4510195b1806a51",
+    "title": "WNBA 86:85",
+    "keyword": "06月13日07:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "神秘人VS节奏",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月13日07:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/2aa4b6b55001834807131769001/playlist_eof.m3u8?t=6a2d2a1d&us=9d6ac33acc&sign=0cfe9a7eab9c952c07187b51fd9e50b1"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/8a8dab885001834806978247560/playlist_eof.m3u8?t=6a2d2a1d&us=9d6ac33acc&sign=a9e0ad8b24aed5d0d6708bca0dcf231a"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 21377,
     "pID": "5cb80ab51708582d5db1ae409d6d42e7",
     "title": "世界杯 1:1",
@@ -20,19 +90,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/f374ecfc5001834807120828374/playlist_eof.m3u8?t=6a2ce21c&us=38e9f8da2c&sign=c8b89e916aaa8d48ae56263ca9967b4a"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f374ecfc5001834807120828374/playlist_eof.m3u8?t=6a2d1e60&us=8f855cff16&sign=4680dab6ab2b688e187c5848a777eeeb"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/7ed943e65001834806961052896/playlist_eof.m3u8?t=6a2ce21c&us=38e9f8da2c&sign=06a6542df2f154a3768fae29b302d297"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7ed943e65001834806961052896/playlist_eof.m3u8?t=6a2d1e60&us=8f855cff16&sign=de77802cd299caadb0fc1ec9ae3aa91a"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/fa5fbaf65001834807080207048/playlist_eof.m3u8?t=6a2ce21c&us=38e9f8da2c&sign=65446a6d4eadd9d99c4791648304fd7f"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/fa5fbaf65001834807080207048/playlist_eof.m3u8?t=6a2d1e60&us=8f855cff16&sign=8b2842c4d851b07fb015d9440ead3bed"
         ]
       }
     ]
