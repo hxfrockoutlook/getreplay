@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 21468,
+    "pID": "b93daf07800e4cc30188e0f4539a245e",
+    "title": "世界杯 1:1",
+    "keyword": "06月14日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/efa8ac06cc6747b1835520f01650a0ab.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "卡塔尔VS瑞士",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月14日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/174445fc5001834807243155375/playlist_eof.m3u8?t=6a2e1691&us=5246f2e7ea&sign=e514a1e6a8d082509c1bf0a915d71e85"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/fe94e3e05001834807073632639/playlist_eof.m3u8?t=6a2e1691&us=5246f2e7ea&sign=4528d6870a513d08befd1b1ae30c8e8f"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/83eca8055001834807078803657/playlist_eof.m3u8?t=6a2e1691&us=5246f2e7ea&sign=f1bf317ce383055325a402161cfb4378"
+        ]
+      }
+    ]
+  }
+]
