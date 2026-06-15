@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 21703,
+    "pID": "f16b8d6ad6e27fcf4c004e91225d7b73",
+    "title": "世界杯 0:0",
+    "keyword": "06月16日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/9c1958aa257c4a318f87cb4b2d79fa11.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "西班牙VS佛得角",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月16日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/c8468a3e5001834807459740413/playlist_eof.m3u8?t=6a30a97e&us=f80c0b5816&sign=104f9832fdc38471bc11aa2da25127cf"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/6619ad605001834807475473225/playlist_eof.m3u8?t=6a30a97e&us=f80c0b5816&sign=4b8deccf1b9cce74c4597a9337ea38d4"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/bcea1dd25001834807459289758/playlist_eof.m3u8?t=6a30a97e&us=f80c0b5816&sign=be2500cf3a58546ebe579e4c3ec3a3c1"
+        ]
+      }
+    ]
+  }
+]
