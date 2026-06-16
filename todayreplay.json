@@ -1,5 +1,133 @@
 [
   {
+    "mgdbId": 21760,
+    "pID": "7a95680bc7090defd42834354a9652e7",
+    "title": "WNBA 78:58",
+    "keyword": "06月16日10:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/380d81d4050b81debf9a5500239e96d0.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "女武神VS火花",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月16日10:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/21a305fe5001834807552700972/playlist_eof.m3u8?t=6a313bb2&us=e1d9e27e7b&sign=8152b369fe17062c1e084039775926e1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 21706,
+    "pID": "02ca9b903c46dd5c8c1e55bcf5cc5f80",
+    "title": "世界杯 2:2",
+    "keyword": "06月16日09:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/8155ecd333d749a8a3df7be234d157c4.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "伊朗VS新西兰",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月16日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/3802e2db5001834807501791029/playlist_eof.m3u8?t=6a313994&us=307dd99153&sign=16ad46e56ea0595dd54b838ab6dd1025"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/dd2978c45001834807497662126/playlist_eof.m3u8?t=6a313994&us=307dd99153&sign=5ce9be242e6f02d74b9eaf5650480d89"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f798767b5001834807507150286/playlist_eof.m3u8?t=6a313994&us=307dd99153&sign=6a953842f57ac247a85c858cd764b833"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 21759,
+    "pID": "46a649d3aef5470a36940ed4c026fdb4",
+    "title": "WNBA 96:66",
+    "keyword": "06月16日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/58709b9e7964e03c28ebe777ef823eca.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "飞翼VS王牌",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月16日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9972951b5001834807540651913/playlist_eof.m3u8?t=6a31395a&us=4fc68ee1c8&sign=1d9735914f40ecac6f5f9e79c732a3d0"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/700d01685001834807499353617/playlist_eof.m3u8?t=6a31395a&us=4fc68ee1c8&sign=2d95a0d280e22d5019e0720e26c37d4f"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 21758,
+    "pID": "477bb97a2c2756da806e06ba7adb9825",
+    "title": "WNBA 107:74",
+    "keyword": "06月16日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "山猫VS火焰",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月16日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/2ab4ffb75001834807409700406/playlist_eof.m3u8?t=6a313ac7&us=2fc8ca0300&sign=89091a86d0b19778a2133bfec505b6ad"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/5f49a3a35001834807397258413/playlist_eof.m3u8?t=6a313ac7&us=2fc8ca0300&sign=bed9204dd15530a3c825f5a5538bc514"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 21705,
     "pID": "1fb036f1dfc3b483ff82a3fecd7aef0d",
     "title": "世界杯 1:1",
@@ -20,19 +148,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/4a21f2af5001834807495951876/playlist_eof.m3u8?t=6a30ef74&us=8905b41751&sign=f4b9a5a372cca74cd94bab88c5b0544b"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/4a21f2af5001834807495951876/playlist_eof.m3u8?t=6a313ec8&us=f069bf8103&sign=4363b6bf010f59b3f4e8fdaa91331279"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/70d9dabb5001834807529420651/playlist_eof.m3u8?t=6a30ef74&us=8905b41751&sign=f73fc54234c761efcd7d8ff42ab9080b"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/70d9dabb5001834807529420651/playlist_eof.m3u8?t=6a313ec8&us=f069bf8103&sign=07f894d5d6ed001158263fa2977b8ed4"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/c431777f5001834807347338541/playlist_eof.m3u8?t=6a30ef74&us=8905b41751&sign=9e5f674e02444e4d5d9e13b36ad89fae"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/c431777f5001834807347338541/playlist_eof.m3u8?t=6a313ec8&us=f069bf8103&sign=d9c2029440c056acd36a72508b922282"
         ]
       }
     ]
@@ -58,19 +186,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/49fd45ec5001834807335884758/playlist_eof.m3u8?t=6a30ea03&us=1d725dd2c1&sign=9817e6f1776d9cdf5c226f07ec5e95e4"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/49fd45ec5001834807335884758/playlist_eof.m3u8?t=6a3137a9&us=8aa28a8b88&sign=b8d1e96a08c80b7d01c85c490b300ce4"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/ae55e3fa5001834807476260440/playlist_eof.m3u8?t=6a30ea03&us=1d725dd2c1&sign=2c1a4253714d29419bb5c697b6993d92"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/ae55e3fa5001834807476260440/playlist_eof.m3u8?t=6a3137a9&us=8aa28a8b88&sign=22aa74649a8e33827ff1763085fc5de6"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/8c9b54695001834807526571688/playlist_eof.m3u8?t=6a30ea03&us=1d725dd2c1&sign=9804271d6f160da132c76a23c41e3b05"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/8c9b54695001834807526571688/playlist_eof.m3u8?t=6a3137a9&us=8aa28a8b88&sign=f19589a5797d71b0f4cf041c6df102c1"
         ]
       }
     ]
@@ -96,19 +224,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/c8468a3e5001834807459740413/playlist_eof.m3u8?t=6a30f675&us=f4a6e89b51&sign=5ad178cb56650b9c40734eb62349d6d4"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/c8468a3e5001834807459740413/playlist_eof.m3u8?t=6a3141ca&us=a93ef43544&sign=067b039c66cc6c5143a99d6746b082fd"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/6619ad605001834807475473225/playlist_eof.m3u8?t=6a30f675&us=f4a6e89b51&sign=8818d03ae48a40d496cb4f7cb79e5838"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/6619ad605001834807475473225/playlist_eof.m3u8?t=6a3141ca&us=a93ef43544&sign=aa7606967e23b70246376176a70dfdfc"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/bcea1dd25001834807459289758/playlist_eof.m3u8?t=6a30f675&us=f4a6e89b51&sign=d84c1fbded5f3b3cde765d9615d5d6e1"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/bcea1dd25001834807459289758/playlist_eof.m3u8?t=6a3141ca&us=a93ef43544&sign=fff3e364a6f7af39744a7dda74ce1ae4"
         ]
       }
     ]
