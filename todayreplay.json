@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 21761,
+    "pID": "d3cb8eb3306eda6a889d1b39bd8896ff",
+    "title": "世界杯 3:1",
+    "keyword": "06月17日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/80afde3512424e2a9d287cad74b6068a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "法国VS塞内加尔",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月17日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/08f5e4165001834807521410808/playlist_eof.m3u8?t=6a3217b2&us=7ce0b5af7a&sign=f6263a9d62ddb5d41c10902c42fa5676"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7a59a14d5001834807648842596/playlist_eof.m3u8?t=6a3217b2&us=7ce0b5af7a&sign=20564d1192d59b0291640a7a5936e434"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/98442ffa5001834807611724390/playlist_eof.m3u8?t=6a3217b2&us=7ce0b5af7a&sign=f7e3bce9dc771c84c2935246d8355895"
+        ]
+      }
+    ]
+  }
+]
