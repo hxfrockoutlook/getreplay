@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 21856,
+    "pID": "05cadd7a93088326867e0988039120f2",
+    "title": "世界杯 1:1",
+    "keyword": "06月19日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/445f0bbb49694464b0fee3b1cbdfdafc.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "捷克VS南非",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月19日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f168f2305001834807867975085/playlist_eof.m3u8?t=6a3480a3&us=b3904115da&sign=255b1ca4e2dff910d50d4e6bc6485257"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/a480d5875001834807866985211/playlist_eof.m3u8?t=6a3480a3&us=b3904115da&sign=fb84dfce829593a2e8106b7e74b5f344"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9f1aa29d5001834807903571146/playlist_eof.m3u8?t=6a3480a3&us=b3904115da&sign=1280e222329a0d69b457844f212fd52e"
+        ]
+      }
+    ]
+  }
+]
