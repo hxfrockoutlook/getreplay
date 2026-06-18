@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 21857,
+    "pID": "14e866e93d8cc06fd5b14c50306a56b8",
+    "title": "世界杯 4:1",
+    "keyword": "06月19日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fad87ff2077540c8a951ade88a87901d.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "瑞士VS波黑",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月19日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/88187aca5001834807883388245/playlist_eof.m3u8?t=6a34a9f7&us=571b120403&sign=a4c5b007ed96d82a6ac65e767b009cc3"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/04f9f72a5001834807935894416/playlist_eof.m3u8?t=6a34a9f7&us=571b120403&sign=662a139fe531260a6b460bed7f26d011"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/446e74df5001834807882780032/playlist_eof.m3u8?t=6a34a9f7&us=571b120403&sign=f538534dd72b1e5bf1718d0bd39a7304"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 21856,
     "pID": "05cadd7a93088326867e0988039120f2",
     "title": "世界杯 1:1",
@@ -20,19 +58,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/f168f2305001834807867975085/playlist_eof.m3u8?t=6a3480a3&us=b3904115da&sign=255b1ca4e2dff910d50d4e6bc6485257"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f168f2305001834807867975085/playlist_eof.m3u8?t=6a34a37d&us=23240b6ee2&sign=b095e2f7b84e06438b08f1b087668e1c"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/a480d5875001834807866985211/playlist_eof.m3u8?t=6a3480a3&us=b3904115da&sign=fb84dfce829593a2e8106b7e74b5f344"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/a480d5875001834807866985211/playlist_eof.m3u8?t=6a34a37d&us=23240b6ee2&sign=6377af4caf01c7e39846f87863f54236"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/9f1aa29d5001834807903571146/playlist_eof.m3u8?t=6a3480a3&us=b3904115da&sign=1280e222329a0d69b457844f212fd52e"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9f1aa29d5001834807903571146/playlist_eof.m3u8?t=6a34a37d&us=23240b6ee2&sign=82950666de2ff29938101a985820fa40"
         ]
       }
     ]
