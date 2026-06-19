@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 21908,
+    "pID": "4b27f3c427a32409809337e2b4dc6cf7",
+    "title": "世界杯 2:0",
+    "keyword": "06月20日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/350ec526535f4c9a81f9d9201948d9d5.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "美国VS澳大利亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月20日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/6ddc7f2a5001834807879512665/playlist_eof.m3u8?t=6a35fcf1&us=97d031cf17&sign=bf5d11478ed8f7232935b6d6c89781e9"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/337b8e605001834808029671607/playlist_eof.m3u8?t=6a35fcf1&us=97d031cf17&sign=fea7d82e4e6cf9490012b176cebd6f2e"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/8c44b0e45001834807883519324/playlist_eof.m3u8?t=6a35fcf1&us=97d031cf17&sign=99da3d7c471c3777693bb7d24ed04c12"
+        ]
+      }
+    ]
+  }
+]
