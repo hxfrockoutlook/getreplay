@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 22020,
+    "pID": "465035627619419dfe5435d37df9168d",
+    "title": "世界杯 5:1",
+    "keyword": "06月21日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "荷兰VS瑞典",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月21日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/ad7d9e4a5001834808177751479/playlist_eof.m3u8?t=6a3732f5&us=71cf49dc44&sign=53d63b834d0f58273ad9e6d3d08baff3"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/0cb9339d5001834808141134489/playlist_eof.m3u8?t=6a3732f5&us=71cf49dc44&sign=4f7035800a5000b3fe70383f1562b057"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/ab9e1d165001834808143370028/playlist_eof.m3u8?t=6a3732f5&us=71cf49dc44&sign=bdf647fcbf10aec856770174623fe75a"
+        ]
+      }
+    ]
+  }
+]
