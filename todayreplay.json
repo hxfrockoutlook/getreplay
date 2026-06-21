@@ -1,5 +1,75 @@
 [
   {
+    "mgdbId": 22262,
+    "pID": "1612e351afb7f6a11a6cc3cd6f4baef2",
+    "title": "WNBA 92:73",
+    "keyword": "06月22日04:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ce8ab1125fdb3fdbd8c09dba8c437c49.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "王牌VS女武神",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月22日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/537f1ab65001834808325245034/playlist_eof.m3u8?t=6a38b025&us=84b5354858&sign=1cdb2bbe113e9fcfba89ffaa14916ec4"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/1ad8055c5001834808182803327/playlist_eof.m3u8?t=6a38b025&us=84b5354858&sign=ecb16062fcda88521551639392e7eb06"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22126,
+    "pID": "aec4c2acef3908a9916df4ca85ba437b",
+    "title": "世界杯 0:0",
+    "keyword": "06月22日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/ea0e9d2d1bda4cbfaf226902ea55a3eb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "比利时VS伊朗",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月22日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/ae02cf235001834808184532648/playlist_eof.m3u8?t=6a38b005&us=33bb569b06&sign=9bdfe0c9f70c2c471d5150436afd6368"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/016882cf5001834808137990888/playlist_eof.m3u8?t=6a38b005&us=33bb569b06&sign=4cf18ffc22103e3df8ff6bf47d2a29d6"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/75380eeb5001834808180300032/playlist_eof.m3u8?t=6a38b005&us=33bb569b06&sign=b40dd2653300389b2b39f68d88c530f9"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 22125,
     "pID": "cf0536f257f6f47005a799a778c3908a",
     "title": "世界杯 4:0",
@@ -20,19 +90,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/7904833a5001834808268303820/playlist_eof.m3u8?t=6a389724&us=0780a4c581&sign=f2da04be09992f9f3fc0bd099c199683"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7904833a5001834808268303820/playlist_eof.m3u8?t=6a38ac54&us=f36175c21d&sign=256aafc2515127468b890eac35c2ef53"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/cc2fe13b5001834808123085455/playlist_eof.m3u8?t=6a389724&us=0780a4c581&sign=d4a27a03451f1eca558c06939aa4664b"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/cc2fe13b5001834808123085455/playlist_eof.m3u8?t=6a38ac54&us=f36175c21d&sign=12a655c85508a8db030078e5e079f729"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/b00cd2515001834808119172011/playlist_eof.m3u8?t=6a389724&us=0780a4c581&sign=99291261b824a28dd410e7beb990663e"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/b00cd2515001834808119172011/playlist_eof.m3u8?t=6a38ac54&us=f36175c21d&sign=5f0c8fa1cd9ed1db4ac876e7d4220fdf"
         ]
       }
     ]
