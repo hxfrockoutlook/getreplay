@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 22125,
+    "pID": "cf0536f257f6f47005a799a778c3908a",
+    "title": "世界杯 4:0",
+    "keyword": "06月22日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/9c1958aa257c4a318f87cb4b2d79fa11.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "西班牙VS沙特阿拉伯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月22日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7904833a5001834808268303820/playlist_eof.m3u8?t=6a388757&us=beef123081&sign=6429c1dcaf396663052487f703009c6d"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/cc2fe13b5001834808123085455/playlist_eof.m3u8?t=6a388757&us=beef123081&sign=72c03029eca23c934c323058b5e64fd3"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/b00cd2515001834808119172011/playlist_eof.m3u8?t=6a388757&us=beef123081&sign=9558c2b7f5aea959f8944eea26520836"
+        ]
+      }
+    ]
+  }
+]
