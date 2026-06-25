@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "mgdbId": 22443,
+    "pID": "1076cae7a1f73e7c71108fdcc6e72057",
+    "title": "世界杯 2:1",
+    "keyword": "06月26日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/10c94f16a2db4872b22d66aa3949bdc0.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "厄瓜多尔VS德国",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月26日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/3f05891f5001834808905617063/playlist_eof.m3u8?t=6a3df48b&us=b5b58b7d88&sign=647a9bcfc7fcd8bbf3ddbf8e68ec1635"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/e4319d0d5001834808921698367/playlist_eof.m3u8?t=6a3df48b&us=b5b58b7d88&sign=9d2235ae6f446ddc2f59f2161d8788ea"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/fdf8e3405001834808864242822/playlist_eof.m3u8?t=6a3df48b&us=b5b58b7d88&sign=5df8843364c858ed25bef9bbd283dbbf"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22444,
+    "pID": "928b7090028b3e4dd17e0af30f99b0ae",
+    "title": "世界杯 0:2",
+    "keyword": "06月26日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b5e51cdfe1a14bdf8289260933b2d405.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "库拉索VS科特迪瓦",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月26日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9d7628495001834808873271487/playlist_eof.m3u8?t=6a3df401&us=f3eb1ad901&sign=950f4ad5793d838a4b52e66e04afec49"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/88cb5de05001834808920037746/playlist_eof.m3u8?t=6a3df401&us=f3eb1ad901&sign=d881f09c40e36a00cac9d0f96de814a8"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/96fd487e5001834808920661552/playlist_eof.m3u8?t=6a3df401&us=f3eb1ad901&sign=105bb3ea29a2d044aac05d7f5dbda52c"
+        ]
+      }
+    ]
+  }
+]
