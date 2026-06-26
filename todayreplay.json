@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "mgdbId": 22517,
+    "pID": "4817858bdcb69f3886c9e4d0b2402318",
+    "title": "世界杯 1:4",
+    "keyword": "06月27日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/227d43878fa14347902532126d29b10c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "挪威VS法国",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月27日03:00"
+    },
+    "nodes": [
+      {
+        "name": "超清外语1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7cebf4125001834809013608113/playlist_eof.m3u8?t=6a3f367d&us=7f6e646a94&sign=37a6525c5f0bfc30f4149df962d624d2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22518,
+    "pID": "4b4accb7fbd2ad813613452e428b7438",
+    "title": "世界杯 5:0",
+    "keyword": "06月27日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/cb23b861bbdc4d258313dd94efca7493.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "塞内加尔VS伊拉克",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月27日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/5f01aca25001834809071077386/playlist_eof.m3u8?t=6a3f36cc&us=7a58c78ce0&sign=b73ffb95fb979a1b58c2e1b093fee098"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/72f2f6185001834808852020760/playlist_eof.m3u8?t=6a3f36cc&us=7a58c78ce0&sign=e9b422912afd0d78ddceb9a3cdb1c823"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22746,
+    "pID": "d5a08702595503913aaf12d5fa5901c3",
+    "title": "国际赛 79:84",
+    "keyword": "06月27日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "国际赛",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f3ac89a5f052460169843d9793296c29.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "葡萄牙VS瑞士",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月27日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/1b4b1a1f5001834809070469505/playlist_eof.m3u8?t=6a3f38cc&us=ff91162aa9&sign=b7c44e6170340146d000394726d97291"
+        ]
+      }
+    ]
+  }
+]
