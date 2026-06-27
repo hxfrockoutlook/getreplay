@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 22714,
+    "pID": "f4731da9c8f09b9ae4cf78f3b321d274",
+    "title": "WNBA 80:89",
+    "keyword": "06月28日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/d994ab69186bb52d6b0967e1567a217e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "节奏VS水星",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月28日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/6ec25fe05001834809006277492/playlist_eof.m3u8?t=6a408020&us=73221b0174&sign=ad8ccb19b0cce80528d7ccfdffd0998f"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7a7f686a5001834809006789746/playlist_eof.m3u8?t=6a408020&us=73221b0174&sign=2062666039fef01cf840bb41ce1ac1a3"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/317d9a7e5001834809219515444/playlist_eof.m3u8?t=6a408020&us=73221b0174&sign=e6da7bf17e71623997c1789ea6c93d1a"
+        ]
+      }
+    ]
+  }
+]
