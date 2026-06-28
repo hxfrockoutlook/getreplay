@@ -1,5 +1,43 @@
 [
   {
+    "mgdbId": 22722,
+    "pID": "f63b609ada3d38512ceff820c222ea34",
+    "title": "世界杯 0:1",
+    "keyword": "06月29日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/f5537e8960824e848e5a9bac16514483.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "南非VS加拿大",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月29日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/142630045001834809205684970/playlist_eof.m3u8?t=6a41da65&us=a9abc155ac&sign=7e0336a0b3e3162b85359eb302fe5447"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9f0a817d5001834809319221673/playlist_eof.m3u8?t=6a41da65&us=a9abc155ac&sign=ecc3528522324b6116c36656bd44b3a1"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/64a72aa05001834809380418148/playlist_eof.m3u8?t=6a41da65&us=a9abc155ac&sign=38299fc880a734b7230c8bda1a91a197"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 22875,
     "pID": "0312fb1ce5aaf6cc6fe5df01ac84e4ce",
     "title": "WNBA 77:85",
@@ -20,13 +58,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/a77260a35001834809153854491/playlist_eof.m3u8?t=6a41cdd5&us=e55c1a4d7c&sign=1daa2a3c63c34e67a551e8a6f18448ee"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/a77260a35001834809153854491/playlist_eof.m3u8?t=6a41dfb0&us=04058969f6&sign=cf9a5a8b01bc7362b95e5b8796219fb6"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/9aa999795001834809319063233/playlist_eof.m3u8?t=6a41cdd5&us=e55c1a4d7c&sign=3ff192d0d671d3a13d25a1e5ec5b3dab"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9aa999795001834809319063233/playlist_eof.m3u8?t=6a41dfb0&us=04058969f6&sign=1061b5e4b90295de31ed91c907e9825c"
         ]
       }
     ]
