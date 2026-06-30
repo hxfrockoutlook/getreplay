@@ -1,5 +1,185 @@
 [
   {
+    "mgdbId": 22886,
+    "pID": "03461b773099e02167640e06ed5281f4",
+    "title": "世界杯 1:1",
+    "keyword": "06月30日09:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/a48ca99e1c924c90a9a1d2a95841df1c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "荷兰VS摩洛哥",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月30日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22886_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22886_1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22885,
+    "pID": "362c08caa8b75728bb9f4adb0c0f0932",
+    "title": "世界杯 1:1",
+    "keyword": "06月30日04:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/761ccf19be6a4fdf81880acadb81aa4c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "德国VS巴拉圭",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月30日04:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22885_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22885_1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22944,
+    "pID": "51c6ec955f6b60d6045eff63c132fc3f",
+    "title": "世亚预 99:56",
+    "keyword": "06月30日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世亚预",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/01fbdbd570011d3ff9420955163f2cbf.jpg",
+    "competitionLogo": "",
+    "pkInfoTitle": "黎巴嫩VS印度",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月30日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22944_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22884,
+    "pID": "83a40188238d901b25e7e88da7fcca4e",
+    "title": "世界杯 2:1",
+    "keyword": "06月30日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/c718af22dc754a6b8dc103901c554eb8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "巴西VS日本",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月30日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22884_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22884_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22884_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22943,
+    "pID": "cd23be11e2cd35c01091f56508866cd7",
+    "title": "世亚预 59:108",
+    "keyword": "06月30日00:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世亚预",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1d1b36f7520646c4ae535630e17eeeec.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "伊拉克VS约旦",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月30日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22943_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 22942,
+    "pID": "aec09f854c2eae5e15ede7b3830f4ec0",
+    "title": "世亚预 80:86",
+    "keyword": "06月30日00:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世亚预",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/28d423b7ff35b08122bfaa4585931204.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "卡塔尔VS沙特",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "06月30日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=22942_0"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 22879,
     "pID": "596372bbe03ad303a04475612d0890aa",
     "title": "世亚预 72:68",
