@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "mgdbId": 23143,
+    "pID": "dd5103350418814ca0cd8603aceeabd9",
+    "title": "世界杯 1:1",
+    "keyword": "07月04日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/46901c88777c4076bcf2ea240223deed.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "澳大利亚VS埃及",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月04日02:00"
+    },
+    "nodes": [
+      {
+        "name": "超清中文1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f9fbd3375001834810092905272/playlist_eof.m3u8?t=6a486dfb&us=c04d6080c2&sign=43722923f236db7ea2efec30119f004d"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/0d999a995001834810136466543/playlist_eof.m3u8?t=6a486dfb&us=c04d6080c2&sign=9c9ee416c142dd3d1b9a729d065edc88"
+        ]
+      }
+    ]
+  }
+]
