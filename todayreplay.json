@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 23412,
+    "pID": "2071665e7631750fbb8e5e29b1a4fb21",
+    "title": "WNBA 83:88",
+    "keyword": "07月05日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "梦想VS女武神",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月05日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7da05e9a5001834810236293536/playlist_eof.m3u8?t=6a49ad9c&us=f237c2e929&sign=76303b7ac77a7c9fc94f0c182f402d70"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 23280,
+    "pID": "e8108f373e2b2b28b148e9cb16dfc4fd",
+    "title": "世界杯 0:3",
+    "keyword": "07月05日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世界杯",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/336e1c9ab6894a3b893c1ef45235a164.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "加拿大VS摩洛哥",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月05日01:00"
+    },
+    "nodes": [
+      {
+        "name": "超清外语1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/32ff84c45001834810242100107/playlist_eof.m3u8?t=6a49a676&us=0730cb7319&sign=77368204eab03e9d2c3ee03b0cdf839a"
+        ]
+      }
+    ]
+  }
+]
