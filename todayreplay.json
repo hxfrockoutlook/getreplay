@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "mgdbId": 24396,
+    "pID": "80a516f8f4b4c3a76dc73bf1bf6328c0",
+    "title": "WNBA 84:79",
+    "keyword": "07月13日03:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "神秘人VS风暴",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月13日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9fd27f695001834811501500208/playlist_eof.m3u8?t=6a545357&us=5c5c114838&sign=a2c97e09b34be31744ed1186038e78c9"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/18a913585001834811554040954/playlist_eof.m3u8?t=6a545357&us=5c5c114838&sign=1bd6d080cfe4078c7fe12a56e28c72ce"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 24395,
+    "pID": "753a3d5c85c0ec86f74e296e0ee78344",
+    "title": "WNBA 93:91",
+    "keyword": "07月13日03:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/d994ab69186bb52d6b0967e1567a217e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "节奏VS自由人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月13日03:00"
+    },
+    "nodes": [
+      {
+        "name": "超清外语1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/20fa1ca55001834811364296982/playlist_eof.m3u8?t=6a545357&us=5c5c114838&sign=65325da2b8fbebcec1d74b3bd71cf5d0"
+        ]
+      }
+    ]
+  }
+]
