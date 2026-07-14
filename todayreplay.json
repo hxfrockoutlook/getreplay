@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "mgdbId": 24498,
+    "pID": "172b9fb71bc7484902bb17109c0a40c1",
+    "title": "WNBA 101:92",
+    "keyword": "07月14日07:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "梦想VS火花",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月14日07:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/17e538e25001834811666226846/playlist_eof.m3u8?t=6a55ed84&us=afd078f446&sign=4677d70d077a6075329fe4213b45e03e"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/3a914d3d5001834811663662651/playlist_eof.m3u8?t=6a55ed84&us=afd078f446&sign=68531b3d7807453adcce5768ce1c8b00"
+        ]
+      }
+    ]
+  }
+]
