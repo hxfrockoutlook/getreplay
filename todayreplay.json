@@ -1,5 +1,37 @@
 [
   {
+    "mgdbId": 24501,
+    "pID": "29583c99293e09f07d2141a45a23abc1",
+    "title": "WNBA 104:100",
+    "keyword": "07月14日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/49fd2772263eaccfe78608a04e5b6f4c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "山猫VS水星",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月14日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/1aa11a595001834811751030696/playlist_eof.m3u8?t=6a5608a0&us=c4179d077e&sign=02027f582cede5724bc39b9de60d3e89"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/2de76e8c5001834811673977584/playlist_eof.m3u8?t=6a5608a0&us=c4179d077e&sign=3d657e0d017433e4df625032d8f51a04"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 24498,
     "pID": "172b9fb71bc7484902bb17109c0a40c1",
     "title": "WNBA 101:92",
@@ -20,13 +52,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/17e538e25001834811666226846/playlist_eof.m3u8?t=6a55ed84&us=afd078f446&sign=4677d70d077a6075329fe4213b45e03e"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/17e538e25001834811666226846/playlist_eof.m3u8?t=6a560c7b&us=a79ac8c463&sign=315d1c0886e82b2af04a1187864ff3b9"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/3a914d3d5001834811663662651/playlist_eof.m3u8?t=6a55ed84&us=afd078f446&sign=68531b3d7807453adcce5768ce1c8b00"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/3a914d3d5001834811663662651/playlist_eof.m3u8?t=6a560c7b&us=a79ac8c463&sign=8e9ca684727cca3382266c605ff8936f"
         ]
       }
     ]
