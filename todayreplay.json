@@ -1,5 +1,69 @@
 [
   {
+    "mgdbId": 25429,
+    "pID": "9846519411d758ab6062b371712df654",
+    "title": "WNBA 102:105",
+    "keyword": "07月21日10:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/21275a59516956d98aedc00b97faadc4.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "风暴VS山猫",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月21日10:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/e9cd0b515001834812689885277/playlist_eof.m3u8?t=6a5f50e6&us=8f8b156860&sign=f5039c425e99487126352ab1ece8f0bd"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/a6fed0fd5001834812644107648/playlist_eof.m3u8?t=6a5f50e6&us=8f8b156860&sign=e3ee19cb77d85abb6caaffe1cc00e3ed"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 25428,
+    "pID": "51705048493a2efab5f451416cc83948",
+    "title": "WNBA 82:90",
+    "keyword": "07月21日10:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/380d81d4050b81debf9a5500239e96d0.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "女武神VS神秘人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月21日10:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/45604d6b5001834812639565785/playlist_eof.m3u8?t=6a5f4b4b&us=dc084a4ddd&sign=b38f9e040542a8c70be46ef0c18b9b36"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/62d0aefd5001834812636720187/playlist_eof.m3u8?t=6a5f4b4b&us=dc084a4ddd&sign=88efaa9e39c9b8bd2cde1924e16fd433"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 25427,
     "pID": "30c83b1bdc5ef89b8d21b03291589b20",
     "title": "WNBA 83:109",
@@ -20,13 +84,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/d92ad1fc5001834812672459222/playlist_eof.m3u8?t=6a5f31ec&us=b9f89474b9&sign=05145c9f22d4d64a96f0212bc187cd50"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/d92ad1fc5001834812672459222/playlist_eof.m3u8?t=6a5f5004&us=1efa872fa1&sign=23227880090c3ac8ffb7cdc0cb2ad0b0"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/321b90a25001834812680706468/playlist_eof.m3u8?t=6a5f31ec&us=b9f89474b9&sign=2e86aacf663c840bb57354a65896c50c"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/321b90a25001834812680706468/playlist_eof.m3u8?t=6a5f5004&us=1efa872fa1&sign=865866f46c81ad7d82481ff763ed6860"
         ]
       }
     ]
@@ -50,9 +114,15 @@
     },
     "nodes": [
       {
-        "name": "超清外语1(一)",
+        "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/c1d7a4435001834812492174649/playlist_eof.m3u8?t=6a5f2568&us=a191c1f99b&sign=f9e40e9027ee52077e0962132b7c608d"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/c63d29665001834812627878452/playlist_eof.m3u8?t=6a5f5132&us=e1e98b5361&sign=245e82cfa552b798940b782475a0e874"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/c1d7a4435001834812492174649/playlist_eof.m3u8?t=6a5f5132&us=e1e98b5361&sign=463732b7618feaa5e7d0a5963bb4d348"
         ]
       }
     ]
