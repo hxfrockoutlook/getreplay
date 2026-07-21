@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "mgdbId": 25427,
+    "pID": "30c83b1bdc5ef89b8d21b03291589b20",
+    "title": "WNBA 83:109",
+    "keyword": "07月21日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/d994ab69186bb52d6b0967e1567a217e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "节奏VS王牌",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月21日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/d92ad1fc5001834812672459222/playlist_eof.m3u8?t=6a5f31ec&us=b9f89474b9&sign=05145c9f22d4d64a96f0212bc187cd50"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/321b90a25001834812680706468/playlist_eof.m3u8?t=6a5f31ec&us=b9f89474b9&sign=2e86aacf663c840bb57354a65896c50c"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 24778,
+    "pID": "31e0b504ea0d58ec56995a4f751b622b",
+    "title": "WNBA 98:99",
+    "keyword": "07月21日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/58709b9e7964e03c28ebe777ef823eca.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "飞翼VS自由人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月21日08:00"
+    },
+    "nodes": [
+      {
+        "name": "超清外语1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/c1d7a4435001834812492174649/playlist_eof.m3u8?t=6a5f2568&us=a191c1f99b&sign=f9e40e9027ee52077e0962132b7c608d"
+        ]
+      }
+    ]
+  }
+]
