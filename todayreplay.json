@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 25514,
+    "pID": "01404640d99a0eb8ab3f19ded6e07bd3",
+    "title": "欧冠 1:0",
+    "keyword": "07月23日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/21fdafedb4eed8612da51c6c236b3d63.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "奥莫尼亚VS凯拉特",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月23日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9cdd97055001834812970481388/playlist_eof.m3u8?t=6a6161bc&us=002953b4ad&sign=b1c41d732c1d5e14f5691fea4381324f"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 25517,
+    "pID": "ef7bf99b5778bc77ebc2bfb74e6cf4c3",
+    "title": "欧足联 2:4",
+    "keyword": "07月23日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/2d9ea2234c3ada82b3d0355791c45669.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "尼菲治巴库VS明斯克迪纳摩",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月23日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/361b9a2f5001834812965679664/playlist_eof.m3u8?t=6a615f49&us=340b157469&sign=541247603bfa16700c90e0105b42bf72"
+        ]
+      }
+    ]
+  }
+]
