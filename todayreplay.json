@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 26480,
+    "pID": "f7fb396de27ed7464848205792cd428f",
+    "title": "欧足联 2:1",
+    "keyword": "07月30日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/629b6f983d0ca3c33f2c4b50b3449314.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "哥本哈根VS普莱西亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月30日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/1e1dd78e5001834814024225341/playlist_eof.m3u8?t=6a6a9a2a&us=2177dbeb10&sign=cc8c68899a0f99e2a49cf91ed4a92316"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 26473,
+    "pID": "69cd982340b0d755b60b212ed0c4dd68",
+    "title": "欧冠 1:0",
+    "keyword": "07月30日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/da6a0f9acc877204e8bc526a922066d6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "考诺萨基列斯VS克拉克斯维克",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "07月30日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/6d09eb8e5001834813983176688/playlist_eof.m3u8?t=6a6a9b08&us=c05fc08ca5&sign=068806d0d2968fae6c63c407b238279b"
+        ]
+      }
+    ]
+  }
+]
