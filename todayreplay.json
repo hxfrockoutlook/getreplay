@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "mgdbId": 27119,
+    "pID": "59e1b49cee8198addb8ac22927371d2f",
+    "title": "WNBA 84:83",
+    "keyword": "08月02日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/96c0adc8a98bb466bfa539f11ce8ae04.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "天空VS王牌",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月02日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/1f8eac6a5001834814367777950/playlist_eof.m3u8?t=6a6e95f5&us=cdfa33a3e9&sign=8d5188039642119d4bbeebaca59196b2"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/d4f220d55001834814332535540/playlist_eof.m3u8?t=6a6e95f5&us=cdfa33a3e9&sign=5696538061b44359aa0880b7807e1d33"
+        ]
+      }
+    ]
+  }
+]
