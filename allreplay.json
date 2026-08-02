@@ -1,5 +1,63 @@
 [
   {
+    "mgdbId": 27120,
+    "pID": "dfb83cca5324d317fb0de8167b4a939a",
+    "title": "WNBA 92:94",
+    "keyword": "08月02日03:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/b48443679dd0356cc64abce373f763e1.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "水星VS自由人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月02日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=27120_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 27119,
+    "pID": "59e1b49cee8198addb8ac22927371d2f",
+    "title": "WNBA 84:83",
+    "keyword": "08月02日01:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/96c0adc8a98bb466bfa539f11ce8ae04.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "天空VS王牌",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月02日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=27119_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=27119_1"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 26707,
     "pID": "6571264644badceede4f6ba14d30eb63",
     "title": "中超 1:1",
