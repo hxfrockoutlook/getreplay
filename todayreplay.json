@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "mgdbId": 27511,
+    "pID": "55516df940510939ac35c416dbca96d1",
+    "title": "欧冠 2:0",
+    "keyword": "08月06日02:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "费内巴切VS格拉茨风暴",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月06日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7b12ddc25001834814793433563/playlist_eof.m3u8?t=6a73e360&us=b7fa9a86f4&sign=848392c87655802a67a55e84e9effc6e"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 27510,
+    "pID": "9f124504eb591709a989307ce66a1d31",
+    "title": "欧冠 2:1",
+    "keyword": "08月06日01:10",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/a0da10be11be5910b71c5ca79af53350.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "奥胡斯VS萨巴赫",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月06日01:10"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/480c06125001834814717202602/playlist_eof.m3u8?t=6a73d854&us=2dbea147e3&sign=3bb20a291a8d691c032e174f36c4dc35"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 27515,
+    "pID": "7933aa5ff4da0305525d97a66b6958e8",
+    "title": "欧足联 0:1",
+    "keyword": "08月06日01:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/448b88beb6cdaf0accf126b280b177d9.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布兰VS阿波罗利马索尔",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月06日01:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/0dbcc8765001834814788389299/playlist_eof.m3u8?t=6a73e492&us=c48b813600&sign=992f92cf2c3b000934bc388123566d14"
+        ]
+      }
+    ]
+  }
+]
