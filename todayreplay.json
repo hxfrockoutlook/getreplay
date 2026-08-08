@@ -1,5 +1,37 @@
 [
   {
+    "mgdbId": 27988,
+    "pID": "ac8c98ab024760adaa29708462dd3efb",
+    "title": "WNBA 79:74",
+    "keyword": "08月08日07:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f619a41699e34ed5b9c8047ecb688ca3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "神秘人VS梦想",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月08日07:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/a74f5e9d5001834815084061936/playlist_eof.m3u8?t=6a76e9f2&us=a331228179&sign=2810b9fb6de3ff05caae0aa29051a6ac"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/223af6ba5001834815041895205/playlist_eof.m3u8?t=6a76e9f2&us=a331228179&sign=41b37bc010deb6777218a7ada2f7bc1a"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 27987,
     "pID": "84a5e60f2dcde745d4b1bd1a9bb91643",
     "title": "WNBA 75:72",
@@ -18,9 +50,15 @@
     },
     "nodes": [
       {
-        "name": "超清外语1(一)",
+        "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/adf3661c5001834814912127087/playlist_eof.m3u8?t=6a76d8ac&us=6ec998cec1&sign=13ca4bc203505694fe8bdce5e0e8bf88"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/9c16cee05001834814915455237/playlist_eof.m3u8?t=6a76e75f&us=5c1f66f934&sign=0645de0297fb5da010de92d4722f2ac8"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/adf3661c5001834814912127087/playlist_eof.m3u8?t=6a76e75f&us=5c1f66f934&sign=7fdd04e6dc117b2e1bcf4b155edf6aaf"
         ]
       }
     ]
