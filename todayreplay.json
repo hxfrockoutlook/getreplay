@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "mgdbId": 28781,
+    "pID": "2ab31b2476ae3dbb702eea6bfac2089b",
+    "title": "欧足联 1:1",
+    "keyword": "08月14日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/f6526b5434c06d7a6da4a9193fdac95e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "埃尔维斯VS里耶卡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月14日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/3dc95c015001834815972212585/playlist_eof.m3u8?t=6a7e5477&us=596b044d7f&sign=8a0fa63c732103658e0181a4fe234165"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 28780,
+    "pID": "233cfffaead596f02b08942a128d72e5",
+    "title": "欧足联 2:0",
+    "keyword": "08月14日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/7f7d00906d511bcf48f9a600580ff953.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "卡拉巴克VS基辅迪纳摩",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月14日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/023ae2fe5001834815961117616/playlist_eof.m3u8?t=6a7e5477&us=596b044d7f&sign=b7cc8213e5d163289f5421286214b414"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 28779,
+    "pID": "0bcbf42f1eb5d900da145c88fbb08cf1",
+    "title": "欧足联 0:4",
+    "keyword": "08月14日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/5b9c9b4f40414f2be603cf1dac1bdad6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "塔林弗洛拉VS埃斯卡尔德斯国际",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月14日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/17a196f75001834815944410711/playlist_eof.m3u8?t=6a7e5477&us=596b044d7f&sign=8a8cfc93d04d7a3b77c2dbabc439049c"
+        ]
+      }
+    ]
+  }
+]
