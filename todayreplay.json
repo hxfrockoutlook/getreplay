@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 29199,
+    "pID": "876ddef77d7ad2c709be54bd95320fb6",
+    "title": "英冠 0:0",
+    "keyword": "08月16日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/008437c93501963e6ca1b2450994007a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "谢菲联VS伯明翰",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月16日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/0d78f8065001834816085985802/playlist_eof.m3u8?t=6a80fd82&us=eee10cce12&sign=901ea7b9ac2b7d725bf24f334c6f2264"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 29193,
+    "pID": "a847547f2a710e98bcca028f7c73de3c",
+    "title": "沙特超 0:0",
+    "keyword": "08月16日00:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布赖代合作VS塞哈特海湾",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月16日00:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/bdbe10a95001834816084827667/playlist_eof.m3u8?t=6a80f8b0&us=a2efeb781a&sign=f3adc394d9bcda0601c5f5876c40d0dc"
+        ]
+      }
+    ]
+  }
+]
