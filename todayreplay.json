@@ -1,5 +1,69 @@
 [
   {
+    "mgdbId": 28892,
+    "pID": "a4ed563bf5e3e9cfd3fad5b95f9df5de",
+    "title": "中超 2:3",
+    "keyword": "08月15日19:35",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "中超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/cc1aef5e69e8d01ba3d3712f24040347.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "浙江队VS成都蓉城",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月15日19:35"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/7f6b9a1a5001834816127142880/playlist_eof.m3u8?t=6a80bd0c&us=d786693b36&sign=247117e7b0f7aa5b3958b4af73ecefc6"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/221e3ecb5001834815992738238/playlist_eof.m3u8?t=6a80bd0c&us=d786693b36&sign=dcb69129c96c79e08ac8b028eb3d252e"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 28891,
+    "pID": "7e46babc5e5aa6dcff6b4e35475762a5",
+    "title": "中超 2:4",
+    "keyword": "08月15日19:35",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "中超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/c1786665c81e5dba734d5a8c2346d69e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "天津津门虎VS北京国安",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月15日19:35"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/cc21a3c75001834816145769086/playlist_eof.m3u8?t=6a80baa9&us=24c9741026&sign=ad52e7bd255e44310f1e6d13c5b1af3a"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/cc2123a75001834816145768348/playlist_eof.m3u8?t=6a80baa9&us=24c9741026&sign=eef0f1015faf840e374b98372eaefa18"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 29138,
     "pID": "3cc12406d69d688938285e186f92a8d5",
     "title": "国际赛 72:91",
@@ -21,6 +85,58 @@
         "name": "高清回放1(一)",
         "url": [
           "https://live.666666.zip/video/64664c68vodsgp1386416388/61cb930a5001834816069673792/playlist_eof.m3u8?t=6a80b5e3&us=34e58da9db&sign=14b1efe8b7acff41a678796a932309c8"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 29037,
+    "pID": "e01ee7d3f2118bf608675a4d8a87d11e",
+    "title": "英冠 2:1",
+    "keyword": "08月15日19:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/2c3f4f15f3330c4ea9ea9638ae5fb9ce.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "博尔顿VS普雷斯顿",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月15日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/5f2e08455001834816069533783/playlist_eof.m3u8?t=6a80b846&us=347cf8919d&sign=28ff3eba81e244e23b9de18592adc8be"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 28916,
+    "pID": "72816f09751558894026c225110b8474",
+    "title": "中甲 1:0",
+    "keyword": "08月15日19:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "中甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/7543134c669d639c3ff036bc215a3b62.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "广西恒宸VS梅州客家",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月15日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f621dfc05001834816166942317/playlist_eof.m3u8?t=6a80b84c&us=6075373ae4&sign=67151e5c22d05bc3bf22c648004a54af"
         ]
       }
     ]
@@ -104,7 +220,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/5aa41fc05001834816171660279/playlist_eof.m3u8?t=6a80a9fd&us=074e958354&sign=47733797d13559dcf2b0f3a26373c040"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/5aa41fc05001834816171660279/playlist_eof.m3u8?t=6a80b948&us=b32481bd07&sign=b85efcb8f585b54c393e4767cd3739d8"
         ]
       }
     ]
@@ -130,7 +246,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/b9497b8f5001834815987865705/playlist_eof.m3u8?t=6a80a9fd&us=074e958354&sign=bda583cd50b4f9fdaf628f4bb398dce8"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/b9497b8f5001834815987865705/playlist_eof.m3u8?t=6a80b87a&us=0288158b90&sign=59cdfc66d9b3e63c984ef68ad17220a7"
         ]
       }
     ]
@@ -156,7 +272,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/57f8ec445001834816171518569/playlist_eof.m3u8?t=6a80a79d&us=42e4527991&sign=4724a8656b992a7f8610733e9547dde3"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/57f8ec445001834816171518569/playlist_eof.m3u8?t=6a80b6e8&us=dd8ae8e3bf&sign=818b872eb3c5de0221d811279e9d6b84"
         ]
       }
     ]
@@ -364,7 +480,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/79c8df315001834815983375967/playlist_eof.m3u8?t=6a80afd7&us=64bfe6d33b&sign=4f771a7a0eef8815448b7fdbf06a5333"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/79c8df315001834815983375967/playlist_eof.m3u8?t=6a80be26&us=cd12391825&sign=b22d7d4533165bd16d6a46129fbed66b"
         ]
       }
     ]
@@ -390,7 +506,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/f3a7875e5001834816166820950/playlist_eof.m3u8?t=6a80aab1&us=98f40b0ccb&sign=eea0df9eb5d5a2d07b873a786bd60deb"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/f3a7875e5001834816166820950/playlist_eof.m3u8?t=6a80bd0d&us=ffce665a06&sign=f988f1f254b4d32f9612960b5b389bff"
         ]
       }
     ]
@@ -468,7 +584,7 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/b1967f965001834815946411050/playlist_eof.m3u8?t=6a80af22&us=13d94834a5&sign=97d9dd9e087cd338049f7ec80035fad9"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/b1967f965001834815946411050/playlist_eof.m3u8?t=6a80be27&us=80153546d0&sign=2ad9990b722f33d506217b88b4f1298e"
         ]
       }
     ]
@@ -494,13 +610,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/197ccb185001834816112473238/playlist_eof.m3u8?t=6a80a8fb&us=954ba8267c&sign=f730a14f4a05b0a4cb4e7ae7daa47cee"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/197ccb185001834816112473238/playlist_eof.m3u8?t=6a80bd0b&us=8ff3acd1d8&sign=b634f0c3eb24aada2d1ed1741162d78b"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://live.666666.zip/video/64664c68vodsgp1386416388/6631253c5001834816028783025/playlist_eof.m3u8?t=6a80a8fb&us=954ba8267c&sign=bc047ac8f06fa17a4da04708c2056417"
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/6631253c5001834816028783025/playlist_eof.m3u8?t=6a80bd0b&us=8ff3acd1d8&sign=ad8f68025c30fec1afb520930129c17d"
         ]
       }
     ]
