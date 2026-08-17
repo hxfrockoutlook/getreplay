@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 29674,
+    "pID": "de7fe6e575eb780382b4cec0a8f76c72",
+    "title": "西甲 1:1",
+    "keyword": "08月18日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/72b6d3de10274defb185d78d9bba789e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "拉科鲁尼亚VS埃尔切",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月18日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/976b258a5001834816389625592/playlist_eof.m3u8?t=6a83c495&us=7d825e0093&sign=ae14a0b94d6600ff50221a91a2f6f3dc"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/147d3e7d5001834816407816622/playlist_eof.m3u8?t=6a83c495&us=7d825e0093&sign=a4410cdf4588aa400b96c306d05a15a0"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/26ba090b5001834816438883844/playlist_eof.m3u8?t=6a83c495&us=7d825e0093&sign=b0ee53fd9ffa0ea5eb7c9d2c89602d42"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 29671,
+    "pID": "171237b81efa9c260fa29c04073a29c4",
+    "title": "英冠 1:1",
+    "keyword": "08月18日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/96e93477bd9f240151e87ec723cdf945.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "卡迪夫城VS雷克瑟姆",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月18日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/6c37c1475001834816439516747/playlist_eof.m3u8?t=6a83c495&us=7d825e0093&sign=cc97ccc98cb66358da1c9a8ce334a865"
+        ]
+      }
+    ]
+  }
+]
