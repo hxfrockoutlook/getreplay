@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 29765,
+    "pID": "98fe9028448fa33a14b62a0e58230b53",
+    "title": "欧冠 1:1",
+    "keyword": "08月19日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "费内巴切VS里昂",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月19日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/da09d6e45001834816641570668/playlist_eof.m3u8?t=6a85136c&us=7316d555a9&sign=a760e2cbcd5d9d83ae083574c0feac9a"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 29764,
+    "pID": "2f283ae31300f43646032b4fd84c6f74",
+    "title": "欧冠 0:0",
+    "keyword": "08月19日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fe56623a71d6056e9e1a93a6241e033f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "索非亚列夫斯基VS雅典AEK",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月19日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/adb3543a5001834816620295252/playlist_eof.m3u8?t=6a85136c&us=7316d555a9&sign=1542803b476ec43321de99f277b15b38"
+        ]
+      }
+    ]
+  }
+]
