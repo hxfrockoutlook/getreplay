@@ -50,5 +50,31 @@
         ]
       }
     ]
+  },
+  {
+    "mgdbId": 29763,
+    "pID": "bff2b76c7bb525763049d1664abf556f",
+    "title": "欧冠 2:2",
+    "keyword": "08月19日03:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "萨格勒布迪纳摩VS维京",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月19日03:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://live.666666.zip/video/64664c68vodsgp1386416388/fa42795d5001834816536583501/playlist_eof.m3u8?t=6a85162e&us=3665647cab&sign=15ef9f39b94fc52480f2c04151964ae2"
+        ]
+      }
+    ]
   }
 ]
