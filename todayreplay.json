@@ -1,5 +1,119 @@
 [
   {
+    "mgdbId": 30705,
+    "pID": "3ce696f520aa80d39386a989737191d7",
+    "title": "法甲 2:2",
+    "keyword": "08月24日02:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/eab8f0e847742fd328bb581299bd99ca.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "雷恩VS巴黎圣日耳曼",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月24日02:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/3bff72c75001834817072888660/playlist_eof.m3u8?t=6a8baa9c&us=2c4b255406&sign=6c1984dfbfac15a568033610bf394446"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/6c312d605001834817266825315/playlist_eof.m3u8?t=6a8baa9c&us=2c4b255406&sign=00b595d4be3d0ae899040abe27ead09a"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/6c300c3a5001834817266823122/playlist_eof.m3u8?t=6a8baa9c&us=2c4b255406&sign=ba00a8960c62ea883cc69b61ff151090"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 30704,
+    "pID": "57bcd68c99ff1b3be1ea56e005000c5e",
+    "title": "意甲 1:2",
+    "keyword": "08月24日02:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "都灵VSAC米兰",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月24日02:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/82384efa5001834817215869010/playlist_eof.m3u8?t=6a8baa99&us=6569800984&sign=d9aecb6409a8debb23c9604be965a322"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/199d91a25001834817217732486/playlist_eof.m3u8?t=6a8baa99&us=6569800984&sign=6c90bee153435af2dc2e80d4e40542bb"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/cf18601c5001834817257901451/playlist_eof.m3u8?t=6a8baa99&us=6569800984&sign=baa6fe5c8e4fb79bdad2ec3f469c6b56"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 30703,
+    "pID": "bb7a1cba65c1c67118e364217b60a7a9",
+    "title": "意甲 2:1",
+    "keyword": "08月24日02:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/43a877bf7a6f4c109f0affbf45d5f19c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "亚特兰大VS萨索洛",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月24日02:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/19fac5075001834817217787328/playlist_eof.m3u8?t=6a8baa99&us=6569800984&sign=5f42ca45ddffcdefa2bfdf35fb196ea9"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5aedf9d35001834817218232214/playlist_eof.m3u8?t=6a8baa99&us=6569800984&sign=4b9e71e8e7e8e6d9d39a70b7930bd0bc"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/bcbb5ccb5001834817257148697/playlist_eof.m3u8?t=6a8baa99&us=6569800984&sign=b52c751dce5a19b296f122b1a8457d63"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 30699,
     "pID": "9aef530a9de1a74a20039b21720daf71",
     "title": "西甲 1:0",
@@ -20,19 +134,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/38ca01055001834817065956066/playlist_eof.m3u8?t=6a8b9a2b&us=16d6e2646a&sign=a1c3158aab1eb38acbcb44095e46d62f"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/38ca01055001834817065956066/playlist_eof.m3u8?t=6a8ba882&us=90d2754688&sign=9381a0453f8028d030e8e41d4215bf69"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0aff65fd5001834817068090192/playlist_eof.m3u8?t=6a8b9a2b&us=16d6e2646a&sign=3456b53cdb1ab24cf8d2548f5292b353"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0aff65fd5001834817068090192/playlist_eof.m3u8?t=6a8ba882&us=90d2754688&sign=dec6a2e18e21b9e7b9f3c7d55f9ed2bc"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/a0f161695001834817260965865/playlist_eof.m3u8?t=6a8b9a2b&us=16d6e2646a&sign=3b6f8af299d4666ef23e22f47720ed92"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/a0f161695001834817260965865/playlist_eof.m3u8?t=6a8ba882&us=90d2754688&sign=b9373458a1b38f56fae418e34b2289d6"
         ]
       }
     ]
@@ -58,19 +172,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8268259f5001834817256944304/playlist_eof.m3u8?t=6a8b99a0&us=d84eab5a5c&sign=96f05791144b007c5b2234101dbd654c"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8268259f5001834817256944304/playlist_eof.m3u8?t=6a8ba89f&us=eb396ab6e6&sign=4e6918d9c60796816381dd41c2dcd29e"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c1c0af855001834817257399503/playlist_eof.m3u8?t=6a8b99a0&us=d84eab5a5c&sign=8a386f2fb98d823d5091e7e99329e2cb"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c1c0af855001834817257399503/playlist_eof.m3u8?t=6a8ba89f&us=eb396ab6e6&sign=b20b0d16d903d7fc16f5e114124f2859"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/3da813445001834817245467086/playlist_eof.m3u8?t=6a8b99a0&us=d84eab5a5c&sign=ab0ed0060b711be2ad4523d8f4900063"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/3da813445001834817245467086/playlist_eof.m3u8?t=6a8ba89f&us=eb396ab6e6&sign=88e66471ebbb0a4459e83b79b0bded62"
         ]
       }
     ]
@@ -96,19 +210,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5190377e5001834817062911359/playlist_eof.m3u8?t=6a8b9bfb&us=4cd7b7e08a&sign=908e62ee7db4fa119aa5cdb640354ae8"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5190377e5001834817062911359/playlist_eof.m3u8?t=6a8bab50&us=24a586d50e&sign=01d6c4e528599cd82c1b89039d90e40a"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/2b524cca5001834817207678756/playlist_eof.m3u8?t=6a8b9bfb&us=4cd7b7e08a&sign=b3e159d78bff282be617995ad8dc67d4"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/2b524cca5001834817207678756/playlist_eof.m3u8?t=6a8bab50&us=24a586d50e&sign=e44e4a29ba0162a2dcbdc2aa7ed6a36c"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/42773ff65001834817228029320/playlist_eof.m3u8?t=6a8b9bfb&us=4cd7b7e08a&sign=7a5774f318512a6ae84571bcacaa3d17"
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/42773ff65001834817228029320/playlist_eof.m3u8?t=6a8bab50&us=24a586d50e&sign=2ab176d8fc9523672c2e0a2c47044abf"
         ]
       }
     ]
