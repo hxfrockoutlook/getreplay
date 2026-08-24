@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 30973,
+    "pID": "1dc81f5b066590856f71f4d404b3914c",
+    "title": "沙特超 0:2",
+    "keyword": "08月25日00:40",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/e5516d35314acec9169f33834a199842.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "新未来城体育VS胡拜尔库迪西亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月25日00:40"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/d8bcbbf75001834817380035622/playlist_eof.m3u8?t=6a8cdd0f&us=5361d63f0f&sign=4ea92cf75373c9b5f449c01725aa64af"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 30962,
+    "pID": "44fffc92452dcdb57cb3003d077e674a",
+    "title": "意甲 0:1",
+    "keyword": "08月25日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "博洛尼亚VS拉齐奥",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月25日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5b3b50895001834817378327881/playlist_eof.m3u8?t=6a8cdd0f&us=5361d63f0f&sign=1a84a3fcde05c60f7c59c6c1c01e3680"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/d2d8cea05001834817325199306/playlist_eof.m3u8?t=6a8cdd0f&us=5361d63f0f&sign=56d5b47e7dad7085a0d1be6e8df4b442"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/1ff2256c5001834817187981187/playlist_eof.m3u8?t=6a8cdd0f&us=5361d63f0f&sign=7d67a573e4805e6a126a0e7bb2fd9497"
+        ]
+      }
+    ]
+  }
+]
