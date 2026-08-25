@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "mgdbId": 31124,
+    "pID": "0ffb9be7837ebc071abd7c4fabccd286",
+    "title": "沙特超 0:0",
+    "keyword": "08月26日00:10",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/440da1fad5d16ada9a9742bf5d14c98e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布赖代合作VS费哈",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月26日00:10"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c7d82a695001834817573509459/playlist_eof.m3u8?t=6a8e278f&us=e07abcb42f&sign=8f6774e86baea67d8fbaf82f6399c79a"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 31123,
+    "pID": "d02dda326f6e93945ece6b2f2f7c9232",
+    "title": "沙特超 1:1",
+    "keyword": "08月26日00:05",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/a98a96581615b55fc4ea927d73036ae4.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "艾卜哈VS塞哈特海湾",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月26日00:05"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/61621c035001834817629027087/playlist_eof.m3u8?t=6a8e2790&us=251c13d409&sign=6147541e73bb187756f44492b11796e9"
+        ]
+      }
+    ]
+  }
+]
