@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "mgdbId": 31228,
+    "pID": "2076fd34a1fbfd972c02e5de14077726",
+    "title": "欧足联 1:1",
+    "keyword": "08月27日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧足联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/649f785bd0a18824c53867bd056990e4.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "维也纳快速VS哈茨",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月27日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/b2e8ee015001834817970511484/playlist_eof.m3u8?t=6a8f8809&us=c4f51e3f3d&sign=26915d2b1e6cb81abb9683b2191d3742"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/76c97a335001834817986971980/playlist_eof.m3u8?t=6a8f8809&us=c4f51e3f3d&sign=3b44f3f225b10d2ce0669f5e55547ca8"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 31225,
+    "pID": "dde0642a9421857f113cb19220e12890",
+    "title": "沙特超 1:1",
+    "keyword": "08月27日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/4e9f55c1006ca24b2b535054a52187e8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "费萨里VS哈萨征服",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月27日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/270e95a95001834817985813832/playlist_eof.m3u8?t=6a8f85f8&us=89aabccaf6&sign=39352a162aee5eaca763a9c6526b7992"
+        ]
+      }
+    ]
+  }
+]
