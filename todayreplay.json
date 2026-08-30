@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 32114,
+    "pID": "e0e92983741bc890bd16f641be068cc1",
+    "title": "意甲 1:2",
+    "keyword": "08月31日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/37ed13d27edccd30e053167962c02b3a.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "那不勒斯VS科莫",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月31日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/2d94b65e5001834818452352437/playlist_eof.m3u8?t=6a94c7cc&us=822f1c9b73&sign=075886f9289f18bdd8be816a3577d6d0"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/bcc3c8ed5001834818501598688/playlist_eof.m3u8?t=6a94c7cc&us=822f1c9b73&sign=2594f0a7cb45247b0bbdaead8c185588"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/321a5c025001834818452531892/playlist_eof.m3u8?t=6a94c7cc&us=822f1c9b73&sign=57d72a106ea4b0aae62633b9c9ad751b"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 32131,
+    "pID": "99acb07de26244bb832fe59aa5d10725",
+    "title": "沙特超 1:1",
+    "keyword": "08月31日00:05",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/a2246a99fffe73bb4274e59b10d95f2d.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "哈森姆VS利雅得青年人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "08月31日00:05"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c500e1945001834818413171008/playlist_eof.m3u8?t=6a94bf23&us=282c79e0e9&sign=3e599910568f0d096e8421bce9ca6377"
+        ]
+      }
+    ]
+  }
+]
