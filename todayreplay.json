@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "mgdbId": 33513,
+    "pID": "d91b1340b856de308bdb949bb8c161ba",
+    "title": "西甲 0:0",
+    "keyword": "09月07日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/9c7c68ee0cad47be69a9d57e43261484.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "马拉加VS莱万特",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月07日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8243361a5001834819405650406/playlist_eof.m3u8?t=6a9e00e4&us=f7fde2a81e&sign=51a96dacaeb5a054879d9a2e61fc0e85"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c5ecafc45001834819406257628/playlist_eof.m3u8?t=6a9e00e4&us=f7fde2a81e&sign=d8e0236f2f77f7c3dc76204c4fa640c0"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0133421e5001834819417313195/playlist_eof.m3u8?t=6a9e00e4&us=f7fde2a81e&sign=69045fac4f4533a25ef5ee0b629d7f7d"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 33512,
+    "pID": "ee9ebb4f17da7a61494eee1c4d9c000b",
+    "title": "西甲 5:2",
+    "keyword": "09月07日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/fffbebaa7a0c3c2db7e8d637a3de1811.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "阿拉维斯VS奥萨苏纳",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月07日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5606d6a25001834819306444728/playlist_eof.m3u8?t=6a9e00e6&us=b37dae9ebb&sign=f0f00c598b2fcb23b54540f508acdcf0"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/5200fbeb5001834819371752985/playlist_eof.m3u8?t=6a9e00e6&us=b37dae9ebb&sign=91874dff57588cf97caa36b379d54118"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/cabc31425001834819406479026/playlist_eof.m3u8?t=6a9e00e6&us=b37dae9ebb&sign=b8a2661ac6e817fe9e12a57ccc3ce656"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 33515,
+    "pID": "b41a9294ea798ad1fa8daf0f8daddfbd",
+    "title": "意甲 2:2",
+    "keyword": "09月07日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "博洛尼亚VS萨索洛",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月07日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/2389f1035001834819414708852/playlist_eof.m3u8?t=6a9df9c5&us=684bab8aa0&sign=09018792ab912e4fad66cced3272a87b"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/21463a785001834819414617212/playlist_eof.m3u8?t=6a9df9c5&us=684bab8aa0&sign=18849d32c8b84f1e7fc7e69c7b2b741e"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/6ffb51455001834819368014397/playlist_eof.m3u8?t=6a9df9c5&us=684bab8aa0&sign=2344b8adedda0141a65be8bc5ab3868a"
+        ]
+      }
+    ]
+  }
+]
