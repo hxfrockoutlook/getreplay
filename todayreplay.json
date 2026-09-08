@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "mgdbId": 33874,
+    "pID": "c4195a92da68c076c5355b7c843cbab4",
+    "title": "欧冠 2:3",
+    "keyword": "09月09日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/2e9f652d28ec91e0b66c0b714bff8d78.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布鲁日VS阿斯顿维拉",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月09日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/ad86d2ac5001834819593767830/playlist_eof.m3u8?t=6aa0a4f3&us=155213c89d&sign=d12c9b9b8b1c5a4f1a0eb448d1cd2151"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/9e57654a5001834819664236955/playlist_eof.m3u8?t=6aa0a4f3&us=155213c89d&sign=a990b0c4727d3f49e9eaf1f8c1039cf0"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/a335be0f5001834819664462599/playlist_eof.m3u8?t=6aa0a4f3&us=155213c89d&sign=c983ead89a6839cb5c77be8adf0fbf64"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 33873,
+    "pID": "d825ed99faff8c1766c49be32813e0a9",
+    "title": "欧冠 1:0",
+    "keyword": "09月09日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/12dcc69bef67aa2a93107e940ee89144.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "雅典AEKVS林茨",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月09日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/c164d93a5001834819566120703/playlist_eof.m3u8?t=6aa0b149&us=780c529a42&sign=e38f08f710ff30f79caf0c46f44273ed"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/fdcfe1c35001834819465051945/playlist_eof.m3u8?t=6aa0b149&us=780c529a42&sign=3f19fefdbe201d216c6d78234586774c"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/a0c1350c5001834819467406696/playlist_eof.m3u8?t=6aa0b149&us=780c529a42&sign=f7f8cb8212d4ed38d3d596027790474e"
+        ]
+      }
+    ]
+  }
+]
