@@ -1,1 +1,72 @@
-[]
+[
+  {
+    "mgdbId": 34055,
+    "pID": "b431efe2c2310ee64df0b6819ed57bd0",
+    "title": "欧冠 1:1",
+    "keyword": "09月11日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dff00f1fd4a7dd2feac000b462416867.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "费内巴切VS罗马",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月11日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0aacc97f5001834820070820899/playlist_eof.m3u8?t=6aa3450b&us=294aec0702&sign=d1f9af0009fed8bed2340ce32c7799cd"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/8a0ca4755001834820041492742/playlist_eof.m3u8?t=6aa3450b&us=294aec0702&sign=efbde65a524aae16e00292174f9ea417"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 34054,
+    "pID": "21db0aec0a44ac330a3f09530b574d62",
+    "title": "欧冠 1:1",
+    "keyword": "09月11日00:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/cad5af4d1ff0e6f3119af3d273d95d31.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "埃因霍温VS顿涅茨克矿工",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月11日00:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/0b19d3165001834820070881352/playlist_eof.m3u8?t=6aa3450c&us=3da994b045&sign=39b5c872cc30693e18861a79e0278dd1"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/9305b3975001834820041840738/playlist_eof.m3u8?t=6aa3450c&us=3da994b045&sign=751cdef4165ffe97912a6905b89f5b10"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://xzb-vod.xzb99.com/64664c68vodsgp1386416388/bd82026c5001834819987326076/playlist_eof.m3u8?t=6aa3450c&us=3da994b045&sign=b2381f43660598c6af72a3dfd41324a7"
+        ]
+      }
+    ]
+  }
+]
