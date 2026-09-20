@@ -1,5 +1,225 @@
 [
   {
+    "mgdbId": 36007,
+    "pID": "ffd1164ca4dde69b659795213444a2cd",
+    "title": "英冠 1:0",
+    "keyword": "09月20日19:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/5759932ca2512c6701d86dfbd58380a7.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "狼队VS西布罗姆维奇",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月20日19:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/7db58a565001834821241743183/playlist_eof.m3u8?t=6ab0269b&us=507d5fa58b&sign=a77af0ecf2deb39361da09aad3aba965"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 35829,
+    "pID": "1091341e51de4f786231c2ba2f82949a",
+    "title": "意甲 1:1",
+    "keyword": "09月20日18:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/858d87ded0cce014bae0c9681af48524.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "佛罗伦萨VS那不勒斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月20日18:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/311f58d25001834821162855110/playlist_eof.m3u8?t=6ab0217a&us=5fa04fe2a1&sign=2ca62d9f1aaebf43622af6d8db90a5c4"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/ae6d8c245001834821238819268/playlist_eof.m3u8?t=6ab0217a&us=5fa04fe2a1&sign=3234fc57efc8847910f0a2fc97c148fb"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/649223015001834821339364079/playlist_eof.m3u8?t=6ab0217a&us=5fa04fe2a1&sign=dd2854b69292e614a7f9f71be13c4ad9"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 35841,
+    "pID": "a98a56f3f031040b9d88106891de33f5",
+    "title": "韩K联 2:1",
+    "keyword": "09月20日18:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "韩K联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/6f05c460789939ac83282bd0686446f1.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "浦项铁人VSFC首尔",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月20日18:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/5bdb82925001834821285471011/playlist_eof.m3u8?t=6ab0287c&us=ee71e8818c&sign=b11687dd6f310fc739ca4bd642cb123d"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 35840,
+    "pID": "84cc09a1c5a2f9dc1cfa542e3a70d8e9",
+    "title": "韩K联 1:1",
+    "keyword": "09月20日18:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "韩K联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/36559689046e7d1d4f597c1a0bf9c5d6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "仁川联VS大田市民",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月20日18:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/1a6802245001834821284953286/playlist_eof.m3u8?t=6ab02628&us=1a0c51513f&sign=c0665fe7afd400b252cf4bfbd99717fa"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 35843,
+    "pID": "4e3ac4c25d81e9e631815041e628d6dd",
+    "title": "日职联 0:1",
+    "keyword": "09月20日16:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "日职联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/91008a96b5de8c75376d17057f89890e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "大阪钢巴VS神户胜利船",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月20日16:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/b7d8a2395001834821276263235/playlist_eof.m3u8?t=6ab01bed&us=6726c13341&sign=8b3837b022af22a4226ed8a810013d56"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 35842,
+    "pID": "2ef608eb2fa4d53c470a332d1f779b3c",
+    "title": "日职联 2:4",
+    "keyword": "09月20日16:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "日职联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/539c489a7bd94dd9d785308fd0f0a6b9.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "町田泽维亚VS柏太阳神",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月20日16:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/eae70ef55001834821317039531/playlist_eof.m3u8?t=6ab01aab&us=13f06b13e4&sign=6f516f86cc8f28ae3123be07b932b3be"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 35839,
+    "pID": "04d54387d67c6375a5e362d02a68181c",
+    "title": "韩K联 2:2",
+    "keyword": "09月20日15:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "韩K联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/ee2117f952745163fecfa4b74a6a2bea.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "全北现代VS光州FC",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月20日15:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/cbc5b3be5001834821313908539/playlist_eof.m3u8?t=6ab02005&us=1c540de64b&sign=341034af9ba0df0b301ed2ea0e5fa283"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 35838,
+    "pID": "5f8c345f5ac0e681f67389341815d286",
+    "title": "韩K联 0:1",
+    "keyword": "09月20日15:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "韩K联",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/771a93ae7f62b1a47a71c3d62b89dca3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "江原FCVS济州SK",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月20日15:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/f2f891f55001834821324193217/playlist_eof.m3u8?t=6ab02424&us=c587117f3b&sign=990da3d0d32fd054e6b8afc0d06cd705"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 36163,
     "pID": "6b7f27e1f83afae29b0978bfc0b053f2",
     "title": "WNBA 70:57",
@@ -20,13 +240,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/5df08c075001834821244489748/playlist_eof.m3u8?t=6aafe25c&us=539a2758c0&sign=dba1417392ad6ddbf5e9efc2ebfae0ef"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/5df08c075001834821244489748/playlist_eof.m3u8?t=6ab01e6e&us=8a705394f9&sign=9337b8702e6e29aa214568bf0cb31d46"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/67f7fd905001834821115036155/playlist_eof.m3u8?t=6aafe25c&us=539a2758c0&sign=6869f4b8319824b2fca534d4d3f4b8e4"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/67f7fd905001834821115036155/playlist_eof.m3u8?t=6ab01e6e&us=8a705394f9&sign=228c1666e72809fb6225dd810777e665"
         ]
       }
     ]
@@ -52,13 +272,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/cdd8ceb65001834821171720492/playlist_eof.m3u8?t=6aafe594&us=ce6caa378a&sign=8903461b5a5ad5a6edfca5c01cf9ee87"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/cdd8ceb65001834821171720492/playlist_eof.m3u8?t=6ab0203a&us=3990a50c25&sign=fbd728bcaee85d1b9d18ddbf3f548944"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/c0c511825001834821235554696/playlist_eof.m3u8?t=6aafe594&us=ce6caa378a&sign=82fc064fa7cb2298997075ab2b3f541c"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/c0c511825001834821235554696/playlist_eof.m3u8?t=6ab0203a&us=3990a50c25&sign=6c22808ab6996b3d7310a66ff5653676"
         ]
       }
     ]
@@ -84,19 +304,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/2e6e980f5001834821257334020/playlist_eof.m3u8?t=6aafeee1&us=db906621a0&sign=37ccba78e8cbd9521c8813e2bd66a2d7"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/2e6e980f5001834821257334020/playlist_eof.m3u8?t=6ab02036&us=f61231dd61&sign=400545910fff520449541017a34d255a"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/1561372a5001834821219284999/playlist_eof.m3u8?t=6aafeee1&us=db906621a0&sign=ddd0f681522bc6c925dadb840bf929ee"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/1561372a5001834821219284999/playlist_eof.m3u8?t=6ab02036&us=f61231dd61&sign=eb9fe39684af5b8c45d1c4882bf654cf"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/84e1a8775001834821258754030/playlist_eof.m3u8?t=6aafeee1&us=db906621a0&sign=f0d5daee943c28c5b923b45c64a3b0ec"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/84e1a8775001834821258754030/playlist_eof.m3u8?t=6ab02036&us=f61231dd61&sign=eea6994bba8dcd352c6997cbe6940d92"
         ]
       }
     ]
@@ -122,19 +342,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/ae41fd9c5001834821055492752/playlist_eof.m3u8?t=6aafe7ea&us=096a5d45be&sign=2b954eead6a82e9def21c49e9356c3f5"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/ae41fd9c5001834821055492752/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=a84d8b87e9c2b7ac21f60a07feaf06e3"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/7b5a8b805001834821217274389/playlist_eof.m3u8?t=6aafe7ea&us=096a5d45be&sign=fbce04c8f6c2280bb6787c0692eadbf1"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/7b5a8b805001834821217274389/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=fa3b6c074370ac4c3d7e51d918a561d8"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/830f9d155001834821265431911/playlist_eof.m3u8?t=6aafe7ea&us=096a5d45be&sign=38da015b2069c9d5d3be70048d5777d8"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/830f9d155001834821265431911/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=56de36e77e5a25f2b3ea8954626fd118"
         ]
       }
     ]
@@ -160,19 +380,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/9ffe31dd5001834821255811765/playlist_eof.m3u8?t=6aafed93&us=453bee572c&sign=066ba4877feef4fb4ced074de6c00015"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/9ffe31dd5001834821255811765/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=631a703d8af1349de8f25cd160f05092"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/d57346165001834821232392363/playlist_eof.m3u8?t=6aafed93&us=453bee572c&sign=cca526f8bdbe872e1030f620d1dca3e9"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/d57346165001834821232392363/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=1ad3dbb18c8ee44dbd2c0f7841d6f577"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/c7e0a73c5001834821157927008/playlist_eof.m3u8?t=6aafed93&us=453bee572c&sign=e3447cc5484d90885aff7237467acd4a"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/c7e0a73c5001834821157927008/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=f6ba2ed99d6f4266124bfe9eb6f64a22"
         ]
       }
     ]
@@ -198,19 +418,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/ac4c22b25001834821062150609/playlist_eof.m3u8?t=6aafed92&us=3de1ea109f&sign=918d9c81dda890a998bd777913af5bab"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/ac4c22b25001834821062150609/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=c2472b2c0f28e911fc116720e82b04ed"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/897dc5265001834821217894855/playlist_eof.m3u8?t=6aafed92&us=3de1ea109f&sign=93f3e9e7e264b44fb8bf9ba5799f13b3"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/897dc5265001834821217894855/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=cc0c27f47f940c5ae327346f0bd17395"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/e19b4ae25001834821256359078/playlist_eof.m3u8?t=6aafed92&us=3de1ea109f&sign=d4a87d286eda99e8c2fa14d8d293d4cd"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/e19b4ae25001834821256359078/playlist_eof.m3u8?t=6ab028e8&us=bbf45e4165&sign=bc1753469d20e5dd750b1c45e1eb854b"
         ]
       }
     ]
@@ -236,19 +456,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/c5b594135001834821218131275/playlist_eof.m3u8?t=6aafed14&us=3a6d454e7f&sign=366e660ef69de524368a5e097c58e960"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/c5b594135001834821218131275/playlist_eof.m3u8?t=6ab028e9&us=c7628022c7&sign=2dd73554d080dae4748d46bfc1ce9317"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/7bffb0e05001834821265124995/playlist_eof.m3u8?t=6aafed14&us=3a6d454e7f&sign=60b6e1e1ee5bba00089133cda6bd51c6"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/7bffb0e05001834821265124995/playlist_eof.m3u8?t=6ab028e9&us=c7628022c7&sign=5b7c5c242dfc7385f8dca05a134185cf"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/df424b0e5001834821256252030/playlist_eof.m3u8?t=6aafed14&us=3a6d454e7f&sign=058509212ad413ca7eba192d3f805fd1"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/df424b0e5001834821256252030/playlist_eof.m3u8?t=6ab028e9&us=c7628022c7&sign=c5fff91b70cac0391e7eeee8fc10bb01"
         ]
       }
     ]
@@ -274,19 +494,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/ac2a17355001834821062134367/playlist_eof.m3u8?t=6aafefeb&us=fe43b05859&sign=e9b82bf23d584f78597bb4e1a4b5debd"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/ac2a17355001834821062134367/playlist_eof.m3u8?t=6ab028e9&us=c7628022c7&sign=5a7b5c83ef2913060be9b319e3b96202"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/9fff2d395001834821255813093/playlist_eof.m3u8?t=6aafefeb&us=fe43b05859&sign=a35ccd387ad90471f3018251308ea7e5"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/9fff2d395001834821255813093/playlist_eof.m3u8?t=6ab028e9&us=c7628022c7&sign=c2a15ce24a937f8ef84e49a670a8abc3"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/dcec27735001834821256150731/playlist_eof.m3u8?t=6aafefeb&us=fe43b05859&sign=0ae11dbded7ef5f6cf543248b6b1ee19"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/dcec27735001834821256150731/playlist_eof.m3u8?t=6ab028e9&us=c7628022c7&sign=b4c48296e93fc8364200dc8ed9250664"
         ]
       }
     ]
@@ -312,13 +532,13 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/804757985001834821258560621/playlist_eof.m3u8?t=6aafef33&us=59ee5b8eda&sign=ea76913a3c992404b9fece2a22b058ed"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/804757985001834821258560621/playlist_eof.m3u8?t=6ab01afb&us=bc0312b748&sign=78dfcc5cc178b6327f09c7d4d28fd36d"
         ]
       },
       {
         "name": "超清外语1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/62ea3c965001834821210384960/playlist_eof.m3u8?t=6aafef33&us=59ee5b8eda&sign=b7ee1552c8660f5a53f3afc27da5d011"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/62ea3c965001834821210384960/playlist_eof.m3u8?t=6ab01afb&us=bc0312b748&sign=e4bac55845511926afe9b2fc2adb132c"
         ]
       }
     ]
@@ -344,19 +564,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/64ddf5e65001834821244779943/playlist_eof.m3u8?t=6aafe36c&us=5c70ccde8e&sign=ff518aef856d2dcc909cd3621fdc01a4"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/64ddf5e65001834821244779943/playlist_eof.m3u8?t=6ab02771&us=1d05825790&sign=f284dd8980edeecf009ee29dd7efb24b"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/75c817a75001834821149954990/playlist_eof.m3u8?t=6aafe36c&us=5c70ccde8e&sign=15a1cc7c74248e416b1a8af525e5ddd1"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/75c817a75001834821149954990/playlist_eof.m3u8?t=6ab02771&us=1d05825790&sign=5a0a2ac0ae20e74df8b00c8b0bdaedf3"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/a0385ae75001834821255848990/playlist_eof.m3u8?t=6aafe36c&us=5c70ccde8e&sign=3a882d779de7ef4a776f1ef15a66588a"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/a0385ae75001834821255848990/playlist_eof.m3u8?t=6ab02771&us=1d05825790&sign=3b2ea219cbcae14d5f090a1ef564fdb1"
         ]
       }
     ]
@@ -382,19 +602,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/1a350bcd5001834821226213512/playlist_eof.m3u8?t=6aafefec&us=d2bc911d37&sign=96e65a249800267e9bd53d2141bd895d"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/1a350bcd5001834821226213512/playlist_eof.m3u8?t=6ab026a5&us=de0506cf13&sign=ee02e2bbe1674568dbd7e51abfe0dd56"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/a38e92125001834821245135360/playlist_eof.m3u8?t=6aafefec&us=d2bc911d37&sign=539291ef142f217b530fdece7dca7bbd"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/a38e92125001834821245135360/playlist_eof.m3u8?t=6ab026a5&us=de0506cf13&sign=3bb7fbfa1a8306874cfcabf2165b19b8"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/9f00509c5001834821207914754/playlist_eof.m3u8?t=6aafefec&us=d2bc911d37&sign=476d3f36a1f58ca0095329c53d3aeb36"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/9f00509c5001834821207914754/playlist_eof.m3u8?t=6ab026a5&us=de0506cf13&sign=9a21923b7dd05eae1b1f6a4858785df3"
         ]
       }
     ]
@@ -420,19 +640,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/a83a04ff5001834821245337594/playlist_eof.m3u8?t=6aafe6e9&us=9511b40ec5&sign=85b68d3786b7ea79c538d01adbfdc41b"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/a83a04ff5001834821245337594/playlist_eof.m3u8?t=6ab028ea&us=8de41cb4fb&sign=4bbc69bc9aa79267c98393c8724eb302"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/8ce5a1d35001834821207190812/playlist_eof.m3u8?t=6aafe6e9&us=9511b40ec5&sign=d76b0f9146408d684aa216747a180f9d"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/8ce5a1d35001834821207190812/playlist_eof.m3u8?t=6ab028ea&us=8de41cb4fb&sign=c600f0d5c42608e0d10fb634306acf4a"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/9f3ec4d85001834821150354584/playlist_eof.m3u8?t=6aafe6e9&us=9511b40ec5&sign=ce3fef412d8208e53a49e8ad770d0a51"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/9f3ec4d85001834821150354584/playlist_eof.m3u8?t=6ab028ea&us=8de41cb4fb&sign=93bbbc59a14ed1973a7e9660db602e90"
         ]
       }
     ]
@@ -458,19 +678,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/fc4768845001834821205593698/playlist_eof.m3u8?t=6aafe36d&us=ca036ad686&sign=813c2a51e496ed37f1b7735da11b356f"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/fc4768845001834821205593698/playlist_eof.m3u8?t=6ab02771&us=1d05825790&sign=bd1fbb53857cb7f9d357ad2bc8bf0ecb"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/f512c9795001834821205265907/playlist_eof.m3u8?t=6aafe36d&us=ca036ad686&sign=adb369dc3c0e7052524972f79abe7744"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/f512c9795001834821205265907/playlist_eof.m3u8?t=6ab02771&us=1d05825790&sign=1e8a5847a09868980ce7a01951fe6265"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/986f85985001834821207678221/playlist_eof.m3u8?t=6aafe36d&us=ca036ad686&sign=d4ce99a9d2f42cc19c909f9c24c98c0d"
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/986f85985001834821207678221/playlist_eof.m3u8?t=6ab02771&us=1d05825790&sign=3dc8aae4ad8e1ab4414dabb6fa714e21"
         ]
       }
     ]
