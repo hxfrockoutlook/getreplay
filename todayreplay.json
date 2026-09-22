@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 36483,
+    "pID": "4afb444123fac62054c134f5532fac78",
+    "title": "WNBA 87:86",
+    "keyword": "09月22日10:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/b48443679dd0356cc64abce373f763e1.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "水星VS飞翼",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月22日10:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/5ca09ce15001834821529167626/playlist_eof.m3u8?t=6ab26d51&us=608d8dd49e&sign=01b613decde63b640961007574b80637"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/43e86b9b5001834821522238907/playlist_eof.m3u8?t=6ab26d51&us=608d8dd49e&sign=10c8f4a1b807d183c96f5e63dd46bb33"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 36479,
+    "pID": "125ada0b3150ef6595dce32e77e4049f",
+    "title": "WNBA 84:95",
+    "keyword": "09月22日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "自由人VS梦想",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月22日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/2dc88b3f5001834821471842268/playlist_eof.m3u8?t=6ab2708c&us=20c7c6f7b8&sign=3905c6c9674b9560b786c5d80a54541a"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://newtc-vod123ktv.123kq.live/d5ff014avodsgp1302796787/a936d73d5001834821513424867/playlist_eof.m3u8?t=6ab2708c&us=20c7c6f7b8&sign=5aa0730a19c1ff503efa3e5233dcb501"
+        ]
+      }
+    ]
+  }
+]
