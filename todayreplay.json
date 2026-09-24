@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "mgdbId": 36628,
+    "pID": "98722660fe781cf92c069ac8c73c4447",
+    "title": "WNBA 91:103",
+    "keyword": "09月24日10:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/21275a59516956d98aedc00b97faadc4.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "风暴VS飞翼",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月24日10:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c687e7a05001834821717489340/playlist_eof.m3u8?t=6ab501fe&us=fa3aa56b8a&sign=956e5ed3c73abb5410b4fee06d1945f6"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7bdd7d415001834821757636703/playlist_eof.m3u8?t=6ab501fe&us=fa3aa56b8a&sign=caaccbded9dfe92e8c7363d1bf328b8f"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 36626,
+    "pID": "1fc9c75526c836a68cfa8857af9d59e4",
+    "title": "WNBA 65:83",
+    "keyword": "09月24日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/67cf5b4cfacab3792d2fde73e0af4ac0.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "自由人VS梦想",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "09月24日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1d9e5b945001834821708040345/playlist_eof.m3u8?t=6ab5031a&us=d98bdd3cca&sign=34f5cd0e48adb0761d90e60911837aa7"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/383b97fe5001834821715986410/playlist_eof.m3u8?t=6ab5031a&us=d98bdd3cca&sign=2ccfbe72c2db78b8e641522bbf5702eb"
+        ]
+      }
+    ]
+  }
+]
