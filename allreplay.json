@@ -1,5 +1,57 @@
 [
   {
+    "mgdbId": 37614,
+    "pID": "3d9971067ceff4b5da5f634cc3ac7442",
+    "title": "欧篮联 77:72",
+    "keyword": "10月02日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/c39da666a430eeb95c2dd0838b267d77.jpg",
+    "competitionLogo": "",
+    "pkInfoTitle": "贝尔格莱德红星VS安纳托利亚艾菲斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月02日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=37614_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 37613,
+    "pID": "9cc06ff6409ce4dcaedecf13b8582c13",
+    "title": "欧篮联 102:98",
+    "keyword": "10月02日00:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ca224b11d94be0f26e2043aa8584db09.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "特拉维夫夏普尔VS皇家马德里",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月02日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=37613_0"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 37530,
     "pID": "1c7844f055e6daba01442a70a9d65f2d",
     "title": "WNBA 108:100",
@@ -365,32 +417,6 @@
         "name": "高清回放(一)",
         "url": [
           "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=37438_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 28013,
-    "pID": "ebbda1e72bfae7513640e788482515d4",
-    "title": "中甲 1:0",
-    "keyword": "09月29日19:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "中甲",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/509b91468e833ffe3fd9edd04f06ddee.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "无锡吴钩VS宁波队",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "09月29日19:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=28013_0"
         ]
       }
     ]
