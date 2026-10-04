@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 37986,
+    "pID": "1192907de5e6a49be67233e9bf9d3a73",
+    "title": "NBA 105:129",
+    "keyword": "10月04日07:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "猛龙VS热火",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月04日07:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2ce4afba5001834822905422662/playlist_eof.m3u8?t=6ac1fd6e&us=a165be6686&sign=ca6c573cfe6b09e2768bf095cbb0e047"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/539f4e9d5001834822736363641/playlist_eof.m3u8?t=6ac1fd6e&us=a165be6686&sign=e4ee3635ffc158b4580bfc1f091cb810"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/400c31425001834822865385009/playlist_eof.m3u8?t=6ac1fd6e&us=a165be6686&sign=c9e2696c3c00455a48ac700ad539f50e"
+        ]
+      }
+    ]
+  }
+]
