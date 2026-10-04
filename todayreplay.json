@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "mgdbId": 38002,
+    "pID": "8aecf80d40b73d954426886fbbd87deb",
+    "title": "WNBA 92:82",
+    "keyword": "10月05日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WNBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/be3ef0f7745b3b45b846fac31ca987c6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "梦想VS自由人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月05日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/64a219c85001834822957494732/playlist_eof.m3u8?t=6ac303ab&us=0ccf888e35&sign=503aacb921812ca30ea1e39bb34f6d50"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6fa910a25001834822957904910/playlist_eof.m3u8?t=6ac303ab&us=0ccf888e35&sign=3c71b44a2b6cff882956c72d62cccea7"
+        ]
+      }
+    ]
+  }
+]
