@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 40637,
+    "pID": "7e56371c039ede71524d1f2d6193f359",
+    "title": "意甲 1:3",
+    "keyword": "10月18日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bd12298fc3920bc20b7ad43b16ad9624.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "博洛尼亚VS国米",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月18日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/029f68405001834824436520668/playlist_eof.m3u8?t=6ad40585&us=58e2d7dc79&sign=a60dbf509479fac46c30ea4c88246b74"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/fcb5efdf5001834824484138641/playlist_eof.m3u8?t=6ad40585&us=58e2d7dc79&sign=294298d9d6a842c06de7f357d40f1936"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/647f3bbd5001834824434390329/playlist_eof.m3u8?t=6ad40585&us=58e2d7dc79&sign=6c7593b0c0cc03d8762b09288c9c8669"
+        ]
+      }
+    ]
+  }
+]
