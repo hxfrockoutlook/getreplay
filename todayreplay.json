@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "mgdbId": 40980,
+    "pID": "4fddf714fdfdada5623a2eabdc6bbde2",
+    "title": "西甲 2:5",
+    "keyword": "10月19日00:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/9c7c68ee0cad47be69a9d57e43261484.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "马拉加VS皇家社会",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月19日00:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/65e710855001834824587703960/playlist_eof.m3u8?t=6ad56d68&us=6ad0d895c0&sign=2667bd5ae14b40abc3c540d908ed001e"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e5442d435001834824599427304/playlist_eof.m3u8?t=6ad56d68&us=6ad0d895c0&sign=1dde7ca8e98a24f53437dbf10691f0f4"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/55b71bfb5001834824587023712/playlist_eof.m3u8?t=6ad56d68&us=6ad0d895c0&sign=669c0cc6226e7c942c28e2f0b699b2a8"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 40982,
+    "pID": "6f8d8137983ad9db8873ce5ec2d42ebe",
+    "title": "意甲 3:2",
+    "keyword": "10月19日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/643ef4101b017dc1495dbd9e9d5cce28.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "AC米兰VS亚特兰大",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月19日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bc0af41f5001834824585063363/playlist_eof.m3u8?t=6ad568b1&us=b98eda0266&sign=84b41fcc05f34507bd8556fc1a925d2a"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7831d61f5001834824584438511/playlist_eof.m3u8?t=6ad568b1&us=b98eda0266&sign=a651f9f00ea8c4073793be18260fc8af"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1e0f0b215001834824552626843/playlist_eof.m3u8?t=6ad568b1&us=b98eda0266&sign=309b7b2a1eac4ca81e86f3d85c5e422f"
+        ]
+      }
+    ]
+  }
+]
