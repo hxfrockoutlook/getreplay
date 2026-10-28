@@ -1,758 +1,242 @@
 [
   {
-    "mgdbId": 42927,
-    "pID": "d51cbaeb48b702547162a7586a6e611d",
-    "title": "亚冠二级 2:0",
-    "keyword": "10月28日20:15",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚冠二级",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/b2004093bf25a5a8d1768970d6e49d71.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "万隆VS墨尔本胜利",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日20:15"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/98d560ac5001834825944285658/playlist_eof.m3u8?t=6ae25082&us=fe4b9dbb4c&sign=724ec9b92dc6d13a88f3c7da9c9b577d"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a158bb0b5001834825978914750/playlist_eof.m3u8?t=6ae25082&us=fe4b9dbb4c&sign=adbfb25adf89d211509eb746d8210d13"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bd3670cd5001834825839422987/playlist_eof.m3u8?t=6ae25082&us=fe4b9dbb4c&sign=99e3d08399052b3d7b9bf2f179380182"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42926,
-    "pID": "f1649af1fcacb74a2d2333ceb178a3a2",
-    "title": "亚冠二级 0:5",
-    "keyword": "10月28日20:15",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚冠二级",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/840e2d7165cf2a34ec6c65a1fd9b58a9.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "越电信体工VSFC首尔",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日20:15"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/446be8c95001834825841589733/playlist_eof.m3u8?t=6ae252e1&us=9fc1114c4b&sign=0beb2dd05dd9696047086e98732ed8cb"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/938dc99c5001834825978340220/playlist_eof.m3u8?t=6ae252e1&us=9fc1114c4b&sign=ff04beebe1718b04ab4eab8f4810a39f"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/291c48355001834825963497499/playlist_eof.m3u8?t=6ae252e1&us=9fc1114c4b&sign=4c68a9a120ca8b19d9febd1edaa8d65b"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42954,
-    "pID": "2d2fe7ca120a8a8aff75f8a4f4917722",
-    "title": "CBA 95:83",
-    "keyword": "10月28日19:35",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "CBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/fb44eee02df789207dee98898982cc16.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "深圳VS山西",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日19:35"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/943a6ac75001834825890516179/playlist_eof.m3u8?t=6ae24bc8&us=cb98c576ba&sign=ae0c46cb3aad5b6ffc8f78bc071ed650"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/94f69a015001834825835921147/playlist_eof.m3u8?t=6ae24bc8&us=cb98c576ba&sign=9d764ead1f4c08f45220d85e9f57ac95"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42920,
-    "pID": "d0afb433069f701fb211a5e2aec214d2",
-    "title": "亚精英赛 3:0",
-    "keyword": "10月28日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚精英赛",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "鹿岛鹿角VS浦项铁人",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/35180ba75001834825827383627/playlist_eof.m3u8?t=6ae250fa&us=f8867f90c2&sign=9cfc338cbcbd7dac4d74059edc3510c9"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/846764895001834825828483348/playlist_eof.m3u8?t=6ae250fa&us=f8867f90c2&sign=390b79c46af1abd596f911b6af4f644f"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8cea7c075001834825978093514/playlist_eof.m3u8?t=6ae250fa&us=f8867f90c2&sign=20e5146e623111e1509fa75f68c03121"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42918,
-    "pID": "8d3abd3ef01db2be375a618f9104916e",
-    "title": "亚精英赛 1:1",
-    "keyword": "10月28日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚精英赛",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/91008a96b5de8c75376d17057f89890e.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "大阪钢巴VS武里南联",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e8a6977c5001834825952160336/playlist_eof.m3u8?t=6ae2512b&us=7b1f36413e&sign=43116c45f4472dfe892e9a09c9f571a4"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f2f5ee3d5001834825881462034/playlist_eof.m3u8?t=6ae2512b&us=7b1f36413e&sign=ddcce78ca1c1af4ceb109ad1868c6072"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7afe0b195001834825930382241/playlist_eof.m3u8?t=6ae2512b&us=7b1f36413e&sign=30df755f9aa008673febed01e4f5dfc1"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42953,
-    "pID": "aa3afdbdb34cab0b3911362ec1e1612f",
-    "title": "NBA 129:136",
-    "keyword": "10月28日11:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/fa6f985041ec3f9729172380ae9cebf8.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "湖人VS开拓者",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日11:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4ff525155001834825899808846/playlist_eof.m3u8?t=6ae25468&us=46ff96a5dc&sign=e92fd41435dd589e1a62530ea9f937a4"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6d4e3fc75001834825933842746/playlist_eof.m3u8?t=6ae25468&us=46ff96a5dc&sign=c952dd10c1895ecab07fd7a485affc84"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/93724b485001834825842648294/playlist_eof.m3u8?t=6ae25468&us=46ff96a5dc&sign=5975ca4c7c4bf86d599cf815be6453d2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42952,
-    "pID": "4d3fcb47258541fd5dcb6ca32a54bf12",
-    "title": "NBA 130:103",
-    "keyword": "10月28日08:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5305d1a7b721b5bef418041eff53ba82.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "马刺VS国王",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日08:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/047b486a5001834825888066823/playlist_eof.m3u8?t=6ae2512d&us=78afcfea7e&sign=e2ee34f153c318621051d32a0d5c041c"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/012cad0b5001834825779781047/playlist_eof.m3u8?t=6ae2512d&us=78afcfea7e&sign=b927e363ccb83ca4b0489a0ec500f42a"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/85b0f6875001834825781795414/playlist_eof.m3u8?t=6ae2512d&us=78afcfea7e&sign=0449ae10358059cbf46f99784c7aca4c"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42951,
-    "pID": "5d795a76fb691971ece1ed2399e09628",
-    "title": "NBA 111:97",
-    "keyword": "10月28日08:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "尼克斯VS活塞",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日08:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/248aeaa45001834825885364612/playlist_eof.m3u8?t=6ae255a3&us=408232576f&sign=bcc8962fb796299f411399bb2b734835"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d429841a5001834825921008382/playlist_eof.m3u8?t=6ae255a3&us=408232576f&sign=950d673b74f2fde958786daae72d96e4"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1ab129b05001834825783552898/playlist_eof.m3u8?t=6ae255a3&us=408232576f&sign=5d42b7d61b4ba43b9e349bb8e260fdcc"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42950,
-    "pID": "fb05ac5ef3a527c492cd6b77431fe5ed",
-    "title": "NBA 125:124",
-    "keyword": "10月28日07:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/884c1c1f5db46c170df3c34a8e213ec9.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "凯尔特人VS篮网",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日07:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8a8450e45001834825883354471/playlist_eof.m3u8?t=6ae24f92&us=d2612627ff&sign=8c513421c379b019f91e3c879981346e"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/57a9c6c85001834825926147837/playlist_eof.m3u8?t=6ae24f92&us=d2612627ff&sign=a83c8c1d1f1f9ee975923a4599ecdec0"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/fef437995001834825830007923/playlist_eof.m3u8?t=6ae24f92&us=d2612627ff&sign=9af0e1ce0330debfefc000231794a866"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42978,
-    "pID": "abc80994ae00e9baa644f70387f2b235",
-    "title": "欧篮联 86:104",
-    "keyword": "10月28日04:00",
+    "mgdbId": 43194,
+    "pID": "4e96cce2f67873872a63e0291c0c4ff5",
+    "title": "欧篮联 118:88",
+    "keyword": "10月29日02:00",
     "sportItemId": "2",
     "matchStatus": "2",
     "matchField": "",
     "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5e722af9ec414d9925470ff6a845a069.png",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ca224b11d94be0f26e2043aa8584db09.png",
     "competitionLogo": "",
-    "pkInfoTitle": "巴斯克尼亚VS皇家马德里",
+    "pkInfoTitle": "特拉维夫夏普尔VS安纳托利亚艾菲斯",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "10月28日04:00"
+      "time": "10月29日02:00"
     },
     "nodes": [
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e9b50ae55001834825904322996/playlist_eof.m3u8?t=6ae2571a&us=31f407a47a&sign=55280844187cbd6bdeb0fcfb329021a5"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/048d37b65001834826008114653/playlist_eof.m3u8?t=6ae29df0&us=107ad4617b&sign=833d1a076ee141952dc33365052546c6"
         ]
       }
     ]
   },
   {
-    "mgdbId": 42849,
-    "pID": "83b88583f045e1d6c831496236b23934",
-    "title": "意甲 1:3",
-    "keyword": "10月28日03:45",
+    "mgdbId": 43186,
+    "pID": "2bf0fa72e9524d139fa445937681865c",
+    "title": "欧篮联 73:81",
+    "keyword": "10月29日01:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/94dada68497d1016c38eb742c5040164.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "贝西克塔斯VS奥林匹亚科斯",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月29日01:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6fd1887a5001834826006390059/playlist_eof.m3u8?t=6ae2992c&us=21aee99116&sign=c1cbcb3841fa5773ff9afbc02e646fe4"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 42987,
+    "pID": "085eb55fedb10197b46467f9d7314ba7",
+    "title": "意甲 0:0",
+    "keyword": "10月29日01:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
     "competitionName": "意甲",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/f0856c1b16c32245a8d2c702ffe89ac5.png",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/9fadd87d190982c8082dddf1567e0b9b.png",
     "competitionLogo": "",
-    "pkInfoTitle": "都灵VS科莫",
+    "pkInfoTitle": "帕尔马VS乌迪内斯",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "10月28日03:45"
+      "time": "10月29日01:30"
     },
     "nodes": [
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/3db8e78c5001834825763381797/playlist_eof.m3u8?t=6ae2571b&us=34c694d877&sign=163abab1d987d280c49a8dfab2fc83bf"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bed9ffa75001834825972069148/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=4f7c36806e39af2718bfc906fab30f49"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/91b5dbb45001834825764687498/playlist_eof.m3u8?t=6ae2571b&us=34c694d877&sign=bd4074b0e7d51fbfb4ec0a8570958da9"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5dc6e05c5001834826016402786/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=6833ec27087b31deb40fd8e607c670d3"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7886cc025001834825869009063/playlist_eof.m3u8?t=6ae2571b&us=34c694d877&sign=eac3f7b9dfcd731b94b27177b5881ae0"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b095930b5001834825927686417/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=f814f2a1725befe945d5323f5da642e9"
         ]
       }
     ]
   },
   {
-    "mgdbId": 42848,
-    "pID": "091edef4986868add1d50a0c9a295acd",
-    "title": "意甲 4:2",
-    "keyword": "10月28日03:45",
+    "mgdbId": 42986,
+    "pID": "98726125bb55136972d619a5e6da21c7",
+    "title": "意甲 2:4",
+    "keyword": "10月29日01:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
     "competitionName": "意甲",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/7a192686d30c1ad031d2fb605eaf2f2a.png",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/643ef4101b017dc1495dbd9e9d5cce28.png",
     "competitionLogo": "",
-    "pkInfoTitle": "罗马VS卡利亚里",
+    "pkInfoTitle": "AC米兰VS博洛尼亚",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "10月28日03:45"
+      "time": "10月29日01:30"
     },
     "nodes": [
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/9cf07ddb5001834825903351643/playlist_eof.m3u8?t=6ae24dc1&us=a8961060b4&sign=b081b8ea68b0ac47d79a3ece9680e08e"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1dc3d3775001834826005136833/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=4205d73cce7bffa420d26670536c75d3"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ace4eac55001834825761755418/playlist_eof.m3u8?t=6ae24dc1&us=a8961060b4&sign=89cbc4342054414e4a545f39c9acb550"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/14dd3b605001834825973423362/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=4bfc6493bf94c3a713e4444bb75759ed"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e5e7fcc35001834825867351615/playlist_eof.m3u8?t=6ae24dc1&us=a8961060b4&sign=c2ff49235993291542128911ba5caf63"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b0885efb5001834825870080326/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=b21ea29784e3409bc3721423fad8fe06"
         ]
       }
     ]
   },
   {
-    "mgdbId": 42976,
-    "pID": "0e295219b2f514f54b6aad29d0c896e2",
-    "title": "欧篮联 86:78",
-    "keyword": "10月28日03:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/a3819bb7ddd5edc47416d1efb5539fd3.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "瓦伦西亚VS费内巴切",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日03:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/09ea6d165001834825901643213/playlist_eof.m3u8?t=6ae2571c&us=f7b9ce158d&sign=a425643ca04ed4971b425d89917be63b"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42975,
-    "pID": "48238ef8f6e088d64b4a47598dae2209",
-    "title": "欧篮联 80:75",
-    "keyword": "10月28日03:15",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/bc5e8449c4324653a2f31832866aef5c.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "帕纳辛纳科斯VS米兰奥林匹亚",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日03:15"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/39a6a2c05001834825810880248/playlist_eof.m3u8?t=6ae2571c&us=f7b9ce158d&sign=d508095df1cb5c1413a0a7eb824171f4"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42970,
-    "pID": "69ad3a930879edb564d74320c88d59e8",
-    "title": "欧篮联 100:78",
-    "keyword": "10月28日03:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/c39da666a430eeb95c2dd0838b267d77.jpg",
-    "competitionLogo": "",
-    "pkInfoTitle": "贝尔格莱德红星VS特拉维夫马卡比",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日03:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6a8694185001834825909313321/playlist_eof.m3u8?t=6ae2571d&us=74412c342e&sign=50e616791d0c316243dcbb03c2020aed"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42969,
-    "pID": "c5a419f0a075dc94fee0c934abd66bb1",
-    "title": "欧篮联 84:88",
-    "keyword": "10月28日03:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/99a5187dc20d019f4fd223a6a6de80a6.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "拜仁慕尼黑VS巴塞罗那",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日03:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/fb35ea485001834825809588603/playlist_eof.m3u8?t=6ae2571e&us=ff7889953f&sign=95a407a6069673eed3246427953476be"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42879,
-    "pID": "2a9e00f7f6741dbd855812ab5e58a0ea",
-    "title": "亚精英赛 3:1",
-    "keyword": "10月28日02:15",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚精英赛",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/af47207f36a49c89502312138e54f6a7.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "北方VS利雅得新月",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日02:15"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7e2b41835001834825757053195/playlist_eof.m3u8?t=6ae25383&us=5fc19e50ba&sign=3f4da6ca349436a34d1af59aa7f4b160"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/151c9b2e5001834825895514768/playlist_eof.m3u8?t=6ae25383&us=5fc19e50ba&sign=449ab0c0051ea7fa9c437f874864324c"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e66ca2a45001834825874131892/playlist_eof.m3u8?t=6ae25383&us=5fc19e50ba&sign=6e39bae08a841a11d25578773d0388ef"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42878,
-    "pID": "c6469869368b4af13e604edeecfb5d49",
-    "title": "亚冠二级 1:1",
-    "keyword": "10月28日02:15",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚冠二级",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/24cb68778b46e3795fa58ad593e98b5d.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "巴格达警察VS胡塞因",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日02:15"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1edf75155001834825895977708/playlist_eof.m3u8?t=6ae2571f&us=705f5874fe&sign=110c4864c56a396305c7060d5930f449"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/64b5830b5001834825896656901/playlist_eof.m3u8?t=6ae2571f&us=705f5874fe&sign=8729a6c2284e836530742d1324e069e7"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/69663d235001834825862510956/playlist_eof.m3u8?t=6ae2571f&us=705f5874fe&sign=c8e7d0e38670450b9ed045b227c3e8ba"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42847,
-    "pID": "fa7af4ae818f93ed641e5550c25f778e",
-    "title": "意甲 2:6",
-    "keyword": "10月28日01:30",
+    "mgdbId": 42985,
+    "pID": "fe83333ae233ffcff14810e74cd9c30c",
+    "title": "意甲 0:2",
+    "keyword": "10月29日01:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
     "competitionName": "意甲",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/616bf242a532f72e970648f2ead423cf.png",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/3e724dc0e6fffd01a630b65af348fab6.png",
     "competitionLogo": "",
-    "pkInfoTitle": "萨索洛VS拉齐奥",
+    "pkInfoTitle": "威尼斯VS国米",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "10月28日01:30"
+      "time": "10月29日01:30"
     },
     "nodes": [
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5df759235001834825902955309/playlist_eof.m3u8?t=6ae2571f&us=705f5874fe&sign=374521858d58fb43548e27f1815880d3"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e3dd28c25001834826004992394/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=2e43557a476defa20106b53c3cc954b7"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/255975845001834825892187080/playlist_eof.m3u8?t=6ae2571f&us=705f5874fe&sign=e9fe0f61ab71c42435ae8e0b1fd6e17d"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/248d83105001834826005407501/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=51c6a9f320a249d699800368b34e0a68"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/502e96ed5001834825858787531/playlist_eof.m3u8?t=6ae2571f&us=705f5874fe&sign=de81eea5cc1db31c822dd03de8f09088"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/beda03e45001834825972069244/playlist_eof.m3u8?t=6ae29b8a&us=d6d4765b69&sign=9986c077c82522a993848bec0d168771"
         ]
       }
     ]
   },
   {
-    "mgdbId": 42957,
-    "pID": "831aa28205efa553a6b1d9531e55fc11",
-    "title": "欧篮联 93:99",
-    "keyword": "10月28日00:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/b7ceee3b48fa0f0bcf1a705348539cbb.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "迪拜VS巴黎",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日00:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d1560d4d5001834825853843939/playlist_eof.m3u8?t=6ae25720&us=2a3f9151bf&sign=c5a4bc5347edc24db6ee1fecf41d16a2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42865,
-    "pID": "bb2aa3fc358f6b9ce738d444bba30196",
-    "title": "亚精英赛 2:0",
-    "keyword": "10月28日00:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚精英赛",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "迪拜青年国民VS德黑兰独立",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "10月28日00:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/717c42625001834825852013967/playlist_eof.m3u8?t=6ae25720&us=2a3f9151bf&sign=c9e24d1aaf275e313aaa9c73f0cc6ac8"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2513c0635001834825851095167/playlist_eof.m3u8?t=6ae25720&us=2a3f9151bf&sign=3010fc82b9beb504074cf8746399196c"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/aac3f7f25001834825897369690/playlist_eof.m3u8?t=6ae25720&us=2a3f9151bf&sign=0b2ae6b4ab7fffab1d73d6d53a8c99e4"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 42863,
-    "pID": "5f99a806d0f969b492759ae0ca41c0d0",
-    "title": "亚冠二级 0:0",
-    "keyword": "10月28日00:00",
+    "mgdbId": 43027,
+    "pID": "3fdc6ed8a3b09463105ed4d68b7e5857",
+    "title": "亚冠二级 1:4",
+    "keyword": "10月29日00:00",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
     "competitionName": "亚冠二级",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/99436fc30d359790afbd11fe602a5a45.png",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/39af905c31d621f47d12b2fad242cdbd.png",
     "competitionLogo": "",
-    "pkInfoTitle": "锡卜VS东孟加拉",
+    "pkInfoTitle": "纳达VS赖扬",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "10月28日00:00"
+      "time": "10月29日00:00"
     },
     "nodes": [
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6b7c824b5001834825896922932/playlist_eof.m3u8?t=6ae25721&us=fa6c875158&sign=e172a9edb3ff9e4904711db930f21c35"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/61ec7b145001834826009822131/playlist_eof.m3u8?t=6ae2956a&us=ea5587c13c&sign=d52134c8725553257263e42ec781e393"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/38639b285001834825797434373/playlist_eof.m3u8?t=6ae25721&us=fa6c875158&sign=fa2623ec14d36702ece843a45cc3da7e"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ce3cec855001834825965929130/playlist_eof.m3u8?t=6ae2956a&us=ea5587c13c&sign=1574a86633f4a39ef691fa51fcf7b903"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/21cac8495001834825885207387/playlist_eof.m3u8?t=6ae25721&us=fa6c875158&sign=9f8aeb862b5d1e0f6b10cbe1f4d041da"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/59084f275001834826009489447/playlist_eof.m3u8?t=6ae2956a&us=ea5587c13c&sign=369e36173cab45690f9dc9937578373b"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 43026,
+    "pID": "e5499f51ba1d98b0f37504ef3d9110cf",
+    "title": "亚冠二级 4:2",
+    "keyword": "10月29日00:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "亚冠二级",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/9352b8e0b9515b84abf716a32c42777e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "阿布扎比半岛VS穆哈拉格",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "10月29日00:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7a63aa2b5001834825964642766/playlist_eof.m3u8?t=6ae295f8&us=5b4f8d3691&sign=fe87bad7a637a5e97f1f4178a49b314c"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2893508c5001834825997766151/playlist_eof.m3u8?t=6ae295f8&us=5b4f8d3691&sign=3fbee1fce510dac1a46b3c412a8df7b7"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c52f02425001834825965566004/playlist_eof.m3u8?t=6ae295f8&us=5b4f8d3691&sign=52b3f85715f7a52903e59d6bec073971"
         ]
       }
     ]
