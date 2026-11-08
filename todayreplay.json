@@ -1,5 +1,81 @@
 [
   {
+    "mgdbId": 45693,
+    "pID": "46362d33c9dda21bfc135b80e852382c",
+    "title": "NBA 102:114",
+    "keyword": "11月08日06:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "步行者VS掘金",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月08日06:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/888542095001834827282277567/playlist_eof.m3u8?t=6af019f0&us=c1b8e77de4&sign=228dbdb223818aec84ec3502392e2049"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ade62eb35001834827404450133/playlist_eof.m3u8?t=6af019f0&us=c1b8e77de4&sign=cfc30992681162ee15761d7b4aa432e8"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5a6a1bdf5001834827444275055/playlist_eof.m3u8?t=6af019f0&us=c1b8e77de4&sign=34df7c59147cde0f2babf83f19d82330"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 45435,
+    "pID": "c7aad17fca877dbbfa37dc16eb24a22b",
+    "title": "法甲 1:0",
+    "keyword": "11月08日04:05",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/3b720f181ce9993f9422d276acf7b292.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "巴黎圣日耳曼VS特鲁瓦",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月08日04:05"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/9972abd35001834827391102224/playlist_eof.m3u8?t=6af01aba&us=362163197a&sign=fa6c55c559c950f16832b2470ccb46d1"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/0e2b24ef5001834827429735688/playlist_eof.m3u8?t=6af01aba&us=362163197a&sign=cec610d443c75d4fe2edf0260a71d8ec"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5c2684465001834827437581942/playlist_eof.m3u8?t=6af01aba&us=362163197a&sign=56a7b20e334a0cf4ac2292f2795aa0ac"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 46015,
     "pID": "76a98f57d374f48190476931926f9037",
     "title": "英足总杯 0:5",
@@ -20,7 +96,39 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a57a55285001834827391658814/playlist_eof.m3u8?t=6aefec37&us=d9f98bb41a&sign=4c7ee79c275b5a6d25defee423d7ae94"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a57a55285001834827391658814/playlist_eof.m3u8?t=6af01a30&us=d5d50631e2&sign=e15649318348524483cacfd927d8dc1b"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 45426,
+    "pID": "a0b0068b3d5e19d8f9237b38cf48eabd",
+    "title": "西甲 0:3",
+    "keyword": "11月08日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/3b54543c1a584e2e9948d655142996d3.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "瓦伦西亚VS皇马",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月08日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/0df9e3885001834827270779805/playlist_eof.m3u8?t=6af01aca&us=6c6baa7135&sign=f9a2feb477ee7591fe606b9bc4ff9190"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e492333d5001834827273075271/playlist_eof.m3u8?t=6af01aca&us=6c6baa7135&sign=30caec9add224021821170b3648299b3"
         ]
       }
     ]
@@ -46,19 +154,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/127c25245001834827270952646/playlist_eof.m3u8?t=6aefec8e&us=c0596c2255&sign=259416373cc81ef135be1eb08843a83f"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/127c25245001834827270952646/playlist_eof.m3u8?t=6af019da&us=0f66fa3d61&sign=c0712b540710d87c7bb62f59eda2e80d"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8759e8515001834827387690777/playlist_eof.m3u8?t=6aefec8e&us=c0596c2255&sign=d4e2405a093b91a791f3ac17b115cd8b"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8759e8515001834827387690777/playlist_eof.m3u8?t=6af019da&us=0f66fa3d61&sign=3458f5ab956e0ebcb7b3736aaf51c534"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6d5d078a5001834827427458674/playlist_eof.m3u8?t=6aefec8e&us=c0596c2255&sign=0272ce38bc6ac07ab2bca707b824da87"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6d5d078a5001834827427458674/playlist_eof.m3u8?t=6af019da&us=0f66fa3d61&sign=d4dc6a8e0fe3064000474cb39f7d9b1f"
         ]
       }
     ]
@@ -84,19 +192,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/03c122005001834827263540269/playlist_eof.m3u8?t=6aefebf7&us=f933773cf4&sign=8a8e936d34620e85fd952f057495bdba"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/03c122005001834827263540269/playlist_eof.m3u8?t=6af01b0a&us=61691e2394&sign=9e79baa34e85cc4be00886ba309eac57"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e0fbebc55001834827259382472/playlist_eof.m3u8?t=6aefebf7&us=f933773cf4&sign=94cb70c83e8ae3d1ed926fa6b31fd654"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e0fbebc55001834827259382472/playlist_eof.m3u8?t=6af01b0a&us=61691e2394&sign=2f0979f51f0d49012d28fa64c3c34475"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2169135d5001834827396415240/playlist_eof.m3u8?t=6aefebf7&us=f933773cf4&sign=45729d078e59462a4a78e5c260314c0a"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2169135d5001834827396415240/playlist_eof.m3u8?t=6af01b0a&us=61691e2394&sign=21b30febc6e3da6df2d5bee2caa29f28"
         ]
       }
     ]
@@ -122,19 +230,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b948e7a65001834827381665572/playlist_eof.m3u8?t=6aefecc2&us=695f0f0ce9&sign=8cf5460b2c33f7d57ed22c92df7b220a"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b948e7a65001834827381665572/playlist_eof.m3u8?t=6af01b0b&us=96eb307163&sign=3f3af9be6a0065090ea27c45452662bb"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/deebe5c75001834827425934287/playlist_eof.m3u8?t=6aefecc2&us=695f0f0ce9&sign=0053ced4a1d646404905b9c49c216811"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/deebe5c75001834827425934287/playlist_eof.m3u8?t=6af01b0b&us=96eb307163&sign=96852d1fc328183e921433316cefc9b3"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/274fa3845001834827426747731/playlist_eof.m3u8?t=6aefecc2&us=695f0f0ce9&sign=7e52977de81a37ad44ae0ab7d7b0483c"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/274fa3845001834827426747731/playlist_eof.m3u8?t=6af01b0b&us=96eb307163&sign=e7c6cf2649abcb43be84d39c036c8d22"
         ]
       }
     ]
@@ -160,19 +268,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/275028305001834827426748598/playlist_eof.m3u8?t=6aefed09&us=7f18a68334&sign=9b90da284dcc99b2bc14eab708d3553e"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/275028305001834827426748598/playlist_eof.m3u8?t=6af01b0c&us=f71d59faf0&sign=63b5a53f861a4df1b8b2f4f641298729"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/274f9ae35001834827426747523/playlist_eof.m3u8?t=6aefed09&us=7f18a68334&sign=bb670852b37fa80a23a73addbfbcad52"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/274f9ae35001834827426747523/playlist_eof.m3u8?t=6af01b0c&us=f71d59faf0&sign=afc5abf7a1b80310ad91639ba6b642ac"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2f2a6b325001834827416211611/playlist_eof.m3u8?t=6aefed09&us=7f18a68334&sign=10873bebcaa33d6ca47dd4e7bcfa8077"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/2f2a6b325001834827416211611/playlist_eof.m3u8?t=6af01b0c&us=f71d59faf0&sign=bb157ba1680db4b5d7ef304f41c4bc45"
         ]
       }
     ]
@@ -198,19 +306,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/321741245001834827379505651/playlist_eof.m3u8?t=6aefec41&us=d0b887b734&sign=6690282afa51c62381172d807ee47cb5"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/321741245001834827379505651/playlist_eof.m3u8?t=6af01b0d&us=5b788fab92&sign=531efeb5be7ed6f3c2dd3ea1d98b1a12"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4202199d5001834827257131438/playlist_eof.m3u8?t=6aefec41&us=d0b887b734&sign=a0cb551a330a56d7aae8c9e6fcd0bab4"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4202199d5001834827257131438/playlist_eof.m3u8?t=6af01b0d&us=5b788fab92&sign=992d1780c859a509aa35223ca690ac59"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/323ae5455001834827379524615/playlist_eof.m3u8?t=6aefec41&us=d0b887b734&sign=039180c3c186e2596c4dc6e746b33e7e"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/323ae5455001834827379524615/playlist_eof.m3u8?t=6af01b0d&us=5b788fab92&sign=e5f0d090fba6334a84e267804a65969f"
         ]
       }
     ]
@@ -236,19 +344,19 @@
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4f500a255001834827413526768/playlist_eof.m3u8?t=6aefecc7&us=bcd5ad6bfd&sign=8db30acf483931023ae8eeffb71b9321"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4f500a255001834827413526768/playlist_eof.m3u8?t=6af01b0d&us=5b788fab92&sign=a4802d9fb0df953c30fe67f94035df87"
         ]
       },
       {
         "name": "超清中文1(二)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/51c9f0285001834827413647767/playlist_eof.m3u8?t=6aefecc7&us=bcd5ad6bfd&sign=d8c614418b2c3520fbb2962d7466750d"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/51c9f0285001834827413647767/playlist_eof.m3u8?t=6af01b0d&us=5b788fab92&sign=c70581f22e7a74cbbfb335772c277b9d"
         ]
       },
       {
         "name": "超清外语1(三)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/88f943075001834827424587914/playlist_eof.m3u8?t=6aefecc7&us=bcd5ad6bfd&sign=a35169d79f89bb0eff18c3a98da476a1"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/88f943075001834827424587914/playlist_eof.m3u8?t=6af01b0d&us=5b788fab92&sign=8ba02579e04bb2050e8a8e3bc85088bc"
         ]
       }
     ]
