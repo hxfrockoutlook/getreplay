@@ -1,5 +1,411 @@
 [
   {
+    "mgdbId": 46293,
+    "pID": "fe5038e0803c3709a7c71bb0837bdeea",
+    "title": "NBA 118:108",
+    "keyword": "11月12日11:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/4512175b1415f69816e816160093bcc0.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "开拓者VS雷霆",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日11:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46293_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46293_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46293_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46292,
+    "pID": "982ba4b1591be9d32476f80aa30822c9",
+    "title": "NBA 115:108",
+    "keyword": "11月12日10:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/bcfe797437f18526ff4e62177021f638.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "火箭VS勇士",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日10:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46292_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46292_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46292_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46291,
+    "pID": "a3fef6d0dce4296b678b3a369a2e69cf",
+    "title": "NBA 108:123",
+    "keyword": "11月12日10:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/8c88df221129169246c5b8a82955fa34.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "爵士VS魔术",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日10:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46291_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46291_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46291_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46290,
+    "pID": "f7831b9c4038f250bd50e67c06d8d356",
+    "title": "NBA 111:145",
+    "keyword": "11月12日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/2602b893bb3f8d381a5b0d978fad74e1.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "鹈鹕VS篮网",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46290_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46290_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46290_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46289,
+    "pID": "09245bac963b6087a4b11df625aa3174",
+    "title": "NBA 112:123",
+    "keyword": "11月12日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/172138a954c51bb257ac1ebaa52f01a1.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "雄鹿VS湖人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46289_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46289_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46289_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46288,
+    "pID": "00261eb5724016a66d3040b4f7a979f0",
+    "title": "NBA 118:123",
+    "keyword": "11月12日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/5150102b33043405b63b2e7c72759fa8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "灰熊VS掘金",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46288_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46288_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46288_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46287,
+    "pID": "634edf2a7550038aed6137793f14ad33",
+    "title": "NBA 119:124",
+    "keyword": "11月12日09:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f15ed15d914b6a608e9a396f03c755b0.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "公牛VS马刺",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日09:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46287_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46287_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46287_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46286,
+    "pID": "26a3c0890f1978c1ecbf42f720de4aab",
+    "title": "NBA 93:98",
+    "keyword": "11月12日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/e299ddecec93dc5c8db83b1761e2fa1f.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "猛龙VS凯尔特人",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46286_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46286_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46286_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46285,
+    "pID": "09b301b0489a6571bd63c360c9c6e66c",
+    "title": "NBA 107:115",
+    "keyword": "11月12日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/49f8b0ef2ed529b44dba6ebb99a0d5ff.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "尼克斯VS骑士",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46285_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46285_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46285_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46284,
+    "pID": "d0abb1c1574306d96438d05fdc0e83f1",
+    "title": "NBA 114:101",
+    "keyword": "11月12日08:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "步行者VS奇才",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日08:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46284_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46284_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46284_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 46331,
+    "pID": "12477d576e8fa5bf84b277802256e7b2",
+    "title": "欧篮联 111:109",
+    "keyword": "11月12日03:45",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "欧篮联",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/f96bb22cdad391337c9f1a8585b07dcc.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "巴黎VS费内巴切",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月12日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=46331_0"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 46330,
     "pID": "552c9a0ce450dc7904552ab00630f851",
     "title": "欧篮联 80:66",
