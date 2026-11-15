@@ -1,1 +1,40 @@
-[]
+[
+  {
+    "mgdbId": 47005,
+    "pID": "e0d6ef1d0d6ba079e7ee7eca88687930",
+    "title": "NBA 131:124",
+    "keyword": "11月16日02:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "NBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/06e7bde6cca98873fe971fad4e67a9b6.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "76人VS步行者",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月16日02:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/afe282c75001834828445444747/playlist_eof.m3u8?t=6afa8b8f&us=c3a33a6389&sign=98e1a53a1fea5587020f960dea71081a"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/256105a05001834828552292083/playlist_eof.m3u8?t=6afa8b8f&us=c3a33a6389&sign=339f7f601f0e2a4d229069a79c1debac"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/00b2b2295001834828517766733/playlist_eof.m3u8?t=6afa8b8f&us=c3a33a6389&sign=3305e12c3e3c329b4523aa5be5c8384e"
+        ]
+      }
+    ]
+  }
+]
