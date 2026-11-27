@@ -1,5 +1,89 @@
 [
   {
+    "mgdbId": 49000,
+    "pID": "9d5126015c7a624bd6dfa55ef20e4822",
+    "title": "WCBA 70:79",
+    "keyword": "11月27日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WCBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/n1c29ee5db33794e61fb8eb067fd8921c.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "合肥文旅女篮VS新疆天山女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月27日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49000_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 48993,
+    "pID": "35e55605a8a1628595f90025f2eb1990",
+    "title": "世亚预 67:84",
+    "keyword": "11月27日17:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世亚预",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/77418e1cfd63306bf63717d76c23e910.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "伊朗VS澳大利亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月27日17:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48993_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48993_1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 48989,
+    "pID": "0bbc06060bb2edcef4b1c392847cc289",
+    "title": "世亚预 64:103",
+    "keyword": "11月27日14:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世亚预",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ad269016d377a139581206b40ad4a941.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "约旦VS新西兰",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月27日14:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48989_0"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 48894,
     "pID": "d4f2bb6b2ac17c622fdbf32c83e736a7",
     "title": "欧足联 1:2",
