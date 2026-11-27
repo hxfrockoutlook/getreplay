@@ -1,5 +1,331 @@
 [
   {
+    "mgdbId": 49076,
+    "pID": "03a445bc6ccbf6045a1dcae07ca3a731",
+    "title": "英冠 2:0",
+    "keyword": "11月28日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/4623d3fa1cda20d1f289dce9dc803527.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "南安普顿VS米德尔斯堡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49076_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49076_1"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49014,
+    "pID": "0e919ff1b396a7b757523081016f6d96",
+    "title": "西甲 1:3",
+    "keyword": "11月28日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/2728d4cb86a245d6835a6d2fdbbd3baa.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "莱万特VS桑坦德竞技",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49014_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49014_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49014_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49006,
+    "pID": "43cbd39acb8d2e6f9eca10a4225f2d83",
+    "title": "英超 3:2",
+    "keyword": "11月28日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/8f05da8e406345e0a12aa11ea8ce6506.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "诺丁汉森林VS切尔西",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49006_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49006_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49006_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49019,
+    "pID": "add956b1437eeb6c6de194ab6d80d3ed",
+    "title": "法甲 1:0",
+    "keyword": "11月28日03:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/e40b3120486c4355aac5561e8f9c0a1e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布雷斯特VS巴黎FC",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49019_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49019_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49019_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49017,
+    "pID": "957ad0d81d3ac6eef387f4abce968eac",
+    "title": "意甲 0:0",
+    "keyword": "11月28日03:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/217846278dae47c8955cf5eaa230e6e8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "威尼斯VS博洛尼亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49017_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49017_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49017_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49009,
+    "pID": "7bd4129881eb1e6d5ec2fcda270d14d8",
+    "title": "德甲 3:3",
+    "keyword": "11月28日03:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "德甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/54a9f7be8dcf4bbdb76187f4f8e6400d.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "云达不莱梅VS门兴",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日03:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49009_0"
+        ]
+      },
+      {
+        "name": "超清中文(二)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49009_1"
+        ]
+      },
+      {
+        "name": "超清外语(三)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49009_2"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49052,
+    "pID": "1ae4c63c8a438c10cd27984ee5dd140a",
+    "title": "沙特超 1:0",
+    "keyword": "11月28日01:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dea986d20115216c05d1a45ba9a6162e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "吉达联合VS新未来城体育",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日01:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49052_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 45292,
+    "pID": "90de1b708107a4692989803e27d4d40e",
+    "title": "沙特超 2:0",
+    "keyword": "11月27日22:20",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/bc74439d19c8bbaa17c57406b120b86d.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "胡拜尔库迪西亚VS费哈",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月27日22:20"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=45292_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 44727,
+    "pID": "ffd7eea74adaf59ff39fe25b35c7935e",
+    "title": "沙特超 2:1",
+    "keyword": "11月27日20:15",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "沙特超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/f68cdd9a1511a39c64d451766c30c3bf.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "拉斯永恒VS塞哈特海湾",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月27日20:15"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=44727_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49001,
+    "pID": "c5535899cf384d22e356897c28cc716a",
+    "title": "世亚预 58:97",
+    "keyword": "11月27日20:00",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "世亚预",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/d5313f24c755a8f9d6963dd1d532b118.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "叙利亚VS菲律宾",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月27日20:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49001_0"
+        ]
+      }
+    ]
+  },
+  {
     "mgdbId": 49000,
     "pID": "9d5126015c7a624bd6dfa55ef20e4822",
     "title": "WCBA 70:79",
@@ -21,6 +347,58 @@
         "name": "高清回放(一)",
         "url": [
           "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=49000_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 48999,
+    "pID": "7624e033c039dfe0082530573ffc297c",
+    "title": "WCBA 88:72",
+    "keyword": "11月27日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WCBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/00523cd4bf48d4e5c995253012cce01e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "广东奥普特女篮VS大连文体旅女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月27日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48999_0"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 48998,
+    "pID": "385c25c28fa43b9070855812acc31662",
+    "title": "WCBA 73:90",
+    "keyword": "11月27日19:30",
+    "sportItemId": "2",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "WCBA",
+    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1fc01a1c1284848305881929497c06cb.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "河南豫光金铅女篮VS山东赤水河酒女篮",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月27日19:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放(一)",
+        "url": [
+          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48998_0"
         ]
       }
     ]
@@ -2781,1306 +3159,6 @@
         "name": "超清外语(三)",
         "url": [
           "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48747_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48684,
-    "pID": "3b09c51e90b490ad9049606912c562cd",
-    "title": "亚冠二级 1:0",
-    "keyword": "11月25日21:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚冠二级",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/bef3a45bcf56447c8acfb7b077820022.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "纳萨夫VS哈尔迪亚",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日21:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48684_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48684_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48684_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48676,
-    "pID": "7f237e7a0c2877c47f84975de9573f45",
-    "title": "亚冠二级 3:1",
-    "keyword": "11月25日20:15",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚冠二级",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/b2004093bf25a5a8d1768970d6e49d71.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "万隆VSFC首尔",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日20:15"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48676_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48676_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48676_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48608,
-    "pID": "bb931c629223c719f00fdfb74df87765",
-    "title": "日职联 2:2",
-    "keyword": "11月25日18:30",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "日职联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "浦和红钻VS大阪樱花",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48608_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48653,
-    "pID": "91fe63d63a6632141433d406b011dd57",
-    "title": "亚精英赛 3:0",
-    "keyword": "11月25日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚精英赛",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/90ca524b1b1c17911b1bf8e425c8d96d.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "鹿岛鹿角VS全北现代",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48653_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48653_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48653_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48652,
-    "pID": "be787984ea9c2d87a663c37b81dc6478",
-    "title": "亚精英赛 2:0",
-    "keyword": "11月25日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚精英赛",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/91008a96b5de8c75376d17057f89890e.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "大阪钢巴VS泰港",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48652_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48652_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48652_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48607,
-    "pID": "d98dc55a3388a0198aa5fb31263154b5",
-    "title": "日职联 1:2",
-    "keyword": "11月25日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "日职联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/b28ace839956d8eacce11926ea5e43b3.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "长崎航海VS川崎前锋",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48607_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48606,
-    "pID": "82fab6e482bb61ce4b389a743f2b9616",
-    "title": "日职联 1:2",
-    "keyword": "11月25日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "日职联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/9ce2dfe0c36e6a9774eaecf9731375b6.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "千叶市原VS名古屋鲸鱼",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48606_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48605,
-    "pID": "244b7eea26f7ea861de8d486715f699c",
-    "title": "日职联 1:2",
-    "keyword": "11月25日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "日职联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/bf0e2229b39b6cb6fd17e9d0f3fb747e.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "福冈黄蜂VS横滨水手",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48605_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48604,
-    "pID": "d4281685c4d176c2f805a148511a0be3",
-    "title": "日职联 2:0",
-    "keyword": "11月25日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "日职联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "冈山绿雉VS清水心跳",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48604_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48603,
-    "pID": "2ef6b741bf93284390ada321c22773d6",
-    "title": "日职联 2:2",
-    "keyword": "11月25日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "日职联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/333df39860930a21cf72b4e9664723ab.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "FC东京VS广岛三箭",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48603_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48602,
-    "pID": "6912ced9bd2d6ce7673904540ca350dc",
-    "title": "日职联 1:0",
-    "keyword": "11月25日18:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "日职联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/9ead844240532c4e12d3eb45d2087924.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "水户蜀葵VS东京绿茵",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日18:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48602_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48646,
-    "pID": "8efa216a2f57d1bc98a9e4963f8d57a3",
-    "title": "亚冠二级 0:0",
-    "keyword": "11月25日15:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚冠二级",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/c540f8f279c09a2a3df1cbbfe82d7184.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "墨尔本胜利VS越电信体工",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日15:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48646_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48646_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48646_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48725,
-    "pID": "b7fbecfde55b9ad4cff7d6ac340970df",
-    "title": "NBA 101:120",
-    "keyword": "11月25日11:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/403a12aa187f47045c18d137cd8103dc.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "掘金VS独行侠",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日11:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48725_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48725_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48725_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48724,
-    "pID": "9fc5a14f9607ebf74bed68c37698168a",
-    "title": "NBA 116:131",
-    "keyword": "11月25日09:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ac18ecfecac3af349477383866cf8ef5.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "奇才VS凯尔特人",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日09:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48724_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48724_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48724_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48723,
-    "pID": "6774d2df76edbba86b9a540d0655694c",
-    "title": "NBA 86:104",
-    "keyword": "11月25日08:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "NBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/0dc24d08ef0b5584e0b70f967db64b36.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "魔术VS活塞",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日08:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48723_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48723_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48723_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48731,
-    "pID": "0027cb05415ebcc18cc27f144e5c161a",
-    "title": "欧篮联 77:83",
-    "keyword": "11月25日04:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/3fd0a47f5891f27c0a98cf96e7c221af.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "巴塞罗那VS费内巴切",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48731_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48640,
-    "pID": "0dd58e203452458454b4d44bb929f240",
-    "title": "英冠 3:0",
-    "keyword": "11月25日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/5759932ca2512c6701d86dfbd58380a7.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "狼队VS德比郡",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48640_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48619,
-    "pID": "8db72154e4f626a303853282819945ed",
-    "title": "欧冠 0:2",
-    "keyword": "11月25日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/8e220a74791be9e0eb13507f0ce444db.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "布拉迪斯拉发VS贝蒂斯",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48619_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48619_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48619_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48618,
-    "pID": "adc9eddc8600ae22997216a22a0e199e",
-    "title": "欧冠 5:1",
-    "keyword": "11月25日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/5d83fbd4a22c445080c53e8ab832a889.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "皇马VS埃因霍温",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48618_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48618_1"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48617,
-    "pID": "36f17028cdd18cf10704819fcf637f96",
-    "title": "欧冠 3:1",
-    "keyword": "11月25日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/3a07a5889e62447bb427fbb7ae023619.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "RB莱比锡VS朗斯",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48617_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48617_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48617_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48616,
-    "pID": "3d3395584d05aea7cdfc1b4564029c15",
-    "title": "欧冠 2:2",
-    "keyword": "11月25日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/ec2c30faf28746e7b60788b56ae1b6e3.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "曼城VS那不勒斯",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48616_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48616_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48616_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48615,
-    "pID": "bb0e92ff0461bb5dabd072c9f89023a8",
-    "title": "欧冠 0:1",
-    "keyword": "11月25日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/44073f2d2c979a9388f98505ac3b754d.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "费耶诺德VS波尔图",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48615_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48615_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48615_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48614,
-    "pID": "a6530840dedd5da9fee8b0b88a5c2e62",
-    "title": "欧冠 1:0",
-    "keyword": "11月25日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/1c6cbee0ec814ae9bd3748ecaadf2cd9.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "科莫VS雅典AEK",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48614_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48614_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48614_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48613,
-    "pID": "38312886caff04d83a07331bd926e6bb",
-    "title": "欧冠 1:1",
-    "keyword": "11月25日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/10ea668ae8bd495eba6759f5cbf51898.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "阿森纳VS多特蒙德",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48613_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48613_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48613_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48730,
-    "pID": "6be7d7435d2c522e7ee429bc09225432",
-    "title": "欧篮联 91:95",
-    "keyword": "11月25日03:45",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/4660d3b4854deac4eadf6c9212f18f34.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "里昂维勒班VS米兰奥林匹亚",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48730_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48638,
-    "pID": "357e31a5f2ff06b0225d92793f161222",
-    "title": "英冠 2:1",
-    "keyword": "11月25日03:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/3abf20ec43524ed39849567319ee666a.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "米德尔斯堡VS斯旺西",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48638_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48637,
-    "pID": "1528456583df12ba9bed181eeb38ba9b",
-    "title": "英冠 0:4",
-    "keyword": "11月25日03:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/96e93477bd9f240151e87ec723cdf945.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "卡迪夫城VS普雷斯顿",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48637_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48636,
-    "pID": "df91206f152568bd53c5f1f5773191e4",
-    "title": "英冠 1:1",
-    "keyword": "11月25日03:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/e76b7c07aa13158e4041c101a87578dc.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "布里斯托尔城VS雷克瑟姆",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48636_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48635,
-    "pID": "b1c5bfa74aed5fbf5313825e081bc70a",
-    "title": "英冠 1:1",
-    "keyword": "11月25日03:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/008437c93501963e6ca1b2450994007a.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "谢菲联VS南安普顿",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48635_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48634,
-    "pID": "b279b1ccca6b68fbc4ac1d297e484263",
-    "title": "英冠 1:0",
-    "keyword": "11月25日03:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/2f360e96a024fd54255d0ed941e9075e.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "朴茨茅斯VS西汉姆联",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48634_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48633,
-    "pID": "ac917de630db351981a42bf2c14d5e82",
-    "title": "英冠 1:1",
-    "keyword": "11月25日03:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/86e6dba4cdc98b1dda1d25ea7d9eebfe.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "诺维奇VS女王公园",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48633_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48632,
-    "pID": "020cad3c74f3b7aa8e226d6bdd45e4f5",
-    "title": "英冠 4:0",
-    "keyword": "11月25日03:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "英冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/c6a2a1ae9f05aeb030cd7578e4614386.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "查尔顿VS林肯城",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48632_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48729,
-    "pID": "a049d52160bd7a69502bad3caa4efc16",
-    "title": "欧篮联 83:86",
-    "keyword": "11月25日03:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/a3819bb7ddd5edc47416d1efb5539fd3.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "瓦伦西亚VS帕纳辛纳科斯",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48729_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48728,
-    "pID": "c13b19304b3f28f890e02c3774e5eab5",
-    "title": "欧篮联 79:87",
-    "keyword": "11月25日03:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/99a5187dc20d019f4fd223a6a6de80a6.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "拜仁慕尼黑VS特拉维夫马卡比",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日03:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48728_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48625,
-    "pID": "5b9e3c004ba55672adc6ad84bbf8574a",
-    "title": "亚精英赛 2:1",
-    "keyword": "11月25日02:15",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚精英赛",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/0d9975f7e846a1ecb099f4cd62d1b8f7.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "利雅得胜利VS萨德",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日02:15"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48625_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48625_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48625_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48727,
-    "pID": "b2a889ab3756388ea73117895614f2be",
-    "title": "欧篮联 84:108",
-    "keyword": "11月25日02:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/c39da666a430eeb95c2dd0838b267d77.jpg",
-    "competitionLogo": "",
-    "pkInfoTitle": "贝尔格莱德红星VS博洛尼亚",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日02:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48727_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48612,
-    "pID": "d5c15431487a5f3add872af604f57ccd",
-    "title": "欧冠 1:0",
-    "keyword": "11月25日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/fbcf002c8d6dd34813fa2b3a4cc9b04c.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "加拉塔萨雷VS阿斯顿维拉",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48612_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48612_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48612_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48611,
-    "pID": "a4673f182f56b26ff115c0fcd7a868c1",
-    "title": "欧冠 1:0",
-    "keyword": "11月25日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧冠",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/98854ab97eadf3d2c7c6d657ad99df96.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "博德闪耀VS林茨",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48611_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48611_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48611_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48726,
-    "pID": "5a9fd9aaf1d4eceddb4bde95026141a2",
-    "title": "欧篮联 76:88",
-    "keyword": "11月25日01:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧篮联",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/94dada68497d1016c38eb742c5040164.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "贝西克塔斯VS巴黎",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日01:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48726_0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48621,
-    "pID": "f0c5cd5e4dbd4138cb830dedbc671ba1",
-    "title": "亚冠二级 2:0",
-    "keyword": "11月25日00:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚冠二级",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/99436fc30d359790afbd11fe602a5a45.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "锡卜VS巴格达警察",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日00:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48621_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48621_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48621_2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48620,
-    "pID": "82f8cbe539994f5aba5d1057e44557a0",
-    "title": "亚精英赛 1:5",
-    "keyword": "11月25日00:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "亚精英赛",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/05e87b1dbb904915a4a97fc095b73d20.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "迪拜青年国民VS胡拜尔库迪西亚",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月25日00:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放(一)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48620_0"
-        ]
-      },
-      {
-        "name": "超清中文(二)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48620_1"
-        ]
-      },
-      {
-        "name": "超清外语(三)",
-        "url": [
-          "https://miguvideo.957.de5.net/api/player?flag=88看球回放&pid=48620_2"
         ]
       }
     ]
