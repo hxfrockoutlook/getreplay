@@ -1,1398 +1,248 @@
 [
   {
-    "mgdbId": 44727,
-    "pID": "ffd7eea74adaf59ff39fe25b35c7935e",
-    "title": "沙特超 2:1",
-    "keyword": "11月27日20:15",
+    "mgdbId": 49076,
+    "pID": "03a445bc6ccbf6045a1dcae07ca3a731",
+    "title": "英冠 2:0",
+    "keyword": "11月28日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英冠",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/4623d3fa1cda20d1f289dce9dc803527.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "南安普顿VS米德尔斯堡",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/01f9ebb35001834830105274263/playlist_eof.m3u8?t=6b0a597e&us=faec5c4765&sign=73b1b160b8b07cd851a0884c8e104a8b"
+        ]
+      },
+      {
+        "name": "超清外语1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b95f82535001834830104430792/playlist_eof.m3u8?t=6b0a597e&us=faec5c4765&sign=5f240b665de13e445214ee4d26289cce"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49014,
+    "pID": "0e919ff1b396a7b757523081016f6d96",
+    "title": "西甲 1:3",
+    "keyword": "11月28日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "西甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/2728d4cb86a245d6835a6d2fdbbd3baa.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "莱万特VS桑坦德竞技",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b418abc45001834829944705613/playlist_eof.m3u8?t=6b0a58b5&us=8306349e70&sign=b0d987f673fc73a92cd1b671da900652"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/632653615001834830059449076/playlist_eof.m3u8?t=6b0a58b5&us=8306349e70&sign=0e9a7e11ff0ad6d56bfcac4609497c7f"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c4d010a95001834830057289957/playlist_eof.m3u8?t=6b0a58b5&us=8306349e70&sign=21d18095105f819e0177b594f8aae18e"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49006,
+    "pID": "43cbd39acb8d2e6f9eca10a4225f2d83",
+    "title": "英超 3:2",
+    "keyword": "11月28日04:00",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "英超",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/8f05da8e406345e0a12aa11ea8ce6506.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "诺丁汉森林VS切尔西",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日04:00"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/56aef3c75001834830069787265/playlist_eof.m3u8?t=6b0a5942&us=1d5ca6d0d9&sign=4f378c08cb4096a1d87b53053dfab5be"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/761561565001834830103882155/playlist_eof.m3u8?t=6b0a5942&us=1d5ca6d0d9&sign=375b8d59d528343b878e36b5c6748d68"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/73c041325001834830103782350/playlist_eof.m3u8?t=6b0a5942&us=1d5ca6d0d9&sign=9ad858b27698bf3adb9a9bb3b83aecc6"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49019,
+    "pID": "add956b1437eeb6c6de194ab6d80d3ed",
+    "title": "法甲 1:0",
+    "keyword": "11月28日03:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "法甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/e40b3120486c4355aac5561e8f9c0a1e.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "布雷斯特VS巴黎FC",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e011b5045001834830054368588/playlist_eof.m3u8?t=6b0a588e&us=8cbb1acf48&sign=6074b002ac3212ec545eb3b73f7393fa"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/21ae03055001834830102520240/playlist_eof.m3u8?t=6b0a588e&us=8cbb1acf48&sign=716c5347980626ae6b099563a15d63bb"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7eb0f6de5001834830056569082/playlist_eof.m3u8?t=6b0a588e&us=8cbb1acf48&sign=451d8339a4646f5fdeb2297d806dee2e"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49017,
+    "pID": "957ad0d81d3ac6eef387f4abce968eac",
+    "title": "意甲 0:0",
+    "keyword": "11月28日03:45",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "意甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/217846278dae47c8955cf5eaa230e6e8.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "威尼斯VS博洛尼亚",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日03:45"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f60be9255001834829945295231/playlist_eof.m3u8?t=6b0a599d&us=6caf564977&sign=f995425aeef2adcf6be0c478dcd561af"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/21a067b75001834830102518890/playlist_eof.m3u8?t=6b0a599d&us=6caf564977&sign=e42bb208d1ad7f5f5ae0d9563ce715d7"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bbba74c85001834830019886595/playlist_eof.m3u8?t=6b0a599d&us=6caf564977&sign=71a4477a94ae30fe05b3dbfb80ca1ee3"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49009,
+    "pID": "7bd4129881eb1e6d5ec2fcda270d14d8",
+    "title": "德甲 3:3",
+    "keyword": "11月28日03:30",
+    "sportItemId": "1",
+    "matchStatus": "2",
+    "matchField": "",
+    "competitionName": "德甲",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/54a9f7be8dcf4bbdb76187f4f8e6400d.png",
+    "competitionLogo": "",
+    "pkInfoTitle": "云达不莱梅VS门兴",
+    "modifyTitle": "",
+    "presenters": "",
+    "matchInfo": {
+      "time": "11月28日03:30"
+    },
+    "nodes": [
+      {
+        "name": "高清回放1(一)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d7442b905001834830101659302/playlist_eof.m3u8?t=6b0a5906&us=5b85620cac&sign=6eb4686399bcedd53fb2f776ec08b065"
+        ]
+      },
+      {
+        "name": "超清中文1(二)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/341929595001834830055670760/playlist_eof.m3u8?t=6b0a5906&us=5b85620cac&sign=701a8c86f37fa9d1cb065017294c8bd6"
+        ]
+      },
+      {
+        "name": "超清外语1(三)",
+        "url": [
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d7538ad35001834830101664435/playlist_eof.m3u8?t=6b0a5906&us=5b85620cac&sign=501cf05c7f1680a345c033e4ebee70fd"
+        ]
+      }
+    ]
+  },
+  {
+    "mgdbId": 49052,
+    "pID": "1ae4c63c8a438c10cd27984ee5dd140a",
+    "title": "沙特超 1:0",
+    "keyword": "11月28日01:30",
     "sportItemId": "1",
     "matchStatus": "2",
     "matchField": "",
     "competitionName": "沙特超",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/f68cdd9a1511a39c64d451766c30c3bf.png",
+    "padImg": "https://cdn.sportnanoapi.com/football/team/dea986d20115216c05d1a45ba9a6162e.png",
     "competitionLogo": "",
-    "pkInfoTitle": "拉斯永恒VS塞哈特海湾",
+    "pkInfoTitle": "吉达联合VS新未来城体育",
     "modifyTitle": "",
     "presenters": "",
     "matchInfo": {
-      "time": "11月27日20:15"
+      "time": "11月28日01:30"
     },
     "nodes": [
       {
         "name": "高清回放1(一)",
         "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/15c3c8245001834830034999283/playlist_eof.m3u8?t=6b09e419&us=9047ee10f5&sign=da841b40cdd99c236a2fbfec5e87e7f2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 49001,
-    "pID": "c5535899cf384d22e356897c28cc716a",
-    "title": "世亚预 58:97",
-    "keyword": "11月27日20:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "世亚预",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/d5313f24c755a8f9d6963dd1d532b118.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "叙利亚VS菲律宾",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日20:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/78f1e3025001834830008453997/playlist_eof.m3u8?t=6b09e480&us=ab8bf43962&sign=72fdf0bc9e0b6851233ea60b29d4b1d2"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 49000,
-    "pID": "9d5126015c7a624bd6dfa55ef20e4822",
-    "title": "WCBA 70:79",
-    "keyword": "11月27日19:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "WCBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/n1c29ee5db33794e61fb8eb067fd8921c.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "合肥文旅女篮VS新疆天山女篮",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日19:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1b1e5f455001834830058688850/playlist_eof.m3u8?t=6b09e4c1&us=e8942c63df&sign=1ca009a478de13de529e74f4beeb250a"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48999,
-    "pID": "7624e033c039dfe0082530573ffc297c",
-    "title": "WCBA 88:72",
-    "keyword": "11月27日19:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "WCBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/00523cd4bf48d4e5c995253012cce01e.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "广东奥普特女篮VS大连文体旅女篮",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日19:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/21d20adc5001834830058942056/playlist_eof.m3u8?t=6b09e462&us=bdcb84738b&sign=127147b8132513fa6b605155dadce76d"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48998,
-    "pID": "385c25c28fa43b9070855812acc31662",
-    "title": "WCBA 73:90",
-    "keyword": "11月27日19:30",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "WCBA",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/1fc01a1c1284848305881929497c06cb.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "河南豫光金铅女篮VS山东赤水河酒女篮",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日19:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8cfd21695001834830005201057/playlist_eof.m3u8?t=6b09e49e&us=16bef50c02&sign=5f28da77a165ea9de7435f03a5b38c54"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48993,
-    "pID": "35e55605a8a1628595f90025f2eb1990",
-    "title": "世亚预 67:84",
-    "keyword": "11月27日17:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "世亚预",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/77418e1cfd63306bf63717d76c23e910.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "伊朗VS澳大利亚",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日17:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/56b6fcf45001834830035444173/playlist_eof.m3u8?t=6b09e4f7&us=59bf3ec1a9&sign=66e7cf816a9ab3b04f3becaff9e040e3"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/92535a8e5001834829947391295/playlist_eof.m3u8?t=6b09e4f7&us=59bf3ec1a9&sign=8e29df46ecdb01733c3fbaf2e18d6273"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48989,
-    "pID": "0bbc06060bb2edcef4b1c392847cc289",
-    "title": "世亚预 64:103",
-    "keyword": "11月27日14:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "世亚预",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/ad269016d377a139581206b40ad4a941.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "约旦VS新西兰",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日14:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/23f6e95f5001834830017966319/playlist_eof.m3u8?t=6b09e426&us=a3797c9b2c&sign=310647370e1df86a2ebcaa2fdaafef4f"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48894,
-    "pID": "d4f2bb6b2ac17c622fdbf32c83e736a7",
-    "title": "欧足联 1:2",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/3b19cae478679881554914e45d318742.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "索非亚中央陆军VS特拉布宗",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/684caeea5001834829967263372/playlist_eof.m3u8?t=6b09e52a&us=61e2dd6db2&sign=dca91a8f248ff26ca8f8a42624abf78d"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48893,
-    "pID": "2d6ad6b87881b7ecd7954ab6f22d3944",
-    "title": "欧足联 0:2",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/5099192a1226b54aa2ce2a430edf9af9.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "哈伊杜克VS圣图尔登",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7837022b5001834829967908610/playlist_eof.m3u8?t=6b09e52b&us=92db5d4782&sign=4c9bfae5e119bbd05b23c952de59ee38"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48892,
-    "pID": "cb591eb77cb29e562ee9a014f9b01ec7",
-    "title": "欧足联 3:2",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/d63099fdff083541d1ebef9beae90f63.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "北西兰VS帕纳辛纳科斯",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b7d49c1d5001834829968397679/playlist_eof.m3u8?t=6b09e52c&us=c11f4c7dcb&sign=f61ed70450d052e7f475167352583039"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48891,
-    "pID": "a2c8a9cfe19ba6887bc09185d651f614",
-    "title": "欧足联 2:0",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/808a63c4e021d1ee40dd6d9d07d3baa3.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "埃斯卡尔德斯国际VS哥本哈根",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b7fe28215001834829975126402/playlist_eof.m3u8?t=6b09e52d&us=668be5e7d2&sign=46cf6ee62e81b4b6c7c82684da31ac06"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48890,
-    "pID": "16885dd78c58ed9dfbd1e0ff5d837864",
-    "title": "欧足联 4:0",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/1fe75f826dab40e6e89cbe961c7e9116.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "布拉加VS库普斯",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/793bf5285001834829916045846/playlist_eof.m3u8?t=6b09e4f8&us=bd1bc346b0&sign=023759f081382f754c7bf0b524fcb489"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48889,
-    "pID": "f33903ba62405e9bf28ecf0f7ffa85f7",
-    "title": "欧足联 2:3",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/538d312c2512ebda3129f105db04e5e5.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "巴尼亚卢卡战士VS亚特兰大",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/72135a0e5001834829974432785/playlist_eof.m3u8?t=6b09e52e&us=9deadfdbc1&sign=f9a86f2396795add2b5ae5a9c232795d"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/1c228cd95001834829901705123/playlist_eof.m3u8?t=6b09e52e&us=9deadfdbc1&sign=268216b97693aeb4c722535953981071"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b87cb7be5001834829903812631/playlist_eof.m3u8?t=6b09e52e&us=9deadfdbc1&sign=756d1d906993625cf834eb7ff3051e65"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48888,
-    "pID": "39e4ac5a4ecddc358b5e8f4a12298d9f",
-    "title": "欧足联 2:1",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/ada3b68a2041492b93106bce7e5ee986.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "弗赖堡VS特温特",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a5f148975001834829937378957/playlist_eof.m3u8?t=6b09e52f&us=a4ee60ff18&sign=6e365d9c0a2bceef50f336575a895bd4"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48887,
-    "pID": "3a5bf18e8b26d6bf21c5ff2dd3caff2f",
-    "title": "欧足联 1:1",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/59e9be1ed056bdc0025f6064316485fe.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "根特VS贝尔格莱德红星",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/794cdf215001834829916053309/playlist_eof.m3u8?t=6b09e52f&us=a4ee60ff18&sign=24bf8efd87b7d2daf1825ebd4d49f6bd"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48871,
-    "pID": "f34baff1a8b7388a1d6400f21eb95da0",
-    "title": "欧联杯 1:2",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/3555977b288a6b8b02f876b0e5a1da53.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "托伦斯VS凯尔特人",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d215a4c45001834829917574330/playlist_eof.m3u8?t=6b09e530&us=71f56e5012&sign=ae60eed18511ed73b8908983d9cd4b24"
-        ]
-      },
-      {
-        "name": "超清外语1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b4dbf9265001834829968206244/playlist_eof.m3u8?t=6b09e530&us=71f56e5012&sign=b9ef45d97f2d5ff52e91aeff50fae2ef"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48870,
-    "pID": "0b286030ffac9044c832e550fdcbbc0e",
-    "title": "欧联杯 1:1",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/9b111ad58ebc40b6bbcc47414b204d87.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "桑德兰VS雅盖隆",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/0e20f4715001834829901100702/playlist_eof.m3u8?t=6b09e531&us=3338cb5601&sign=7a8400f9ddffe96d6bcfcc11349489c1"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/359535a55001834829915443563/playlist_eof.m3u8?t=6b09e531&us=3338cb5601&sign=18d4b91466ea9a4f1c6a265d619707c3"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/235061845001834829918719400/playlist_eof.m3u8?t=6b09e531&us=3338cb5601&sign=eeee858856345ebd48d81ec7da05777c"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48869,
-    "pID": "c646fb4c157c999f6c59b7a9be6c5c9e",
-    "title": "欧联杯 2:4",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/5b8479ebddd13feeef3165a1393aad19.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "布拉格斯巴达VS阿尔克马尔",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7155c1e75001834829807571509/playlist_eof.m3u8?t=6b09e532&us=823991d9a7&sign=5b24f6e7f123cd1e65f980238cec5f6a"
-        ]
-      },
-      {
-        "name": "超清外语1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7bc5c4db5001834829974888828/playlist_eof.m3u8?t=6b09e532&us=823991d9a7&sign=f937fe0882eca2873b3d4c353ad44183"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48868,
-    "pID": "b7c49abe5efb1079b6966cf0cab5ea0b",
-    "title": "欧联杯 1:3",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/140cf7a2a4354a4a9f9ead6c9a4de6fa.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "OFI克里特VS安德莱赫特",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/769d3aee5001834829974619229/playlist_eof.m3u8?t=6b09e533&us=6128e7e2d2&sign=a17d32d0b749ed24f69896e0a8a17848"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c03b56605001834829808616600/playlist_eof.m3u8?t=6b09e533&us=6128e7e2d2&sign=21012a1aa2b82e96bd47f42437f74a3c"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/5844adb35001834829912885966/playlist_eof.m3u8?t=6b09e533&us=6128e7e2d2&sign=a4c70b30b430107ab631302103d7d4ef"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48867,
-    "pID": "755a7634aba3a18ca4364d31d3aa799a",
-    "title": "欧联杯 3:1",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/d22de494a1ff648e90892c249c5aed12.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "奈梅亨VS雷恩",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b2975d445001834829968113830/playlist_eof.m3u8?t=6b09e535&us=fc452dfbbf&sign=95dd51339f5ae3f88ab3fec175de83c5"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b55c5f145001834829968279743/playlist_eof.m3u8?t=6b09e535&us=fc452dfbbf&sign=81762b03b9f41ad11697135207dc82ba"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/273559db5001834829966798863/playlist_eof.m3u8?t=6b09e535&us=fc452dfbbf&sign=50f48d0a26c6da1a417a530492227269"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48866,
-    "pID": "7ec231e20eb17788c4c3af49529b0865",
-    "title": "欧联杯 0:0",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/aa3497ccbc2348199cbfcf3c9f9d9dec.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "里昂VS利勒斯特罗姆",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b44243ca5001834829903678633/playlist_eof.m3u8?t=6b09e537&us=0eb0ce57dd&sign=7030370e88937cf6823dba7799637e74"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b613f24b5001834829975083554/playlist_eof.m3u8?t=6b09e537&us=0eb0ce57dd&sign=10ffdd7b46503946dd32fb578c4eff61"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bbd974ef5001834829808456982/playlist_eof.m3u8?t=6b09e537&us=0eb0ce57dd&sign=09de8d15a157a8950d7184a1b2d8b918"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48865,
-    "pID": "145a4a96a0ac15a804cac3c46ceb3e67",
-    "title": "欧联杯 4:1",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/3b1eace38b5847ab87a09bbdd885f1c4.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "尤文VS奥莫尼亚",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/d534b0335001834829965545947/playlist_eof.m3u8?t=6b09e539&us=d4c32a4c6c&sign=88e5beed42019ca1f9b7c22bfd15495f"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7b3084a15001834829974800251/playlist_eof.m3u8?t=6b09e539&us=d4c32a4c6c&sign=b7299bd52f4d62241c41b261a83c299c"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/ca612d115001834829934833598/playlist_eof.m3u8?t=6b09e539&us=d4c32a4c6c&sign=048a337ebe4aa79b4c062649d7d04abf"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48864,
-    "pID": "9ac87a64019a8e7bc81c8ac6049bb5d7",
-    "title": "欧联杯 3:1",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/b8e6ee09d2414834b547c3a955dab99b.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "霍芬海姆VS格拉茨风暴",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f7e5065f5001834829904273018/playlist_eof.m3u8?t=6b09e53b&us=7a3a6ca619&sign=10f29690e9a4713f254758f3e03020fe"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b60524705001834829975079581/playlist_eof.m3u8?t=6b09e53b&us=7a3a6ca619&sign=0ec2228cab6dfddf86fbe4ba16e0f093"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6f1677cd5001834829967534626/playlist_eof.m3u8?t=6b09e53b&us=7a3a6ca619&sign=d8f7ac790d65c09d2fa52fc74b7fd287"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48863,
-    "pID": "99cce2f9c4d2d84ba6d0a28ecfb96cef",
-    "title": "欧联杯 0:0",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/202e45f30a94193466ba2ae8a96e7685.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "费伦茨瓦罗斯VS采列",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b612d5cc5001834829975081494/playlist_eof.m3u8?t=6b09e53c&us=33711077d2&sign=3ffa2d641ebbd4c94d089ad7d1ece635"
-        ]
-      },
-      {
-        "name": "超清外语1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f49da2125001834829914990777/playlist_eof.m3u8?t=6b09e53c&us=33711077d2&sign=901ae5ec16a80e2f7aee74062d4bf506"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48862,
-    "pID": "f3ff688bcbc56cae7a709446739485d3",
-    "title": "欧联杯 2:1",
-    "keyword": "11月27日04:00",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/6c4a14d88b0c4ffc950b06ac67257e97.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "水晶宫VS皇家社会",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日04:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/771ace145001834829974687257/playlist_eof.m3u8?t=6b09e53e&us=281f342980&sign=2933730c748be9a093231e44c4c034cb"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/aac7d40b5001834829903255868/playlist_eof.m3u8?t=6b09e53e&us=281f342980&sign=ac2b9c35a4ff08078f85956e30a63f9d"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/293fe2365001834829966854568/playlist_eof.m3u8?t=6b09e53e&us=281f342980&sign=e4a7d09851994fca7c1fa71b3c9a7bd3"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48981,
-    "pID": "974396ee80dfe3cba53b60c52d5f28ec",
-    "title": "世亚预 82:86",
-    "keyword": "11月27日03:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "世亚预",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/01fbdbd570011d3ff9420955163f2cbf.jpg",
-    "competitionLogo": "",
-    "pkInfoTitle": "黎巴嫩VS日本",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日03:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f5a220815001834829962899997/playlist_eof.m3u8?t=6b09e540&us=11d620d695&sign=6cd1f19e36db5894defa01a4afb4434c"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48885,
-    "pID": "7f635d310d5325e997f1c13c309bfa40",
-    "title": "欧足联 0:2",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/50c3c3aca72ad7bd05f5b4742ea993d3.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "帕福斯FCVS中日德兰",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7f3d80655001834829964190614/playlist_eof.m3u8?t=6b09e541&us=f657cebc82&sign=92c68ae315f54fe62ed74c14e610e9b6"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/97275e435001834829954320933/playlist_eof.m3u8?t=6b09e541&us=f657cebc82&sign=025cb2ade277a6dd987874af41ec44ec"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4edbbccd5001834829953528376/playlist_eof.m3u8?t=6b09e541&us=f657cebc82&sign=e6ffbecca365b0e4892b77c20beefa3b"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48884,
-    "pID": "60942484f818f9511440564dd6b11014",
-    "title": "欧足联 2:0",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/fa40a749241f4b8ab3e93d2f5922e5c7.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "考诺萨基列斯VS里加FC",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/54eb23ca5001834829905933916/playlist_eof.m3u8?t=6b09e543&us=be66df367d&sign=3e36bb032e83df00c12510c2c0fe2384"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48883,
-    "pID": "25dbf9a915929313ccf4fda712af6ae0",
-    "title": "欧足联 1:4",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/448b88beb6cdaf0accf126b280b177d9.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "布兰VS奥胡斯",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a113d6c65001834829801466637/playlist_eof.m3u8?t=6b09e544&us=ddfa50b66d&sign=b57c576e4e9d8f93949bdd5298852263"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48882,
-    "pID": "cf5243e4adaac6f36935f08c642b165e",
-    "title": "欧足联 1:0",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/e80d49b16e8a1ea6b6d38643e1d429b0.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "伊比利亚1999VS赫塔菲",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6abbe1a85001834829794801482/playlist_eof.m3u8?t=6b09e544&us=ddfa50b66d&sign=4c37c989edeab98c09d86088bfb7fa55"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48881,
-    "pID": "8db1b34ede82764cc2800c5e755c81be",
-    "title": "欧足联 2:0",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/5ad108996fc7f22e8c12cddbc33e1ca7.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "亚布洛内茨VS卢加诺",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/46052fb15001834829797309476/playlist_eof.m3u8?t=6b09e546&us=ca5bf560da&sign=95f92ac9eac3843bba0795afda39fb7c"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48880,
-    "pID": "c7bac6da9d4b8f7f54cd1788aff19bed",
-    "title": "欧足联 2:1",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/caa1464dfa3740d8e7ba32959576cb66.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "埃格纳蒂亚VS林肯红魔",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/9e984a5c5001834829954689598/playlist_eof.m3u8?t=6b09e548&us=819d87cca6&sign=64910fd83379cdf4c4a35cbafd8e1906"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48879,
-    "pID": "d8c6b7c3bf6fd667e43544d03874c1c2",
-    "title": "欧足联 4:0",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/29083e9b799845be80570fa263aa5be7.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "布莱顿VS克拉约瓦大学",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4dba1f4e5001834829899040748/playlist_eof.m3u8?t=6b09e549&us=b6769e72bc&sign=4b9e1a4a0272b8e1b86ff3f4bbf1a0c2"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/900440245001834829954001965/playlist_eof.m3u8?t=6b09e549&us=b6769e72bc&sign=ae1d2e7fc847d9d7d04fed24e8ea8cda"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/83d7f7ef5001834829964384952/playlist_eof.m3u8?t=6b09e549&us=b6769e72bc&sign=106cb4dbd3619df1e5ae71bb73fa44e7"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48878,
-    "pID": "abe0228bc8324ced3edae2059b0847ae",
-    "title": "欧足联 2:3",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/eaf06359f42dcf69c7ac660731511239.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "哈茨VS摩纳哥",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/92a57f495001834829954148157/playlist_eof.m3u8?t=6b09e54a&us=5917b04b10&sign=0564e92fddff7c60d9be953a4a02df0c"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48877,
-    "pID": "3e2fb0fc034c0d89ef0492b7c9557b21",
-    "title": "欧足联 4:0",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧足联",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/187929503752357480bce47813a9741f.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "阿贾克斯VS图恩",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/0419b93c5001834829928240150/playlist_eof.m3u8?t=6b09e54b&us=2120cd9f1f&sign=c4a4aeb75560502a8ca94e2a2d4e5966"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48861,
-    "pID": "8dcd544dd862cdba71e1e8d21790b6e0",
-    "title": "欧联杯 2:0",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/4e07d3ac5c7d1f02fba7fa4c14c8ee76.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "萨尔茨堡红牛VS阿拉拉特亚美尼亚",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/dbeb26ed5001834829965804484/playlist_eof.m3u8?t=6b09e54d&us=7909c095d7&sign=92bacb8e3663f0b94fefcda2e149a62b"
-        ]
-      },
-      {
-        "name": "超清外语1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/bf8431d05001834829897555228/playlist_eof.m3u8?t=6b09e54d&us=7909c095d7&sign=098bdb4dcb701014731316ba583a6048"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48860,
-    "pID": "8d274cfb1af9cc12cd24ed224421fb1c",
-    "title": "欧联杯 2:2",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/b796af8f1a3f43d5d56f4a4255b87260.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "圣吉罗斯VS波兹南莱赫",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/b8a0e8615001834829903832605/playlist_eof.m3u8?t=6b09e54e&us=1a28169325&sign=f2b878ab2d3498b1de9f544abaf2dedc"
-        ]
-      },
-      {
-        "name": "超清外语1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/46052a8b5001834829797309308/playlist_eof.m3u8?t=6b09e54e&us=1a28169325&sign=89a05c0b3fa395bd70d3f73c87c66501"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48859,
-    "pID": "5f785bc9b1dcae824e78028f3ba43fd9",
-    "title": "欧联杯 4:0",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/612bde1cd51faba4b31a568ea5bce334.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "比尔森VS本菲卡",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e655cc875001834829955406580/playlist_eof.m3u8?t=6b09e54f&us=a3d7559456&sign=c8809beba52eed20452a39ea30603e55"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/f29859cb5001834829796082185/playlist_eof.m3u8?t=6b09e54f&us=a3d7559456&sign=a1f966596ed936ffe2d255da39d6596b"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a557758a5001834829795045690/playlist_eof.m3u8?t=6b09e54f&us=a3d7559456&sign=c5224f5b9a177525e70d2136ee96d330"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48858,
-    "pID": "659932a698232d762a775277f280452f",
-    "title": "欧联杯 2:4",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/1df992d91eb0877558c872a18ea605f0.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "奥林匹亚科斯VSAC米兰",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/df6639475001834829955112559/playlist_eof.m3u8?t=6b09e550&us=d9b091095d&sign=3aa3f124e513471bf6209ef1ea1fbcfa"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/df675aa95001834829955114766/playlist_eof.m3u8?t=6b09e550&us=d9b091095d&sign=22b098a3648bd8b4eb971f8e073b7cbe"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/48c442165001834829797464929/playlist_eof.m3u8?t=6b09e550&us=d9b091095d&sign=7b6c4966d163ede384e6c2d0d36cc6f0"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48857,
-    "pID": "1cba2a530d6a5d765abd42e1628de153",
-    "title": "欧联杯 1:0",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/bf38710e138f43618dac312e088195bd.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "马赛VS索非亚列夫斯基",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/7f3f98a85001834829964194037/playlist_eof.m3u8?t=6b09e552&us=f607be8243&sign=807ba57a69200cae46fd10f36ba3ac55"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/10f0498b5001834829898721362/playlist_eof.m3u8?t=6b09e552&us=f607be8243&sign=de13e39c464e2fed862ebd3c858b6add"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4b08de355001834829797557358/playlist_eof.m3u8?t=6b09e552&us=f607be8243&sign=30e978561770142907fca9eabe639b8f"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48856,
-    "pID": "63f62665d54fb781d99bea538508fb4c",
-    "title": "欧联杯 0:2",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/b22d9b2c5fc8d98df9194a9c5d66ec83.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "萨格勒布迪纳摩VS勒沃库森",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/8ac5cc2e5001834829964675354/playlist_eof.m3u8?t=6b09e554&us=56ea4a762c&sign=c9e5f88a89673d6891eaf6ab33205d63"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/07fa9e425001834829898379979/playlist_eof.m3u8?t=6b09e554&us=56ea4a762c&sign=4e02df2e3735917a9cb8c7907c6a1961"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/c2a750835001834829927724340/playlist_eof.m3u8?t=6b09e554&us=56ea4a762c&sign=9ed567738d42a5620f5b955707305e4e"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48855,
-    "pID": "289d8ff554341e4c129739ab09efbcac",
-    "title": "欧联杯 1:2",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/4cae02e963f046f381c25a5d16039d0b.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "塞尔塔VS伯恩茅斯",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/e8ba42e85001834829955511278/playlist_eof.m3u8?t=6b09e554&us=56ea4a762c&sign=9289ca259790078013b0c22b9afaaed6"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/951d55275001834829954265902/playlist_eof.m3u8?t=6b09e554&us=56ea4a762c&sign=ab75ad6983bc10e9bf69c57f73853719"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6bbbfa4a5001834829902848194/playlist_eof.m3u8?t=6b09e554&us=56ea4a762c&sign=15e0512f73c619c10521a55f05fd67f4"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48854,
-    "pID": "95b443ef304a978dd4e92eebee8918fd",
-    "title": "欧联杯 2:1",
-    "keyword": "11月27日01:45",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "欧联杯",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/12f2f63f8c3bda08b4a9f0a68ff1be85.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "贝西克塔斯VS贝尔谢巴工人",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:45"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/501421b05001834829899149218/playlist_eof.m3u8?t=6b09e555&us=a57ea98e8a&sign=455ae3828af68d86672cea9210fa5726"
-        ]
-      },
-      {
-        "name": "超清中文1(二)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/4604b8d15001834829797308990/playlist_eof.m3u8?t=6b09e555&us=a57ea98e8a&sign=513980d04a7926d166e0af5dcd93dde2"
-        ]
-      },
-      {
-        "name": "超清外语1(三)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a83b2a935001834829903123103/playlist_eof.m3u8?t=6b09e555&us=a57ea98e8a&sign=ef7c7b96fafdb880cc7d3e47268fb50a"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 45888,
-    "pID": "804bc770d0d7a2a510c0ad0af6093cd2",
-    "title": "沙特超 2:2",
-    "keyword": "11月27日01:30",
-    "sportItemId": "1",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "沙特超",
-    "padImg": "https://cdn.sportnanoapi.com/football/team/4e9f55c1006ca24b2b535054a52187e8.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "费萨里VS迪里耶",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日01:30"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/6c012b2a5001834829902882763/playlist_eof.m3u8?t=6b09e558&us=83146a2b64&sign=c50d0803d99c2d866444f243883c4840"
-        ]
-      }
-    ]
-  },
-  {
-    "mgdbId": 48971,
-    "pID": "1a0d954f9567a5f3aea84d6b2a385db5",
-    "title": "世亚预 52:74",
-    "keyword": "11月27日00:00",
-    "sportItemId": "2",
-    "matchStatus": "2",
-    "matchField": "",
-    "competitionName": "世亚预",
-    "padImg": "https://cdn.sportnanoapi.com/basketball/team/28d423b7ff35b08122bfaa4585931204.png",
-    "competitionLogo": "",
-    "pkInfoTitle": "卡塔尔VS韩国",
-    "modifyTitle": "",
-    "presenters": "",
-    "matchInfo": {
-      "time": "11月27日00:00"
-    },
-    "nodes": [
-      {
-        "name": "高清回放1(一)",
-        "url": [
-          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/a10cbd845001834829937141347/playlist_eof.m3u8?t=6b09e55a&us=78f2e0006c&sign=cbe32d36c182cb31e4f54606dbe51bbf"
+          "https://hello.ooo0ooo.top/replay/d5ff014avodsgp1302796787/923527165001834830046532904/playlist_eof.m3u8?t=6b0a5942&us=1d5ca6d0d9&sign=e5e095ee496eb8ed95241fe66e14978a"
         ]
       }
     ]
